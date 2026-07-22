@@ -1,0 +1,123 @@
+name: Extract GSMG Telegram context
+
+on:
+  push:
+    paths:
+      - '.github/workflows/extract_gsmg_context.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  extract:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Download and extract authenticated transcript windows
+        run: |
+          set -euo pipefail
+          mkdir -p gsmg_context
+          curl --fail --location --retry 4 \
+            'https://raw.githubusercontent.com/halbgott29a/gsmgio-5btc-puzzle/master/_work/chat_transcript.txt' \
+            --output /tmp/chat_transcript.txt
+          python3 - <<'PY'
+          import hashlib, json, re
+          from datetime import datetime
+          from pathlib import Path
+
+          raw_path = Path('/tmp/chat_transcript.txt')
+          raw = raw_path.read_text(encoding='utf-8', errors='replace')
+          out = Path('gsmg_context')
+          out.mkdir(exist_ok=True)
+
+          pat = re.compile(
+              r'^=== \[(?P<date>[^\]]+)\] (?P<sender>[^\n]*)\n'
+              r'(?P<text>.*?)(?=^=== \[|\Z)', re.M | re.S
+          )
+          msgs = []
+          for i, m in enumerate(pat.finditer(raw)):
+              d = m.group('date').strip()
+              try:
+                  dt = datetime.strptime(d, '%d.%m.%Y %H:%M:%S UTC-05:00')
+              except ValueError:
+                  dt = None
+              msgs.append({
+                  'index': i,
+                  'date': d,
+                  'datetime': dt,
+                  'sender': m.group('sender').strip(),
+                  'text': m.group('text').strip(),
+              })
+
+          def render(items):
+              return '\n\n'.join(
+                  f"=== [{m['date']}] {m['sender']}\n{m['text']}" for m in items
+              ) + ('\n' if items else '')
+
+          windows = {
+              'GAP_A.txt': (datetime(2023,8,3,14,45), datetime(2023,8,3,15,35,59)),
+              'GAP_B.txt': (datetime(2023,8,6,7,0), datetime(2023,8,6,8,1,59)),
+              'AUG_3_TO_6_WIDE.txt': (datetime(2023,8,3,14,0), datetime(2023,8,6,8,30)),
+          }
+          manifest = {
+              'source_sha256': hashlib.sha256(raw_path.read_bytes()).hexdigest(),
+              'source_bytes': raw_path.stat().st_size,
+              'source_lines': raw.count('\n') + 1,
+              'parsed_messages': len(msgs),
+              'windows': {},
+              'literal_id_hits': {},
+          }
+          for name, (a,b) in windows.items():
+              selected = [m for m in msgs if m['datetime'] and a <= m['datetime'] <= b]
+              (out/name).write_text(render(selected), encoding='utf-8')
+              manifest['windows'][name] = {
+                  'count': len(selected),
+                  'first_index': selected[0]['index'] if selected else None,
+                  'last_index': selected[-1]['index'] if selected else None,
+                  'authors': sorted({m['sender'] for m in selected}),
+              }
+
+          phrases = [
+              "Ok ok ok ok. I can't hold this one any longer.",
+              'Are you really looking for just the btc...?',
+              'Another one only 8 minutes after the last one?',
+              'Actually, the hardest part is done.',
+              'Globally supporting my generation',
+              'Once you hit a "ying yang", you\'ll be able to solve it the same day.',
+              'Both?',
+              'No need. You have all the info.',
+              'My hat off to you, and you know why',
+              'Something was solved rather... remarkable.',
+              'Partly.',
+          ]
+          contexts = []
+          for phrase in phrases:
+              hits = [i for i,m in enumerate(msgs) if phrase.lower() in m['text'].lower()]
+              contexts.append(f'##### {phrase}\n')
+              if not hits:
+                  contexts.append('NOT FOUND\n')
+              for hit in hits:
+                  lo, hi = max(0, hit-10), min(len(msgs), hit+11)
+                  contexts.append(f'Hit index {hit}; messages {lo}..{hi-1}\n\n{render(msgs[lo:hi])}')
+          (out/'PHRASE_CONTEXTS_PLUS_MINUS_10.txt').write_text('\n'.join(contexts), encoding='utf-8')
+
+          lines = raw.splitlines()
+          for mid in range(39214,39248):
+              token = str(mid)
+              manifest['literal_id_hits'][token] = [
+                  {'line': n, 'text': line}
+                  for n,line in enumerate(lines,1) if token in line
+              ]
+          (out/'MANIFEST.json').write_text(json.dumps(manifest, indent=2, ensure_ascii=False), encoding='utf-8')
+          print(json.dumps(manifest, indent=2, ensure_ascii=False))
+          PY
+
+      - name: Commit extracted evidence
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add gsmg_context
+          git commit -m 'Extract authenticated August 2023 GSMG Telegram context'
+          git push
