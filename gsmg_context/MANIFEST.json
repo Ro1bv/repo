@@ -1,0 +1,108 @@
+{
+  "source_sha256": "63a85c037b83d87e7f55f25fa65941caa39c9bd2b02396c659e22c27dc79cb78",
+  "source_bytes": 7182658,
+  "source_lines": 181126,
+  "parsed_messages": 51177,
+  "windows": {
+    "GAP_A.txt": {
+      "count": 22,
+      "first_index": 6497,
+      "last_index": 6518,
+      "authors": [
+        "ArchOptic",
+        "Deleted Account",
+        "Jrk Bgrt",
+        "Zil",
+        "stranger"
+      ]
+    },
+    "GAP_B.txt": {
+      "count": 40,
+      "first_index": 7011,
+      "last_index": 7050,
+      "authors": [
+        "0xColombo",
+        "ArchOptic",
+        "Deleted Account",
+        "Jrk Bgrt",
+        "Zil",
+        "mpeg",
+        "omaru",
+        "silver_anth"
+      ]
+    },
+    "AUG_3_TO_6_WIDE.txt": {
+      "count": 555,
+      "first_index": 6497,
+      "last_index": 7051,
+      "authors": [
+        "0xColombo",
+        "Alex",
+        "ArchOptic",
+        "Barend",
+        "Coinbaas",
+        "Deleted Account",
+        "J",
+        "Jerry",
+        "Jrk Bgrt",
+        "Legik",
+        "PoW",
+        "Pomyk",
+        "RB",
+        "Solokov Sats",
+        "Zil",
+        "mpeg",
+        "nieods",
+        "omaru",
+        "silver_anth",
+        "stranger"
+      ]
+    }
+  },
+  "literal_id_hits": {
+    "39214": [],
+    "39215": [],
+    "39216": [],
+    "39217": [],
+    "39218": [],
+    "39219": [],
+    "39220": [],
+    "39221": [],
+    "39222": [],
+    "39223": [],
+    "39224": [],
+    "39225": [],
+    "39226": [],
+    "39227": [],
+    "39228": [],
+    "39229": [],
+    "39230": [],
+    "39231": [],
+    "39232": [],
+    "39233": [],
+    "39234": [],
+    "39235": [],
+    "39236": [],
+    "39237": [],
+    "39238": [],
+    "39239": [],
+    "39240": [],
+    "39241": [],
+    "39242": [
+      {
+        "line": 180589,
+        "text": "Separate path from mask on s15 + bridge → hint_z0 → cadena3 again → unified = 3924283367293f3224242521363a0000."
+      }
+    ],
+    "39243": [],
+    "39244": [
+      {
+        "line": 30700,
+        "text": "Sum (Odd-Even for faed), IOC 0.06156392446277404, len: 272, 19 distinct chars is: mfkjhinqfjlmiolkficfeqibcnhijjjjhhkcceiiqaoidhcjdokhrrlififhcphflnigjpgnirlhrjlgmjjkohjclcnobkjnglgedjmbkkipmgqggmajfme`mib`pnfmkhnmfdpgqnphfncldhnfrarfchbghlcomjmiijkggmiimgekkkjfonokjhgfongc`hehkok`ogdjdcdiijleinjnnffk`hhokkkjlnnagf`ipdijklgbheq`ejnjlgcijpfpmiefohkccbcn"
+      }
+    ],
+    "39245": [],
+    "39246": [],
+    "39247": []
+  }
+}

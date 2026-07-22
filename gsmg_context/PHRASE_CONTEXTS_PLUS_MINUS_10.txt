@@ -1,0 +1,4395 @@
+##### Ok ok ok ok. I can't hold this one any longer.
+
+Hit index 6497; messages 6487..6507
+
+=== [25.07.2023 06:21:26 UTC-05:00] Lazy Prophet
+hello guys, it's been a long time...
+
+=== [25.07.2023 14:43:12 UTC-05:00] Ñēël
+/daysandbox_set []
+
+=== [29.07.2023 05:51:32 UTC-05:00] Deleted Account
+/daysandbox_set []
+
+=== [29.07.2023 10:53:09 UTC-05:00] ArchOptic
+Placeholder. Going to take a few more sessions to read this whole chat. Already starting to get lost...
+
+=== [29.07.2023 11:52:50 UTC-05:00] Barend
+Better start here: https://github.com/puzzlehunt/gsmgio-5btc-puzzle
+
+=== [29.07.2023 11:53:08 UTC-05:00] ArchOptic
+I've scoured that top to bottom
+
+=== [29.07.2023 11:53:25 UTC-05:00] ArchOptic
+There's alot more info here after that.
+
+=== [29.07.2023 12:03:40 UTC-05:00] Barend
+In that case you should be fairly close to resolving it! Enjoy!
+
+=== [29.07.2023 12:04:34 UTC-05:00] ArchOptic
+I am not sure this type of puzzle in in my wheelhouse. Never messed with cryptography and I need the time to familiarize with it to have a shot at solving
+
+=== [01.08.2023 19:28:18 UTC-05:00] Zil
+@SoWut [https://t.me/SoWut] please shine us some 'light'
+
+=== [03.08.2023 14:50:23 UTC-05:00] Jrk Bgrt
+Ok ok ok ok. I can't hold this one any longer.
+
+=== [03.08.2023 14:51:33 UTC-05:00] Jrk Bgrt
+Are you really looking for just the btc...?
+
+=== [03.08.2023 14:56:15 UTC-05:00] Deleted Account
+I think it's about the enigma of the puzzle tbh... considering no one has gotten past Salphaseion and phase 3.2.2 is just wild
+
+=== [03.08.2023 14:59:32 UTC-05:00] Deleted Account
+It's nearly been 6 months so I think we all deserve a mini hint if you are willing @SoWut [https://t.me/SoWut]
+
+=== [03.08.2023 15:12:24 UTC-05:00] ArchOptic
+I just got started. I'm not even ready for another hint yet lol. I've got pretty good lead on the next phase
+
+=== [03.08.2023 15:13:47 UTC-05:00] stranger
+👂
+
+=== [03.08.2023 15:17:19 UTC-05:00] Jrk Bgrt
+Another one only 8 minutes after the last one?
+
+=== [03.08.2023 15:18:17 UTC-05:00] Deleted Account
+oh oh!! cheeky move!
+
+=== [03.08.2023 15:19:53 UTC-05:00] stranger
+Matrix and prime numbers
+
+=== [03.08.2023 15:21:00 UTC-05:00] stranger
+Double hash
+
+=== [03.08.2023 15:21:11 UTC-05:00] stranger
+And… nothing
+
+Hit index 34596; messages 34586..34606
+
+=== [16.06.2025 03:30:14 UTC-05:00] Tijana🩵
+I absolutely agree with you. I don't like to see insults,puzzle is really difficult and it is not fair to call anyone dumbass if he tried something or said something different! We all try to solve it on our own ways. Looking inside and outside of the box. It might seem dumb but maybe it isn't
+
+=== [16.06.2025 03:38:47 UTC-05:00] Abraham Lincoln
+This guy just talks nonsense but you don't punish him just because he licked your ass.
+But the person who speaks with true facts, you punish him.
+you idiot @silver_anth 
+
+Show us what decryptable layers are in AES Blob
+
+=== [16.06.2025 03:42:51 UTC-05:00] silver_anth
+I have banned the Abraham Lincoln account. The account joined 10th of May, has only sent 25 angry replies and calls to ban people. No contributions to solving, or anything useful.
+
+=== [16.06.2025 03:43:34 UTC-05:00] 1
+It would be really nice to able to send messages here without getting attacked from 100 people
+
+=== [16.06.2025 03:43:48 UTC-05:00] 1
+This is probably the reason this puzzle has not been solved yet, its impossible to contribute here anything
+
+=== [16.06.2025 03:46:19 UTC-05:00] silver_anth
+That would be nice. If people are not able to nicely say that they don't agree with something someone is saying, or just treat people with respect I don't think it is helpful having them in the group
+
+=== [16.06.2025 03:46:55 UTC-05:00] X
+@silver_anth [https://t.me/silver_anth] what do you think about “btcseed…”?
+
+=== [16.06.2025 03:48:00 UTC-05:00] silver_anth
+It's an interesting phrase to get out but the steps to reach it don't seem straightforward to me
+
+=== [16.06.2025 03:48:38 UTC-05:00] 1
+@silver_anth [https://t.me/silver_anth] maybe now i can ask, was there any hint given about Salphation, or whatever its called?
+
+=== [16.06.2025 03:49:00 UTC-05:00] X
+i cant unsee it after Jrk’s hint
+
+=== [16.06.2025 03:49:00 UTC-05:00] X
+Ok ok ok ok. I can't hold this one any longer.
+
+=== [16.06.2025 03:49:00 UTC-05:00] Jrk Bgrt 03.08.2023 14:51:33
+Are you really looking for just the btc...?
+
+=== [16.06.2025 03:49:35 UTC-05:00] silver_anth
+yellow blue primes hint seems to be about salphasion
+
+=== [16.06.2025 03:49:57 UTC-05:00] silver_anth
+yeah fair enough
+
+=== [16.06.2025 03:50:16 UTC-05:00] X
+did you progressed on salph or any other phase?
+
+=== [16.06.2025 03:51:02 UTC-05:00] 1
+Its not , its about the cosmic duality (at least from my experience), but thanks for the tip
+
+=== [16.06.2025 03:51:10 UTC-05:00] silver_anth
+I think if anyone makes progress, it will be solved in a day per JrK
+
+=== [16.06.2025 03:51:36 UTC-05:00] X
+made progress today, very hype
+
+=== [16.06.2025 03:51:40 UTC-05:00] X
+i am talking about this
+
+=== [16.06.2025 03:51:56 UTC-05:00] silver_anth
+yeah was tiny
+
+=== [16.06.2025 03:52:23 UTC-05:00] X
+yeah but it was on salph or cosmic duality?
+
+##### Are you really looking for just the btc...?
+
+Hit index 6498; messages 6488..6508
+
+=== [25.07.2023 14:43:12 UTC-05:00] Ñēël
+/daysandbox_set []
+
+=== [29.07.2023 05:51:32 UTC-05:00] Deleted Account
+/daysandbox_set []
+
+=== [29.07.2023 10:53:09 UTC-05:00] ArchOptic
+Placeholder. Going to take a few more sessions to read this whole chat. Already starting to get lost...
+
+=== [29.07.2023 11:52:50 UTC-05:00] Barend
+Better start here: https://github.com/puzzlehunt/gsmgio-5btc-puzzle
+
+=== [29.07.2023 11:53:08 UTC-05:00] ArchOptic
+I've scoured that top to bottom
+
+=== [29.07.2023 11:53:25 UTC-05:00] ArchOptic
+There's alot more info here after that.
+
+=== [29.07.2023 12:03:40 UTC-05:00] Barend
+In that case you should be fairly close to resolving it! Enjoy!
+
+=== [29.07.2023 12:04:34 UTC-05:00] ArchOptic
+I am not sure this type of puzzle in in my wheelhouse. Never messed with cryptography and I need the time to familiarize with it to have a shot at solving
+
+=== [01.08.2023 19:28:18 UTC-05:00] Zil
+@SoWut [https://t.me/SoWut] please shine us some 'light'
+
+=== [03.08.2023 14:50:23 UTC-05:00] Jrk Bgrt
+Ok ok ok ok. I can't hold this one any longer.
+
+=== [03.08.2023 14:51:33 UTC-05:00] Jrk Bgrt
+Are you really looking for just the btc...?
+
+=== [03.08.2023 14:56:15 UTC-05:00] Deleted Account
+I think it's about the enigma of the puzzle tbh... considering no one has gotten past Salphaseion and phase 3.2.2 is just wild
+
+=== [03.08.2023 14:59:32 UTC-05:00] Deleted Account
+It's nearly been 6 months so I think we all deserve a mini hint if you are willing @SoWut [https://t.me/SoWut]
+
+=== [03.08.2023 15:12:24 UTC-05:00] ArchOptic
+I just got started. I'm not even ready for another hint yet lol. I've got pretty good lead on the next phase
+
+=== [03.08.2023 15:13:47 UTC-05:00] stranger
+👂
+
+=== [03.08.2023 15:17:19 UTC-05:00] Jrk Bgrt
+Another one only 8 minutes after the last one?
+
+=== [03.08.2023 15:18:17 UTC-05:00] Deleted Account
+oh oh!! cheeky move!
+
+=== [03.08.2023 15:19:53 UTC-05:00] stranger
+Matrix and prime numbers
+
+=== [03.08.2023 15:21:00 UTC-05:00] stranger
+Double hash
+
+=== [03.08.2023 15:21:11 UTC-05:00] stranger
+And… nothing
+
+=== [03.08.2023 15:27:40 UTC-05:00] Zil
+is this the hint? sorry, this puzzle made me trust noone, not even myself, so just want to be clear 😁
+
+Hit index 6951; messages 6941..6961
+
+=== [05.08.2023 19:26:27 UTC-05:00] Zil
+salphasion/salvation it checks out
+
+=== [05.08.2023 19:26:34 UTC-05:00] Zil
+in 3_2_2 we reach a door, which is the AES
+
+=== [05.08.2023 19:27:06 UTC-05:00] silver_anth
+you don't get given an AES string to decode in base64, then have to convert it to hex, then add a 00 to the end, then turn it back into base64 just to use it
+
+=== [05.08.2023 19:27:09 UTC-05:00] Zil
+but we go back to matrix, hashthetext and end up with another door
+
+=== [05.08.2023 19:27:37 UTC-05:00] Zil
+yep
+
+=== [05.08.2023 19:29:16 UTC-05:00] Zil
+what the hell was meant for 'prime basics'... reinserting prime basics
+
+=== [05.08.2023 19:30:44 UTC-05:00] silver_anth
+``The function of the you is now to return to the source codes, allowing a temporary dissemination of the code you hopefully carry, reinserting the prime basics.`` IMO I think this hints at going back to the start (source codes) and using "SHA256" - the code we carry/have learnt after this puzzle, and reinsert the prime basics (the text) into the sha256 function. which gets us to salvation
+
+=== [05.08.2023 19:32:12 UTC-05:00] silver_anth
+"After which you will be required to select from over 23 ciphers, 16 encryptions, and or 7 intertwined passwords to find the actual privatekey."
+This would then be used in salvation to decode the AES strings there or after salvation to decode the phase 3.2 AES
+
+=== [05.08.2023 19:32:35 UTC-05:00] Zil
+HUNDRED FOURTY
+
+=== [05.08.2023 19:32:59 UTC-05:00] Zil
+we might be looking for a 140 char long password, which when hashed would unlock an AES?
+
+=== [05.08.2023 19:33:52 UTC-05:00] silver_anth
+yeah I am thinking the "Are you really looking for just the btc...?" could be about
+
+=== [05.08.2023 19:34:01 UTC-05:00] Zil
+good thinking. I thought of that too
+
+=== [05.08.2023 19:35:41 UTC-05:00] Zil
+don't think it will be solved that quickly :) good night
+
+=== [05.08.2023 19:40:26 UTC-05:00] Solokov Sats
+Bruh I am going back to sleep and letting my brain finish processing before jumping in to all this lmfao, working on like 1% mental ram as is rn 😭🤝
+
+=== [05.08.2023 19:50:27 UTC-05:00] silver_anth
+with these hints from Jrk I think we may be able to decode the Cosmic Duality AES string. the hint following that had "yingyang" in it
+
+=== [05.08.2023 19:51:34 UTC-05:00] silver_anth
+https://archive.org/details/cosmicdualitymys0000time/mode/2up
+
+=== [05.08.2023 19:52:53 UTC-05:00] Zil
+I wonder what is the 'specific' thing Jrk talks about:))
+
+=== [05.08.2023 19:59:01 UTC-05:00] Zil
+need to understand this better
+
+=== [05.08.2023 19:59:42 UTC-05:00] Solokov Sats
+Maybe the real btc is the friends we made along the way
+
+=== [05.08.2023 19:59:58 UTC-05:00] Solokov Sats
+🥴👍🏼
+
+=== [05.08.2023 20:03:41 UTC-05:00] Zil
+maybe. but these friends should solve the puzzle regardless of the btc 😅
+
+Hit index 7493; messages 7483..7503
+
+=== [16.08.2023 06:15:46 UTC-05:00] ArchOptic
+I just don't have the experience with cryptography to be able to focus strictly on the clues. I spend more time learning how ciphers work so I understand how to apply solutions than actually trying solutions
+
+=== [16.08.2023 06:16:31 UTC-05:00] Solokov Sats
+But I swear with a seething determinism I will dismantle every fkn 0 & 1 that went into this. 
+
+-with teamwork! 
+
+That’s the power of frenchip.
+
+=== [16.08.2023 06:18:10 UTC-05:00] ArchOptic
+Probably the only way it will be solved is sharing information or someone with alot of brute force strength at this point
+
+=== [16.08.2023 06:18:17 UTC-05:00] Solokov Sats
+Relatable, rofl. At a certain point it’s more interesting ahaha aight gn
+
+=== [16.08.2023 06:18:40 UTC-05:00] ArchOptic
+Gn
+
+=== [16.08.2023 06:19:24 UTC-05:00] Solokov Sats
+I will share everything. Like a tour guide through a cathedral.
+
+=== [16.08.2023 09:26:36 UTC-05:00] Deleted Account
+this was referring to 3.2.2?
+
+=== [16.08.2023 22:00:44 UTC-05:00] ArchOptic
+I've tried brute forcing dbbib and all I get is nonsense 2 letter words. Both with and without replacing prime digits with 0
+
+=== [16.08.2023 22:07:54 UTC-05:00] nieods
+It's got to be really simple. jrk said "the hardest part is done", which means that the rest of salph has to be easier than what we've done so far
+
+=== [16.08.2023 22:08:43 UTC-05:00] ArchOptic
+I agree it's probably simple but it's probably also unconventional and we have a hint from previous stage on how to proceed but I can't figure out where it is and I don't have enough experience with cyphers to use intuition on it
+
+=== [16.08.2023 22:09:20 UTC-05:00] nieods
+"Are you really looking for just the btc...?" <-- this hint implies we're looking for a key. elsewhere in the puzzle "..." means replace it with the thing you need. "btc key", but the double meaning means we're looking for a key, but not a btc key
+
+=== [16.08.2023 22:09:46 UTC-05:00] nieods
+he's also said there's still another door
+
+=== [16.08.2023 22:10:46 UTC-05:00] nieods
+assuming "the rabbits nest" is the initial image, there might be something else there, however, it's not a url given that he's also said that the puzzle can be solved without the internet at this point
+
+=== [16.08.2023 22:11:33 UTC-05:00] nieods
+not sure what all the hints have to do with yin yang
+
+=== [16.08.2023 22:11:59 UTC-05:00] ArchOptic
+I think yin yang comes after dbbib and faed
+
+=== [16.08.2023 22:12:15 UTC-05:00] nieods
+yeah, possibly
+
+=== [16.08.2023 22:12:30 UTC-05:00] nieods
+I'm starting to think that dbbib doesn't "decode" to english text
+
+=== [16.08.2023 22:12:33 UTC-05:00] ArchOptic
+We wouldn't know what to do with it until we see output faed is my guess
+
+=== [16.08.2023 22:12:44 UTC-05:00] ArchOptic
+I've been thinking about the same thing
+
+=== [16.08.2023 22:12:57 UTC-05:00] nieods
+I think it's a "key" of sorts, but I'm not sure how to use it
+
+=== [16.08.2023 22:13:09 UTC-05:00] ArchOptic
+Same
+
+Hit index 14094; messages 14084..14104
+
+=== [02.01.2024 09:46:01 UTC-05:00] Danny Tee
+All in all, thanks for indulging the rookie and his ramblings. I’ve made peace with the fact that I’m not going to be the guy to crack this, but at this point I just want to see the Minotaur slain. But hey, if any of that manages to help you, feel free to hook a brotha up with your newfound riches.
+
+=== [02.01.2024 10:03:53 UTC-05:00] RB
+1GSMG is a vanity address - so there is no wallet, there are no seed words and no passphrase (at least for a wallet). Just (a) private key(s)
+
+=== [02.01.2024 10:15:50 UTC-05:00] Detective Froz
+No, the seed phrase is also possible. GSMG is too short vanity.
+
+=== [02.01.2024 10:26:15 UTC-05:00] RB
+If you want some background: the step from mnemonic to seed includes 2048 rounds of HMAC-SHA512 (as described in BIP39). Following the application of BIP32, BIP44 you reach your wallet and adresses and actual private keys. It's several magnitudes slower than a direct search for a vanity address, although possible.
+
+=== [02.01.2024 10:29:14 UTC-05:00] Detective Froz
+I agree that the seed phase address with index 0 is much difficult to find, however while you have one seed you can generate addresses with indexes 1,2,3, etc without 2048 rounds of hmac )
+
+=== [02.01.2024 10:32:59 UTC-05:00] RB
+Yeah... But how many addresses do you want to check before feeling sure you checked enough? And then restart with another seed? 
+Jrk said several times that in the end we find a private key. (And maybe some deviation for the 2nd address).
+We need dbbi/faed for some password. Then there is still cosmic and the last aes of 3.2.2. much too early to start some wild hunt for seed words.
+
+=== [02.01.2024 10:38:57 UTC-05:00] RB
+One thing i realized a couple of days ago: remember the comment/hint of Jrk about 'Infrared' when we were looking for the door to salphasion? It's meaning was to look for it below the red line in the picture. [As infrared describes the spectrum below the visible light].
+Jrk always hints with a thin layer of encoding/deception, nothing is completely direct.
+
+=== [02.01.2024 11:23:12 UTC-05:00] Danny Tee
+To be clear, I wasn’t advocating that we start a “wild seed hunt.” I’m merely hypothesizing that maybe that’s the form the penultimate step might look like. Still have to work the solve the puzzle.
+
+=== [02.01.2024 11:24:34 UTC-05:00] Danny Tee
+As to your other comment, I admit I don’t know enough about the blockchain tech to dispute that. My understanding was that it was possible to have a seed phrase for a parent wallet but an additional password to that same seed would generate a different child wallet. Again though, just one stray thought out of way too many.
+
+=== [02.01.2024 11:24:45 UTC-05:00] Danny Tee
+No need to get bogged down on it now.
+
+=== [02.01.2024 14:13:11 UTC-05:00] RB
+As i am so talkative today, i want to share my thoughts about Jrk's 'Are you really looking for just the btc...?'.
+I identified following 'looking fors' in the movies:
+1) ..or were you looking at the woman in the red dress? Look again...
+2) we are looking for the keymaker
+3) the chat between Trinity and Neo in the club:
+T: when i found him [morpheus], he told me i wasn't really looking for him... I was looking for an answer.. it's the question what drives us...
+Neo: What is the matrix? 
+Later this question is answered by Morpheus with the word 'control'.
+As you see my 'favorite' is no. 3.
+
+=== [02.01.2024 16:13:51 UTC-05:00] PoW
+Can anyone find what is the next number between these options?
+
+=== [02.01.2024 16:16:49 UTC-05:00] PoW
+I did a job test today and wasn't able to solve it. Sorry for the question here on this group, but I know there are smart guys around that maybe can get it
+
+=== [02.01.2024 18:30:34 UTC-05:00] RB
+5.9 seems to be the only element not glued to another. None of the numbers is able to keep the sequence rising. Maybe it's more a trick question.
+
+=== [02.01.2024 18:39:34 UTC-05:00] PoW
+Good guess, but maybe 5.9 is in a smaller box (not glued to another) because it has only 2 digits while the other numbers have 3 digits
+
+=== [02.01.2024 18:53:47 UTC-05:00] Aztrix
+maybe there is no right answer and the question is designed to weed out ppl that try guessing if they dont know. An employee that "guesses" when they dont know is more of a risk to employers than an employee who chooses no answer at all.
+
+=== [02.01.2024 18:57:30 UTC-05:00] PoW
+If I didn't pick any answer I couldn't go to the next question
+
+=== [02.01.2024 18:58:21 UTC-05:00] Aztrix
+Well with the additional info i would suggest my thoughts were wrong. sorry.
+
+=== [02.01.2024 18:58:44 UTC-05:00] Aztrix
+was trying to help you feel better about your decision.
+
+=== [02.01.2024 18:58:58 UTC-05:00] PoW
+Thank you
+
+=== [02.01.2024 20:05:10 UTC-05:00] Danny Tee
+I love that. “Control” thematically works as a mirror to “causality” from earlier too. Not sold on it as an answer, but it’s a cool ass idea. Maybe do a sequel puzzle, lol.
+
+Hit index 15225; messages 15215..15235
+
+=== [13.01.2024 08:43:29 UTC-05:00] Deleted Account
+but what, where how
+
+=== [13.01.2024 13:50:36 UTC-05:00] Legik
+a0j10
+
+=== [13.01.2024 13:59:34 UTC-05:00] X
+?
+
+=== [13.01.2024 14:00:40 UTC-05:00] ArchOptic
+I think he means a0z25
+
+=== [13.01.2024 14:02:57 UTC-05:00] ArchOptic
+Yep a0z25
+
+=== [13.01.2024 23:04:30 UTC-05:00] Deleted Account
+Lmfaoooooooooooooo
+
+=== [13.01.2024 23:04:39 UTC-05:00] Deleted Account
+My sides have achieved orbit
+
+=== [13.01.2024 23:04:41 UTC-05:00] Deleted Account
+Holy shit lmfao
+
+=== [13.01.2024 23:05:28 UTC-05:00] Zil
+what's her size then? 😂🤠
+
+=== [13.01.2024 23:09:18 UTC-05:00] Deleted Account
+Wait a fucking second
+
+=== [13.01.2024 23:09:19 UTC-05:00] Deleted Account
+Are you really looking for just the btc...?
+
+=== [13.01.2024 23:09:33 UTC-05:00] Deleted Account
+Holy shit you're right
+
+=== [13.01.2024 23:09:44 UTC-05:00] Deleted Account
+Dbbib and feed are fucking pointless
+
+=== [13.01.2024 23:10:32 UTC-05:00] Deleted Account
+Jrk literally told us that the answer is right in front of our eyes but we're not.seeing it
+
+=== [13.01.2024 23:10:47 UTC-05:00] Deleted Account
+As we're stuck on trying to decode something that doesn't matter.
+
+=== [13.01.2024 23:10:59 UTC-05:00] Deleted Account
+Literally the girl in the Red dress
+
+=== [13.01.2024 23:11:11 UTC-05:00] Deleted Account
+Why did that take me so long to realize
+
+=== [13.01.2024 23:12:35 UTC-05:00] Zil
+send sats once you solve. I need to feed my addictions 😂
+
+=== [13.01.2024 23:13:04 UTC-05:00] Deleted Account
+Lmfao I'll be sending a few people here a bit more than sats
+
+=== [13.01.2024 23:13:05 UTC-05:00] Deleted Account
+You included
+
+=== [13.01.2024 23:14:30 UTC-05:00] Zil
+I've done too many hours on this today. it's almost -20c outside, so technically I'm self-jailed with it
+
+Hit index 26569; messages 26559..26579
+
+=== [16.12.2024 02:51:56 UTC-05:00] 1CYPHER
+why is openPGP keys in image both public and private ?
+
+=== [16.12.2024 03:19:27 UTC-05:00] mpeg
+probably neither, that tool just finds common signatures so a lot of false positives
+
+=== [16.12.2024 04:02:43 UTC-05:00] Denis Golovkin
+Oh, is it time to share your screens?
+
+=== [16.12.2024 04:04:21 UTC-05:00] David Doak
+that's neat looking. wanna explain a bit what's going on?
+
+=== [16.12.2024 04:05:31 UTC-05:00] Denis Golovkin
+Tested if there was some data-matrix QR within any bit layer of rabbit image.
+
+=== [16.12.2024 04:06:32 UTC-05:00] Denis Golovkin
+Actually this one test was with prime blue cells inverted, as far as I remember.
+
+=== [16.12.2024 04:07:12 UTC-05:00] Denis Golovkin
+Based on this discovery.
+
+=== [16.12.2024 05:00:57 UTC-05:00] Denis Golovkin
+nice input variadity btw 👍
+
+=== [16.12.2024 10:51:21 UTC-05:00] ns
+BS
+
+=== [16.12.2024 11:49:46 UTC-05:00] Che Gevara
+Considering that the Architect (a Sage from Above) told Neo from afar that people have two choices - to leave the matrix or stay in it. And the guys from GSM from afar say in direct words that leaving this matrix with a rabbit costs 140 investments and we will not solve the puzzle. It will be very "funny" if there really is no solution. And the essence of this puzzle is making the right choice - getting out of the matrix, instead of chasing worthless trophies. And the prize is an understanding, not a decision and a reward for it.
+
+=== [16.12.2024 11:52:29 UTC-05:00] 8а70N
+Are you really looking for just the btc...?
+
+=== [16.12.2024 11:53:22 UTC-05:00] 8а70N
+Think about this. My mind is broken at this moment
+
+=== [16.12.2024 11:54:36 UTC-05:00] Che Gevara
+I also expressed the opinion that it would be too cruel if there REALLY is no solution.
+
+=== [16.12.2024 11:55:33 UTC-05:00] 8а70N
+Solutio - yes. Understanding - no.
+
+=== [16.12.2024 11:55:45 UTC-05:00] 8а70N
+It's hard
+
+=== [16.12.2024 11:56:57 UTC-05:00] 8а70N
+I'm try use only 0-1-2 phase to get understanding, but......
+
+=== [16.12.2024 11:58:36 UTC-05:00] Che Gevara
+Knowing the path and going through it is not the same thing)) I had already forgotten about this puzzle and accidentally noticed it again. The result is a dead dream and a desire to find answers. At least
+
+=== [16.12.2024 12:00:30 UTC-05:00] Che Gevara
+If there is a solution, and even more so leading to a good reward, it also has such a meaning. Bravo to the authors. But if there is none at all, even if there is, but not leading to a reward, the creators are cruel people 😂
+
+=== [16.12.2024 12:08:13 UTC-05:00] ES
+There has been too much work done on the GSMG side for this to turn out to be a joke.
+
+=== [16.12.2024 12:15:16 UTC-05:00] Che Gevara
+One of my theories for the solution is that it is necessary to somehow correctly mirror the images of the matrix, create a new one, so that the square "fefefe" serves as the entrance to the rabbit hole and as we find out how deep it is, we will find the key to the door "to the secret room of the Architect", where we will get the answers. Accordingly, we will need to use the knowledge and tips we have gained to work with encryption and numbers. I also assume that fefefe may be this room itself. But in both cases, we need to see something for the final addition of all the data we have. I am also convinced that in seed html with a post form, there is a way out into something that can finally solve and find at least one key. And it is important to understand that these are multi-stage stages - because one combination opens the lock, the other opens the door. The only thing I can't even remotely understand is why Jrk focused on key creators and their potentially erroneous approaches to storage...
+
+=== [16.12.2024 12:18:45 UTC-05:00] Che Gevara
+If you want to hide something, put it in plain sight. It seems to me that the picture initially contains something elementary, but at the same time ingenious. Once in so long, no one has really found anything except food for thought...
+
+Hit index 28032; messages 28022..28042
+
+=== [22.01.2025 07:45:11 UTC-05:00] 𝔻𝕖𝕦𝕤 ℕ𝕒𝕞𝕖
+But there is no meaningful text. I think it's just another deadend idea
+
+=== [22.01.2025 07:47:47 UTC-05:00] S | h
+yes, been shared recently too.
+someone said if wallet != empty then puzzle = not solved
+
+=== [22.01.2025 08:14:47 UTC-05:00] Deleted Account
+yo happy wots up
+
+=== [22.01.2025 08:20:41 UTC-05:00] S | h
+hi 🤙🏿
+
+=== [22.01.2025 09:27:55 UTC-05:00] Heellrzz
+Welcome to the Cosmic Duality Challenge!
+
+=== [22.01.2025 09:30:50 UTC-05:00] 𝔻𝕖𝕦𝕤 ℕ𝕒𝕞𝕖
+Do you have salph solution?
+
+=== [22.01.2025 17:31:41 UTC-05:00] Heellrzz
+Just speculation
+
+=== [23.01.2025 05:01:33 UTC-05:00] Deleted Account
+Does anyone have anything of substance to share?? Meaningful insight?? Ideas relevant to what is still being worked on?? Kik and Snapchat and even IG are great hangout spots to shoot the shit, and many websites to learn things for free, but can we be serious here about solving and post either actual progress or things that could genuinely open someone eyes to things not noticed before or ways of looking at things differently?? Just asking respectfully
+
+=== [23.01.2025 05:25:01 UTC-05:00] Denis Golovkin
+Let's discuss, how @SoWut [https://t.me/SoWut] hints to look closely at:
+PUZZLECHALLENGE1GSMG1JC9wtdSwfwApgj2xcmJPAwx7prBe
+
+=== [23.01.2025 05:26:04 UTC-05:00] Deleted Account
+What stands out to you?
+
+=== [23.01.2025 05:27:25 UTC-05:00] Denis Golovkin
+Are you really looking for just the btc...?
+
+=== [23.01.2025 05:34:25 UTC-05:00] Denis Golovkin
+I think, theoretically it could be a plaintext for dbbi part, so after reverse engineering it, we can decode faed similarly.
+It's not led me anywhere, though.
+
+=== [23.01.2025 05:42:52 UTC-05:00] X
+btc = 2 - 20 - 3 when zeroed out 223 which is a prime
+
+=== [23.01.2025 05:43:15 UTC-05:00] X
+also 2203 itself is a prime too
+
+=== [23.01.2025 05:43:42 UTC-05:00] X
+are you really looking for just 2203 (prime)?
+
+=== [23.01.2025 05:47:11 UTC-05:00] X
+this puzzle including many prime patterns
+
+=== [23.01.2025 06:24:00 UTC-05:00] P....
+What about the co-ordinates in decentraland -41, -17 even these are primes and may be for yellow and blue?
+
+=== [23.01.2025 06:24:16 UTC-05:00] P....
+How would someone substitute them?
+
+=== [23.01.2025 06:29:34 UTC-05:00] P....
+And Jrk said for some no internet required and also he mentioned that extra door is still a thing for this group
+
+=== [23.01.2025 06:30:18 UTC-05:00] P....
+What will be this extra door ? Another site? Or something else
+
+=== [23.01.2025 06:40:37 UTC-05:00] Denis Golovkin
+"no internet" is incompatible with "another site"
+
+Hit index 29346; messages 29336..29356
+
+=== [28.03.2025 19:38:00 UTC-05:00] 1008 15 1287
+Obviously not going to do that. But since I last messaged here the image is a little more stable. But still not conclusive. I’m not saying I’m near an answer or anything close, just sharing an interesting development. The PNG file outputs a colour, a version of blue, when inverted I get a version of yellow. Just ‘fyi’
+
+=== [28.03.2025 19:38:13 UTC-05:00] X
+you need progress and break Salph for next step
+
+=== [28.03.2025 19:38:18 UTC-05:00] X
+it is a clear hint from Jrk
+
+=== [28.03.2025 19:38:44 UTC-05:00] X
+i can generate an image from anything
+
+=== [28.03.2025 19:39:12 UTC-05:00] X
+you are just decoding AES with false positive passphrase and it is giving you random noises
+
+=== [28.03.2025 19:39:51 UTC-05:00] X
+with this random noise you can generate an image like any other input from anything in the universe
+
+=== [28.03.2025 19:44:46 UTC-05:00] Hey En
+/electromagnetism []
+
+=== [28.03.2025 20:12:21 UTC-05:00] Denis Golovkin
+Wonder how image get stabilized over time.
+
+=== [28.03.2025 20:16:37 UTC-05:00] 1008 15 1287
+Removing bytes that malform the file preventing it from opening in a program like photoshop that requires better file creation. Preview programs on windows and Mac tend not to be so robust.
+
+=== [28.03.2025 20:35:03 UTC-05:00] Denis Golovkin
+Probably you could look for some software like jpegsnoop, capable of detailed internal file structure analysis, but with png support.
+
+=== [29.03.2025 08:34:05 UTC-05:00] Nik
+Just some thoughts:
+
+last words before archi choice:
+"Which brings us at last to the
+moment of truth wherein the
+fundamental flaw is ultimately
+expressed and the anomaly revealed
+as both beginning and end. "
+
+anomaly
+1) yellow/blue  -  revealed as end (LSB in gsmg.io/theseedisplanted)
+,  not revealed as beginning so far.
+2) rabbit in the middle - revealed as end (end of binary from puzzle picture)
+, not revealed as beginning (should start from rabbit for 3rd door?)
+3) #fefefe [] square  - should start and end path in matrix from in this square?
+
+
+As first hint "Yellow has a number and so does Blue." was published before hint to salph door, does it mean that salph doesn't required to open 3rd door ("without further ado" also might mean that)?
+
+"matrix sumlist"  from matrix.fandom.com  "The One - "Integral Anomaly" or the SUM of all anomalies" ? Or we could get a lot of gibberish ascii 14-length strings by inserting primes or some dbbi letters into matrix and then sum/xor each row and each col
+
+"yellow blue primes" - 24 colored squares (the exact number of primes less than 91 (length of dbbi and number of zeros in matrix))
+
+anstoo - a141920 oo  (oeis.org/A141920   pretty interesting coincidence due to 16/23 numbers (SELECT FROM OVER TWENTY-THREE CIPHERS 
+SIXTEEN ENCRYPTIONS AND OR SEVEN INTERTWINED PASSWORDS) )
+
+If consider first hint as acrostic and using dcode.fr we can get "Roses has to shown Hush" (don't know how to interpret this :D)
+
+"There is
+Another
+D
+O
+O
+R"  - kinda strange spelling (same as first hint words capitalized in the middle of sentence)
+
+"yin-yang" - primes / inv primes ? idk (just some opposite stuff combined together)
+
+"Are you really looking for just the btc...?" - no clue, we just looking for salvation from this fcking matrix :D
+
+"BRUTE FORCING MIGHT BE REQUIRED" - rockyou.txt didn't help
+
+=== [29.03.2025 09:01:38 UTC-05:00] Denis Golovkin
+brilliant interpretation, specifically oo to be oeis.org
+👏
+
+=== [29.03.2025 09:13:19 UTC-05:00] gnomad
+interesting cake day
+
+=== [29.03.2025 10:49:24 UTC-05:00] gnomad
+interesting thoughts.
+I wonder if 16 / 23 in phase3.2 is connected to salph or not or if they are completely separate which would make this reference yet another bizarre coincidence.
+
+So many coincidences in this puzzle, would be nice if there was a list of wrong paths to avoid 😅
+
+Another coincidence, theres 44 primes in a141920, which matches the number of primes up to 196.
+
+=== [29.03.2025 16:56:25 UTC-05:00] Jerry
+Finally some people are posting things that are not nonsense
+
+=== [29.03.2025 19:14:56 UTC-05:00] BTC: 1KJVWM8CdjE3ca8PFwRJEEZKwUK77Zfvng ETH: 0x7E5377d21e5f5A5Ae0B332Fbb871b147e532a270
+The first AES Blob Decrypted!
+
+=== [29.03.2025 19:15:35 UTC-05:00] BTC: 1KJVWM8CdjE3ca8PFwRJEEZKwUK77Zfvng ETH: 0x7E5377d21e5f5A5Ae0B332Fbb871b147e532a270
+With openssl!
+
+=== [29.03.2025 19:19:58 UTC-05:00] Jacob
+I feel inclined to make an internet explorer joke
+
+=== [30.03.2025 06:37:49 UTC-05:00] Dante Sparda
+About 2G is more suitable here😂
+
+=== [30.03.2025 06:40:09 UTC-05:00] 1008 15 1287
+lol
+
+=== [30.03.2025 15:21:53 UTC-05:00] Nath
+... a grey elephant, a brown bear, a yellow tiger, a pink monkey,  a white rabbit, a turtle and a zebra walk into a bar...
+
+Hit index 34374; messages 34364..34384
+
+=== [12.06.2025 13:51:54 UTC-05:00] driedonnies
+@SoWut [https://t.me/SoWut] I found you on the internet.
+
+=== [12.06.2025 13:52:26 UTC-05:00] driedonnies
+This one is better 😁
+
+=== [12.06.2025 13:53:01 UTC-05:00] ES
+I think he's younger.
+
+=== [12.06.2025 13:53:28 UTC-05:00] driedonnies
+I think his soul is not.
+
+=== [12.06.2025 14:20:38 UTC-05:00] Deleted Account
+https://www.youtube.com/watch?v=layZ12XSAxA this is funny
+
+=== [12.06.2025 16:03:40 UTC-05:00] X
+congratulations, I also discovered it a few months ago.
+
+=== [12.06.2025 16:03:48 UTC-05:00] X
+I have both good and bad news
+
+=== [12.06.2025 16:04:08 UTC-05:00] X
+good news
+
+=== [12.06.2025 16:04:42 UTC-05:00] X
+bad news: I haven't made any progress in months
+
+=== [12.06.2025 16:58:57 UTC-05:00] Sycorax
+Good to know that someone else found it. It feels like whenever there is new lead, the puzzle always has something else to throw at us.
+
+=== [12.06.2025 17:13:31 UTC-05:00] X
+odds of randomly generating "btcseed" by combining two puzzle texts at the beginning are unbelievably low additionally puzzle creator literally hints "btc..." by saying "Are you really looking for just the btc...?"
+
+=== [12.06.2025 17:20:44 UTC-05:00] Sycorax
+Very much true, I told myself the same thing. I think It really comes down to how "one" interprets the hints. Not only that, but I believe the puzzle is something more then just a prize at the end. 
+
+When you do enough research you'll being to see and understand the philosophical nature of the puzzle itself, and it can truly open ones mind to these concepts. Namely, those which are outlined in The Matrix trilogy, along with understanding it's deep connections to Lewis Carroll's 'Alice in Wonderland' and 'Through the Looking-Glass' novels.
+
+=== [12.06.2025 17:22:20 UTC-05:00] Emil
+обажаю эту трилогию)
+
+=== [12.06.2025 17:40:45 UTC-05:00] X
+@silver_anth [https://t.me/silver_anth] can you check your dm?
+
+=== [12.06.2025 17:42:36 UTC-05:00] Sycorax
+Anyway, I don't really want to rant. But the the puzzle is telling us something, however "one" has to open their mind in order to understand it and see the full picture.
+
+=== [12.06.2025 18:01:48 UTC-05:00] Denis Golovkin
+Even wine contains whole lot more of typos.
+
+=== [12.06.2025 18:06:38 UTC-05:00] driedonnies
+But in a puzzle it’s kinda sloppy
+
+=== [12.06.2025 20:37:53 UTC-05:00] ..🏆🥇
+Even this wouldnt work Cause who guarente that you would belive this one who Opend his mind ?
+
+=== [12.06.2025 20:41:52 UTC-05:00] ..🏆🥇
+Maybe im stupid maybe im Not 😂😂 but i am pretty Sure that a lot of us think impossible is impossible but there is nothing impossible.
+
+=== [12.06.2025 21:00:19 UTC-05:00] Sycorax
+Well... denial is the most predictable of all human responses.
+
+=== [12.06.2025 21:02:45 UTC-05:00] Diego Schmidt
+Jrk Bgrt 2024-04-10T14:21:30
+1357 blocks to go
+
+
+
+
+survival if 1,3,5 or 7 neighbors alive and birth if 1,3,5 or 7 neighbors alive
+
+Hit index 34597; messages 34587..34607
+
+=== [16.06.2025 03:38:47 UTC-05:00] Abraham Lincoln
+This guy just talks nonsense but you don't punish him just because he licked your ass.
+But the person who speaks with true facts, you punish him.
+you idiot @silver_anth 
+
+Show us what decryptable layers are in AES Blob
+
+=== [16.06.2025 03:42:51 UTC-05:00] silver_anth
+I have banned the Abraham Lincoln account. The account joined 10th of May, has only sent 25 angry replies and calls to ban people. No contributions to solving, or anything useful.
+
+=== [16.06.2025 03:43:34 UTC-05:00] 1
+It would be really nice to able to send messages here without getting attacked from 100 people
+
+=== [16.06.2025 03:43:48 UTC-05:00] 1
+This is probably the reason this puzzle has not been solved yet, its impossible to contribute here anything
+
+=== [16.06.2025 03:46:19 UTC-05:00] silver_anth
+That would be nice. If people are not able to nicely say that they don't agree with something someone is saying, or just treat people with respect I don't think it is helpful having them in the group
+
+=== [16.06.2025 03:46:55 UTC-05:00] X
+@silver_anth [https://t.me/silver_anth] what do you think about “btcseed…”?
+
+=== [16.06.2025 03:48:00 UTC-05:00] silver_anth
+It's an interesting phrase to get out but the steps to reach it don't seem straightforward to me
+
+=== [16.06.2025 03:48:38 UTC-05:00] 1
+@silver_anth [https://t.me/silver_anth] maybe now i can ask, was there any hint given about Salphation, or whatever its called?
+
+=== [16.06.2025 03:49:00 UTC-05:00] X
+i cant unsee it after Jrk’s hint
+
+=== [16.06.2025 03:49:00 UTC-05:00] X
+Ok ok ok ok. I can't hold this one any longer.
+
+=== [16.06.2025 03:49:00 UTC-05:00] Jrk Bgrt 03.08.2023 14:51:33
+Are you really looking for just the btc...?
+
+=== [16.06.2025 03:49:35 UTC-05:00] silver_anth
+yellow blue primes hint seems to be about salphasion
+
+=== [16.06.2025 03:49:57 UTC-05:00] silver_anth
+yeah fair enough
+
+=== [16.06.2025 03:50:16 UTC-05:00] X
+did you progressed on salph or any other phase?
+
+=== [16.06.2025 03:51:02 UTC-05:00] 1
+Its not , its about the cosmic duality (at least from my experience), but thanks for the tip
+
+=== [16.06.2025 03:51:10 UTC-05:00] silver_anth
+I think if anyone makes progress, it will be solved in a day per JrK
+
+=== [16.06.2025 03:51:36 UTC-05:00] X
+made progress today, very hype
+
+=== [16.06.2025 03:51:40 UTC-05:00] X
+i am talking about this
+
+=== [16.06.2025 03:51:56 UTC-05:00] silver_anth
+yeah was tiny
+
+=== [16.06.2025 03:52:23 UTC-05:00] X
+yeah but it was on salph or cosmic duality?
+
+=== [16.06.2025 03:53:40 UTC-05:00] silver_anth
+salph
+
+Hit index 34634; messages 34624..34644
+
+=== [16.06.2025 07:58:55 UTC-05:00] GN93
+world [https://www.merriam-webster.com/thesaurus/world]
+  nature [https://www.merriam-webster.com/thesaurus/nature]
+  creation [https://www.merriam-webster.com/thesaurus/creation]
+  cosmos [https://www.merriam-webster.com/thesaurus/cosmos]
+  existence [https://www.merriam-webster.com/thesaurus/existence]
+  macrocosm [https://www.merriam-webster.com/thesaurus/macrocosm]
+  reality [https://www.merriam-webster.com/thesaurus/reality]
+Void nothingness
+
+=== [16.06.2025 09:03:24 UTC-05:00] Zil
+then show respect to others
+
+=== [16.06.2025 09:28:12 UTC-05:00] GN93
+The answer is all around you
+
+=== [16.06.2025 10:47:42 UTC-05:00] 3.14159265358979323846264338327950288419716939937510 0b1one|58209749445923078164062862089986280348253421170679
+Since its a block cipher per block decryption is possible.
+Suppose you are given an aes cipher with 6 blocks where , only n (contiguous/or not ) block are corrupted/bit flipped/ x method.
+with the correct key a partial decryption is possible.
+another partial decrypt: Corrupt IV : only block 1 is corrupted  every other block decrypt's correctly.
+
+so ye, unlikely but possible
+
+=== [16.06.2025 11:02:19 UTC-05:00] 3.14159265358979323846264338327950288419716939937510 0b1one|58209749445923078164062862089986280348253421170679
+@ate88888 [https://t.me/ate88888] I am as banned as you lmao XD dont trip
+
+=== [16.06.2025 11:28:28 UTC-05:00] Σ⸙ꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋᅠᅠᅠ𓆈⃤
+I have key B. If anyone has Key A please DM me and we can work something out.
+
+=== [16.06.2025 11:33:11 UTC-05:00] Ehsanaruoei
+A missile hit our neighborhood in Iran just now. I came to solve the Bitcoin puzzle.،😂
+
+=== [16.06.2025 12:59:21 UTC-05:00] 1008 15 1287
+dbbi is a cypher, so naturally we're thinking substitution cypher, but we've all tried it, and failed. some have double substitution cyphered it, and maybe have got somewhere, but it's so hard to think he would do that, as he's not really done that in the past. perhaps he has and that's why this stage is so hard. I have just tried a double substitution, which is taking forever, but I did manage to get the word 'key' out of the double sub that I'm using to decode dbbi. anyone else been down that road
+
+=== [16.06.2025 13:00:56 UTC-05:00] X
+"btcseeddeoemckeadhbschdkbdcsdkdvbxcpcochcrdicibqeebddbcndsbdcpdgcpdncncsescgddclenbmcuducqcacdeldzelcmefdfesdodwckbycubwbaesbwbnemedeadobrcpbgbqcoegbsenesblbtesdadpduescpcreacnckcscdcnbedkckctclbrenenccegelcncubsbgeseienduefddbackdnbsdsescrbsebblbierdvcobdccegbseobvbvcdemcpcscgeldiegdadwdycacpegenbyebcgclcrdbbrdgdbdmercncgdtcdbncfclcpdnbrbbebcnereremeldsdadlencqbochdqdgbxegcfcueeeidacieadoctdneiegdeeldeelbmckedbbeacmcodremcccmcscgdbcocmdtdlbmcdbmbmdpbsdnbsdyeoeocienbseobicbbbcncnecducibecccgdocmeedubndeelblbacpcpcmdxdxdrdgcbcmdndrddecdweadhbtdicqcpdoefdhdgdxdpciel"
+
+heres your new toy so you can work on it
+
+=== [16.06.2025 13:01:19 UTC-05:00] X
+even jrk hinted it
+
+=== [16.06.2025 13:01:19 UTC-05:00] X
+Are you really looking for just the btc...?
+
+=== [16.06.2025 13:02:12 UTC-05:00] 1008 15 1287
+that's good progres, but people have tried a million ways to decode the rest of that string and got nothing.
+
+=== [16.06.2025 13:02:58 UTC-05:00] X
+I discovered it few months ago and it is just revelead to the group few days ago. I think you are missing what you have here
+
+=== [16.06.2025 13:03:50 UTC-05:00] X
+it is a new data so not been tested in million ways
+
+=== [16.06.2025 13:03:53 UTC-05:00] 1008 15 1287
+I'm not arrogant enough to think I am able to do something you have not already done. how many substitutions have you used, how many scripts have you writtento decode this
+
+=== [16.06.2025 13:05:18 UTC-05:00] X
+I think thats where we need to leverage "prime number" that is hinted by Jrk
+
+=== [16.06.2025 13:06:06 UTC-05:00] X
+or there is another possibility the "prime" is already used when discovering "btcseed"
+
+=== [16.06.2025 13:06:34 UTC-05:00] 1008 15 1287
+btcseed followed by a string.... where do we start with primes and that
+
+=== [16.06.2025 13:06:48 UTC-05:00] X
+i mean bifid cipher prime parameter
+
+=== [16.06.2025 13:07:39 UTC-05:00] X
+i hope "prime" was not a hint for bifid cipher parameter
+
+=== [16.06.2025 13:10:45 UTC-05:00] 3.14159265358979323846264338327950288419716939937510 0b1one|58209749445923078164062862089986280348253421170679
+^
+
+Hit index 34667; messages 34657..34677
+
+=== [16.06.2025 13:18:07 UTC-05:00] 3.14159265358979323846264338327950288419716939937510 0b1one|58209749445923078164062862089986280348253421170679
+number 23 will pop again
+
+=== [16.06.2025 13:19:19 UTC-05:00] 3.14159265358979323846264338327950288419716939937510 0b1one|58209749445923078164062862089986280348253421170679
+23 g clusters of size >= 2
+
+=== [16.06.2025 13:19:19 UTC-05:00] 3.14159265358979323846264338327950288419716939937510 0b1one|58209749445923078164062862089986280348253421170679
+faedgg
+eedfcbdabhhgg
+cadcfeddgfdgbgigaaedgg
+iafaecghgg
+cdaihehahbahigceifgbfgefgaifabifagaegeacgbbeagfgg
+eegg
+afbacgfcdbeiffaafcidahgdeefghhcgg
+aegdebhhegeghcegadfbdiagefcicgg
+ifdcgaagg
+fbigaicfbhecaecbceiaicebgbgiecdegg
+fgegaedgg
+fiiciiififhgg
+cgfgdcdgg
+efcbeeigefibgibggg
+hhfbcgifdehedfdagicdbhicgaiedaehahghhcihdghfhbiicecbiichihiiigiddgehhdfdchcbafgfbhaheagegecafehgcfgggg
+cagfhhghbaihidiehhfdegg
+dgcihggggg
+hadahigigbgecgedfcdgg
+accdehiicigfbffhgg
+aeidbbeibbeiifdgfdhieeeieeecifdgdahdigg
+fhegfiaffigg
+bcbcehceabfbedbiibfbfdedeehgigfaaigg
+agbeiichiedifbehgbccahhbiibibbibdcbahaidhfahiihic
+
+=== [16.06.2025 13:23:34 UTC-05:00] X
+[dbbi] and [faed] already deciphered into "btcseeddeoemckeadhbschdkbdcsdkdvbxcpcochcrdicibqeebddbcndsbdcpdgcpdncncsescgddclenbmcuducqcacdeldzelcmefdfesdodwckbycubwbaesbwbnemedeadobrcpbgbqcoegbsenesblbtesdadpduescpcreacnckcscdcnbedkckctclbrenenccegelcncubsbgeseienduefddbackdnbsdsescrbsebblbierdvcobdccegbseobvbvcdemcpcscgeldiegdadwdycacpegenbyebcgclcrdbbrdgdbdmercncgdtcdbncfclcpdnbrbbebcnereremeldsdadlencqbochdqdgbxegcfcueeeidacieadoctdneiegdeeldeelbmckedbbeacmcodremcccmcscgdbcocmdtdlbmcdbmbmdpbsdnbsdyeoeocienbseobicbbbcncnecducibecccgdocmeedubndeelblbacpcpcmdxdxdrdgcbcmdndrddecdweadhbtdicqcpdoefdhdgdxdpciel"
+
+=== [16.06.2025 13:24:35 UTC-05:00] 3.14159265358979323846264338327950288419716939937510 0b1one|58209749445923078164062862089986280348253421170679
+you dont know
+
+=== [16.06.2025 13:24:36 UTC-05:00] X
+If they were individually decipherable, someone would have found them years ago. every cipher on the planet has already been tried on them and no result
+
+=== [16.06.2025 13:24:48 UTC-05:00] X
+im choosing most realistic option
+
+=== [16.06.2025 13:24:59 UTC-05:00] 3.14159265358979323846264338327950288419716939937510 0b1one|58209749445923078164062862089986280348253421170679
+since your dbbi only provides 9 chars at most
+
+=== [16.06.2025 13:25:18 UTC-05:00] 3.14159265358979323846264338327950288419716939937510 0b1one|58209749445923078164062862089986280348253421170679
+rest is default 25 letters alphabet
+
+=== [16.06.2025 13:25:27 UTC-05:00] 1008 15 1287
+after btcseed - the next 563 characters are going to be hard to understand.
+
+=== [16.06.2025 13:25:41 UTC-05:00] X
+finding "btcseed" randomy is 1 in 8 billion where is pretty enough for me but there is also "Are you really looking for just the btc...?" which is pointing to "btcseed..."
+
+=== [16.06.2025 13:25:52 UTC-05:00] 3.14159265358979323846264338327950288419716939937510 0b1one|58209749445923078164062862089986280348253421170679
+its still remarkable
+
+=== [16.06.2025 13:26:01 UTC-05:00] 3.14159265358979323846264338327950288419716939937510 0b1one|58209749445923078164062862089986280348253421170679
+7/9 chars give plaintext
+
+=== [16.06.2025 13:26:08 UTC-05:00] X
+also "matrix sum list" is summarize of what bifid cipher is doing
+
+=== [16.06.2025 13:26:41 UTC-05:00] 3.14159265358979323846264338327950288419716939937510 0b1one|58209749445923078164062862089986280348253421170679
+could be:
+
+=== [16.06.2025 13:27:16 UTC-05:00] X
+I just dont know if prime is required here or we already used the prime as a bifid cipher parameter
+
+=== [16.06.2025 13:27:18 UTC-05:00] 3.14159265358979323846264338327950288419716939937510 0b1one|58209749445923078164062862089986280348253421170679
+or, MATRIXSULWODBEFCHPNY missing: GKQVZ
+
+=== [16.06.2025 13:27:46 UTC-05:00] 3.14159265358979323846264338327950288419716939937510 0b1one|58209749445923078164062862089986280348253421170679
+plaintext removing repeated
+matrixsumlistlastwordsbeforeachichoicethispasswordourfirsthintisyourlastcommand
+
+=== [16.06.2025 13:30:52 UTC-05:00] X
+{btcseed} -> 7 chars
+
+{deoemckeadhbschdkbdcsdkdvbxcpcochcrdicibqeebddbcndsbdcpdgcpdncncsescgddclenbmcuducqcacdeldzelcmefdfesdodwckbycubwbaesbwbnemedeadobrcpbgbqcoegbsenesblbtesdadpduescpcreacnckcscdcnbedkckctclbrenenccegelcncubsbgeseienduefddbackdnbsdsescrbsebblbierdvcobdccegbseobvbvcdemcpcscgeldiegdadwdycacpegenbyebcgclcrdbbrdgdbdmercncgdtcdbncfclcpdnbrbbebcnereremeldsdadlencqbochdqdgbxegcfcueeeidacieadoctdneiegdeeldeelbmckedbbeacmcodremcccmcscgdbcocmdtdlbmcdbmbmdpbsdnbsdyeoeocienbseobicbbbcncnecducibecccgdocmeedubndeelblbacpcpcmdxdxdrdgcbcmdndrddecdweadhbtdicqcpdoefdhdgdxdpciel} -> 563 chars
+
+---
+
+block #103 (fefefe)
+
+103 is already prime and its nth location prime 563 also a prime
+
+=== [16.06.2025 13:31:16 UTC-05:00] X
+also interesting
+
+=== [16.06.2025 13:32:35 UTC-05:00] 3.14159265358979323846264338327950288419716939937510 0b1one|58209749445923078164062862089986280348253421170679
+prime must be a hint to b/be positions in dbbi
+
+Hit index 34968; messages 34958..34978
+
+=== [25.06.2025 07:40:43 UTC-05:00] Sycorax
+But yeah your hypothesis is quite interesting tbh
+
+=== [25.06.2025 07:41:20 UTC-05:00] Cereal Killer
+Working on it, may be dbbi or faed need to be transformed and need to apply rot13 etc
+
+=== [25.06.2025 07:43:09 UTC-05:00] 3.14159265358979323846264338327950288419716939937510 0b1one|58209749445923078164062862089986280348253421170679
+fun or fans too
+
+=== [25.06.2025 07:43:10 UTC-05:00] 3.14159265358979323846264338327950288419716939937510 0b1one|58209749445923078164062862089986280348253421170679
+SHABEFANSTOO 
+FUNORSNAFGBB
+
+FUNORSANSTOO
+SHABEFNAFGBB
+
+=== [25.06.2025 07:43:47 UTC-05:00] 3.14159265358979323846264338327950288419716939937510 0b1one|58209749445923078164062862089986280348253421170679
+fun || fans too
+
+=== [25.06.2025 07:43:49 UTC-05:00] Cereal Killer
+Yup, thats right, yeah he found but i just noticed it today
+
+=== [25.06.2025 07:45:28 UTC-05:00] Sycorax
+I mean you can try that, but I've personally threw literally everything I could at both dbbib and faed. Were talking different combinations, ciphers, brute forceing ect... You name it I probably did it.  I was only able to find maybe a few interesting pieces of plain text with the most recent being the use of a bifid cipher to get "btcseed..." out of faed, which I posted about some days ago.
+
+=== [25.06.2025 07:46:39 UTC-05:00] Cereal Killer
+Yes i do have seen it, i have seen user "X" @theseedisplanted [https://t.me/theseedisplanted]  post as well and really interesting, one chance in million
+
+=== [25.06.2025 07:49:02 UTC-05:00] Cereal Killer
+Could you please tell me which receipe you used for it ? One time pad or any transformation or key ?
+
+=== [25.06.2025 07:49:03 UTC-05:00] Sycorax
+Yeah I mean it cant just be a coincidence
+
+=== [25.06.2025 07:49:03 UTC-05:00] Sycorax
+finding "btcseed" randomy is 1 in 8 billion where is pretty enough for me but there is also "Are you really looking for just the btc...?" which is pointing to "btcseed..."
+
+=== [25.06.2025 07:49:19 UTC-05:00] Sycorax
+Lemme find it
+
+=== [25.06.2025 07:49:43 UTC-05:00] Sycorax
+Bifid Alphabet Keyword: 
+"dbbibfbhccbegbihabebeihbeggegebebbgehhebhhfbabfdhbeffcdbbfcccgbfbeeggecbedcibfbffgigbeeeabe"
+
+You could use the entirety of "dbbib" for this...
+
+Or You can just extract first 13 characters, remove the duplicates and you'll get: "dbifhceg"
+This is really all one needs for the alphabet keyword, and should be the correct way of doing it.
+
+Generated Bifid Key (J Removed): "DBIFHCEGAKLMNOPQRSTUVWXYZ"
+
+Bifid Ciphertext (All the characters of "faed"): 
+"faedggeed..."
+
+Bifid Period: 570 (Length of ciphertext)
+
+Result:
+"btcseeddeoemckeadhbschdkbdcsdkdvbxcpcochcrdicibqeebddbcndsbdcpdgcpdncncsescgddclenbmcuducqcacdeldzelcmefdfesdodwckbycubwbaesbwbnemedeadobrcpbgbqcoegbsenesblbtesdadpduescpcreacnckcscdcnbedkckctclbrenenccegelcncubsbgeseienduefddbackdnbsdsescrbsebblbierdvcobdccegbseobvbvcdemcpcscgeldiegdadwdycacpegenbyebcgclcrdbbrdgdbdmercncgdtcdbncfclcpdnbrbbebcnereremeldsdadlencqbochdqdgbxegcfcueeeidacieadoctdneiegdeeldeelbmckedbbeacmcodremcccmcscgdbcocmdtdlbmcdbmbmdpbsdnbsdyeoeocienbseobicbbbcncnecducibecccgdocmeedubndeelblbacpcpcmdxdxdrdgcbcmdndrddecdweadhbtdicqcpdoefdhdgdxdpciel"
+
+A potential find in first seven characters. Can't make this shit up!!:
+"btcseed"
+
+And then you have the rest to be solved:
+"deoemckeadhbschdkb..."
+
+I have not gotten much farther then this.
+
+=== [25.06.2025 07:50:15 UTC-05:00] Sycorax
+Proof:
+
+https://gchq.github.io/CyberChef/#recipe=Bifid_Cipher_Decode('dbifhceg')&input=ZmFlZGdnZWVkZmNiZGFiaGhnZ2NhZGNmZWRkZ2ZkZ2JnaWdhYWVkZ2dpYWZhZWNnaGdnY2RhaWhlaGFoYmFoaWdjZWlmZ2JmZ2VmZ2FpZmFiaWZhZ2FlZ2VhY2diYmVhZ2ZnZ2VlZ2dhZmJhY2dmY2RiZWlmZmFhZmNpZGFoZ2RlZWZnaGhjZ2dhZWdkZWJoaGVnZWdoY2VnYWRmYmRpYWdlZmNpY2dnaWZkY2dhYWdnZmJpZ2FpY2ZiaGVjYWVjYmNlaWFpY2ViZ2JnaWVjZGVnZ2ZnZWdhZWRnZ2ZpaWNpaWlmaWZoZ2djZ2ZnZGNkZ2dlZmNiZWVpZ2VmaWJnaWJnZ2doaGZiY2dpZmRlaGVkZmRhZ2ljZGJoaWNnYWllZGFlaGFoZ2hoY2loZGdoZmhiaWljZWNiaWljaGloaWlpZ2lkZGdlaGhkZmRjaGNiYWZnZmJoYWhlYWdlZ2VjYWZlaGdjZmdnZ2djYWdmaGhnaGJhaWhpZGllaGhmZGVnZ2RnY2loZ2dnZ2doYWRhaGlnaWdiZ2VjZ2VkZmNkZ2dhY2NkZWhpaWNpZ2ZiZmZoZ2dhZWlkYmJlaWJiZWlpZmRnZmRoaWVlZWllZWVjaWZkZ2RhaGRpZ2dmaGVnZmlhZmZpZ2diY2JjZWhjZWFiZmJlZGJpaWJmYmZkZWRlZWhnaWdmYWFpZ2dhZ2JlaWljaGllZGlmYmVoZ2JjY2FoaGJpaWJpYmJpYmRjYmFoYWlkaGZhaGlpaGlj
+
+=== [25.06.2025 07:50:58 UTC-05:00] Cereal Killer
+Thanks dude
+
+=== [25.06.2025 07:51:18 UTC-05:00] Sycorax
+Np 👌
+
+=== [25.06.2025 07:52:57 UTC-05:00] 3.14159265358979323846264338327950288419716939937510 0b1one|58209749445923078164062862089986280348253421170679
+^
+
+=== [25.06.2025 07:54:39 UTC-05:00] Sycorax
+Very true with that assertion, but I'd like to think that dbbib was probably designed that way so that "btcseed" could actually be found.
+
+=== [25.06.2025 07:56:10 UTC-05:00] Cereal Killer
+But i have more curiosity about that btc...? Hint because if JrK "red roses hint" for salphaseion then we have to map our brain with IQ of Einstein because it was too vast hint for salphaseion
+
+=== [25.06.2025 07:57:21 UTC-05:00] 3.14159265358979323846264338327950288419716939937510 0b1one|58209749445923078164062862089986280348253421170679
+the question should be why it does appear.
+
+=== [25.06.2025 08:04:08 UTC-05:00] Sycorax
+That is something I've been trying to figure out for weeks.
+
+Hit index 35125; messages 35115..35135
+
+=== [03.07.2025 17:35:39 UTC-05:00] Denis Golovkin
+Note that you have to work with original message, not with rendered (and copied from) your text editor.
+Otherwise you may copy a glyphs already decoded using wrong encoding, so that information is lost whatever step you do next.
+
+=== [03.07.2025 23:04:47 UTC-05:00] Jerry
+I can guarantee that no one is further than another an no one has discovered anything in years besides @silver_anth [https://t.me/silver_anth]
+
+=== [04.07.2025 00:49:17 UTC-05:00] Vb
+Is anyone getting a successful decryption but random binary output ?
+
+=== [04.07.2025 00:49:42 UTC-05:00] Denis Golovkin
+Once per 240 attempts
+
+=== [04.07.2025 00:50:42 UTC-05:00] Vb
+what causes it ?
+
+=== [04.07.2025 00:51:21 UTC-05:00] Vb
+I keep getting 512 bit blobs or hex dumps
+
+=== [04.07.2025 00:54:23 UTC-05:00] Vb
+Repetition of these types
+
+=== [04.07.2025 00:55:46 UTC-05:00] gnomad
+its because AES-CBC does not include authentication of the data
+
+=== [04.07.2025 00:56:37 UTC-05:00] Vb
+And then from the Beaufort it was this 
+yourlifeisthesumofaremainderofanunbalancedequationinherenttotheprogrammingofthispuzzleyouaretheeventualityofananomalywhichdespitemysinceresteffortsihavebeenunabletoeliminatefromwhatisotherwiseaharmonyofmathematicalprecisionwhileitremainsaburdentosedulouslyavoidititisnotunexpectedandthusnotbeyondameasureofcontrolwhichhasledyouinexorablyhereyouyouhaventansweredmyquestionmequiterightinterestingthatwasquickerthantheotherspleaseifyoufindawaytocompletethelastpartofthepuzzletaketheprivatekeyyouveearneditbutpleasetakethistoheartthatwhatawisemanabovehintedatisworthhundredfourtyoftheinvestmentthatswhatusguysatgsmgaretryingtoaccomplishintheendpleasejusthelpusbuilditinsteadofjustwaistingyourlifetimebyhuntingforworthlesspricesandthrophieslikethisimsorrytotellyouthatyouvecomethisfarbutyoullneverfinishthelasttaskiexpectyoutosaybullshitwelldenialisthemostpredictableofallhumanresponsesbutrestassuredthiswillnotbethelasttimeihavedestroyedarestlesssoulandihavebecomeexceedinglyefficientatitthefunctionoftheyouisnowtoreturntothesourcecodesallowingatempprarydisseminationofthecodhzkowj
+
+=== [04.07.2025 00:56:51 UTC-05:00] X
+btcseed is here for a month
+
+=== [04.07.2025 01:00:57 UTC-05:00] X
+hitting btcseed itself is already pretty low chance and Jrk’s “Are you really looking for just the btc...?” hint is proof of it
+
+=== [04.07.2025 01:01:56 UTC-05:00] 𝔻𝕖𝕦𝕤 ℕ𝕒𝕞𝕖
+This is can be nothing because we are looking for private key, not seed phrase
+
+=== [04.07.2025 01:02:26 UTC-05:00] Vb
+there another type of seed
+
+=== [04.07.2025 01:02:27 UTC-05:00] X
+it is mathematically impossible to have both btcseed and the hint randomly since the chance is under 10^80
+
+=== [04.07.2025 01:02:34 UTC-05:00] X
+theseedisplanted
+
+=== [04.07.2025 01:03:12 UTC-05:00] X
+it was second phase of the puzzle, did you ever ask same question for it
+
+=== [04.07.2025 01:03:32 UTC-05:00] Denis Golovkin
+Actually a chance is higher.
+
+=== [04.07.2025 01:03:57 UTC-05:00] 𝔻𝕖𝕦𝕤 ℕ𝕒𝕞𝕖
+I found valid seed phrase in matrix binary string and what? This is was dead end
+
+=== [04.07.2025 01:04:26 UTC-05:00] X
+why are u thinking it is related with bip39 mnemonic?
+
+=== [04.07.2025 01:04:45 UTC-05:00] X
+it is just a puzzle words like the seed is planted
+
+=== [04.07.2025 01:04:51 UTC-05:00] Vb
+It could be a cryptography seed to be used directly to start a deterministic process
+
+Hit index 36013; messages 36003..36023
+
+=== [19.07.2025 04:19:02 UTC-05:00] semaj
+how about that
+
+=== [19.07.2025 04:20:04 UTC-05:00] X
+personally, i dont think there is any mnemonic involved in the puzzle, since Jrk said its just a regular private key.
+
+=== [19.07.2025 04:20:31 UTC-05:00] semaj
+mnemonic/bip39 key chain produces a 'regular private key'
+
+=== [19.07.2025 04:20:34 UTC-05:00] semaj
+but i hear you
+
+=== [19.07.2025 04:21:00 UTC-05:00] semaj
+also if it were a mnemonic, like this - it means there are a lot of red herrings present in this puzzle
+
+=== [19.07.2025 04:21:05 UTC-05:00] X
+yeah
+
+=== [19.07.2025 04:21:22 UTC-05:00] semaj
+however
+
+=== [19.07.2025 04:21:39 UTC-05:00] semaj
+one of the hints, 'the key is right in front of you' or however it was phrased, would make sense
+
+=== [19.07.2025 04:22:11 UTC-05:00] gnomad
+theseedisplanted as well
+
+=== [19.07.2025 04:22:45 UTC-05:00] X
+thats why "btcseed" is very interesting
+
+=== [19.07.2025 04:23:47 UTC-05:00] X
+- theseedisplanted
+- Are you really looking for just the btc...?
+- combining two pure puzzle strings yields the result (btcseed) without an additional operation
+
+=== [19.07.2025 04:24:07 UTC-05:00] X
+he could say "Are you really looking for just the btc?"
+
+=== [19.07.2025 04:24:45 UTC-05:00] semaj
+all the code is on my other laptop, ill go find it and power it up in half hour
+
+=== [19.07.2025 07:40:17 UTC-05:00] Diego Schmidt
+If I split the string "dbbi" into 7 parts (the size of matrixsumlist), and use the first part as a key in faed, we get something like "btcseed...". Taking that result (the full "btcseed" string) and using it with the next part of "dbbi", we get something like "can...", and so on for the remaining parts, we get:
+
+dbbibfbhccbeg -> "btcseed..."
+bihabebeihbeg -> "bar..."
+gegebebbgehhe -> ""
+bhhfbabfdhbef -> "can..."
+fcdbbfcccgbfb -> "fee..."
+eeggecbedcibf -> ""
+bffgigbeeeabe -> ""
+```
+It’s probably just a coincidence, but all of them appear at the beginning of the text and are BIP39-valid
+
+=== [19.07.2025 07:48:08 UTC-05:00] Denis Golovkin
+Fun, that applying last 13char key one more time leads you to "gpt..." =)
+
+=== [19.07.2025 07:49:35 UTC-05:00] Denis Golovkin
+Before playing with this you may want to fix alphabet to be 25 char long a-z (except j)
+
+=== [19.07.2025 07:51:20 UTC-05:00] Denis Golovkin
+Oh, and it's designed to only encode Bifid, so, to perform a decode operation you have to specify "Encode steps" to be cycle length minus one. E.g. for 570 char input it's 263
+
+=== [19.07.2025 07:51:29 UTC-05:00] Diego Schmidt
+"archi" is only cut off in "lastwordsbeforearchichoice" so that the string has 26 characters, indicating the use of the alphabet
+
+=== [19.07.2025 09:28:44 UTC-05:00] Mr. Raid
+Rabbit 14x14 with the yellow and blue from original 14x14 added might not help or sorry if someone else has done this too
+
+=== [19.07.2025 09:29:29 UTC-05:00] Diego Schmidt
+a big rabbit
+
+=== [19.07.2025 09:30:35 UTC-05:00] Mr. Raid
+If you zoom in on the small rabbit on the main grid it’s also a 14x14 grid
+
+Hit index 37691; messages 37681..37701
+
+=== [23.08.2025 09:24:05 UTC-05:00] Mauro Etrade
+https://github.com/jackdevs66/GSMG5_CDuality
+
+=== [23.08.2025 09:24:26 UTC-05:00] Mauro Etrade
+If there is something wrong there, let me know.
+
+=== [23.08.2025 09:36:57 UTC-05:00] X
+why are you still here? please dont spam the chat
+
+=== [23.08.2025 09:37:49 UTC-05:00] R B
+😂
+
+=== [23.08.2025 09:37:59 UTC-05:00] X
+you think your decryption of the false positive is correct and asking people to prove that it is wrong. i started to believe that you don't even have a monkey brain.
+
+=== [23.08.2025 09:38:02 UTC-05:00] R B
+I reached a phase where i wish someone just solves it
+
+=== [23.08.2025 09:39:11 UTC-05:00] R B
+It was about the btc at first now im trying addicted to solve 😂
+
+=== [23.08.2025 09:40:52 UTC-05:00] 3.14159265358979323846264338327950288419716939937510 0b1one|58209749445923078164062862089986280348253421170679
+Hey. Don't let people push you down.
+You doing great , I would suggest to look into the nice side of the hunt, the learning process.
+The btc is not the real prize
+
+=== [23.08.2025 09:41:56 UTC-05:00] X
+it is not solvable. proof? 6 wasted years. There is no way to progress without a clear hint from Jrk
+
+=== [23.08.2025 09:48:27 UTC-05:00] ES
+What about btcseed? I mean, you don't see it as progress?
+
+=== [23.08.2025 09:48:56 UTC-05:00] R B
+All JRk hints i went from the beginning of the convo and checked nearly everything 
+
+
+
+Theory of everything 
+
+Another door
+
+Prime numbers 
+
+
+00100110 10100110 11001110 10010110 10110110 11110110 01001110 00001110 10011110 10000110 11101110 10000110 10100110 01101110 10010110 11100110 10100110 10101110 01001110 00101110 10000110 11001110 10010110 00001110 10100110 00101110 11001110 00101110 11001110 10000110 00110110 10011110 01001110 10100110 01101110 00101110 10010110 11100110 01110110 10010110 10100110 10100110 11001110 00101110 11110110 01110110 10100110 01001110 10101110 11110110 10011110 00101110 10101110 01000110 11001110 10100110 10011110 10100110 01001110 10101110 11110110 10011110 01100110 11110110 00101110 01110110 11110110 01001110 01100110 01110110 10010110 11001110 00101110 10010110 00100110 01001110 11110110 11101110 11001110 11001110 10000110 00001110 10100110 00010110 00101110 10011110 10000110 11101110 10000110 10100110 01101110 10010110 11100110 00101110 01110110 11110110 11101110 10100110 11101110 11100110 01110110 10000110 10011110 01110110 10010110 10011110 10100110 11000110 10010110 11110110 00010110 11000110 10010110 00010110 11000110 01001110 10000110 10100110 01001110 11110110 01100110 10100110 01000110 11001110 00100110 01001110 11110110 11101110 00101110 11001110 10000110 00110110 00101110 11001110 10010110 00110110 10110110 10101110 11001110 00011110 10010110 01001110 00101110 10000110 10110110 11001110 10100110 10110110 10010110 01001110 00001110 10100110 10101110 00110110 01000110 11101110 11110110 00110110 00110110 10100110 10011110
+
+
+reversed binary: yellowblueprimesmatrixsumlistlastwordsbeforearchichoiceyinyangwewontgiveawaythepassworditsinfrontofyoureyesbutyourenotseeingitverylaststepisatruegiveawaypromised
+
+Neo passport expiration date 09/11/2001
+
+
+Are you really looking for just the btc...?
+
+
+Probably the last hint:
+
+Once you hit a "ying yang", you'll be able to solve it the same day.
+
+=== [23.08.2025 09:49:14 UTC-05:00] R B
+I think we need a hint 😂 unless the hint is literally the finish line
+
+=== [23.08.2025 09:50:44 UTC-05:00] R B
+Cause im stuck at sal and cosmic 
+
+Like im not sure if the other door is another phase or solving 
+
+And im not manging to decrypt the openssl for cosmic in anyway 
+
+And Sal
+
+=== [23.08.2025 09:52:30 UTC-05:00] ES
+He said he didn't know what to hint at this point. We have to work with what we have (and there is plenty to think about).
+
+=== [23.08.2025 09:53:19 UTC-05:00] R B
+Will try harder
+
+=== [23.08.2025 09:53:24 UTC-05:00] Mauro Etrade
+You are very stupid and that's why you don't understand, please be quiet, let other people explore this information
+
+=== [23.08.2025 09:53:27 UTC-05:00] Mauro Etrade
+=)
+
+=== [23.08.2025 09:55:12 UTC-05:00] Mauro Etrade
+If you think there's no solution to this puzzle, I don't know what you're doing here wasting your time, monkey.
+
+=== [23.08.2025 09:55:55 UTC-05:00] Jay Gudic
+The other door may be a person. That person is me.
+
+=== [23.08.2025 09:56:19 UTC-05:00] Mauro Etrade
+Nobody is sure about this
+
+=== [23.08.2025 09:57:47 UTC-05:00] Mauro Etrade
+please don't write if you don't know what you're talking about. If anyone has a correct and verifiable method for decrypting Cosmic Duality, please write it. the other wise please stfu
+
+Hit index 43038; messages 43028..43048
+
+=== [03.01.2026 21:37:42 UTC-05:00] bitkek
+if you guys put this much effort you put for this puzzle in trading/investing you'd be all 10x richer in a few months
+
+=== [03.01.2026 21:53:19 UTC-05:00] gnomad
+True, though not everyone can get motivated by trading alone for money. The work side of it is boring af, which is a struggle for some ADHD brains.  I tried it for a few years, couldn't find consistency, its not simply just logic, there's a huge psychological side to it as well, its not easy.
+Puzzles just hit different as you're not as focused on the $, you're focused on solving which is 10x more stimulating.
+
+=== [03.01.2026 21:55:53 UTC-05:00] gnomad
+Also lot of garbage education out there, you need to discern the crap from the real knowledge
+
+=== [04.01.2026 00:11:31 UTC-05:00] Dasharo
+@piandonehalf [https://t.me/piandonehalf] 
+
+
+Row  1: 00110100101100 [tel:00110100101100]
+Row  2: 11110011101011
+Row  3: 11011101001001
+Row  4: 01101000011101
+Row  5: 01100011000110
+Row  6: 10011000100011
+Row  7: 10011100010000
+Row  8: 11100000001000  ← Hidden pixel at column 5 (row 8)
+Row  9: 00011101111101 [tel:00011101111101]
+Row 10: 11111100110001
+Row 11: 11010000011011
+Row 12: 11110010101100
+Row 13: 01011101000110
+Row 14: 01101101101011
+
+=== [04.01.2026 00:16:26 UTC-05:00] Dasharo
+original
+
+=== [04.01.2026 00:25:21 UTC-05:00] Dasharo
+Hidden pixel at (8,5) connects to EISH5
+
+EISH5
+
+E= Enter?
+
+IS = IS?
+
+H= 8
+
+5 = 5
+
+
+maybe this is too much of a reach
+
+=== [04.01.2026 00:26:20 UTC-05:00] Dasharo
+ENTER IS 85 (the col at row which is the hidden pixel in the puzzle image)
+
+=== [04.01.2026 00:26:30 UTC-05:00] Dasharo
+i could be very off or wrong, just a  thought.
+
+=== [04.01.2026 00:48:58 UTC-05:00] Dasharo
+hehe
+
+=== [04.01.2026 02:07:26 UTC-05:00] X
+it is btcseed from bifid cipher output
+
+=== [04.01.2026 02:09:28 UTC-05:00] X
+- theseedisplanted
+- Are you really looking for just the btc...?
+- combining two pure puzzle strings yields the result (btcseed) without an additional operation
+
+=== [04.01.2026 02:34:03 UTC-05:00] X
+https://gchq.github.io/CyberChef/#recipe=Bifid_Cipher_Decode('dbifhceg')&input=ZmFlZGdnZWVkZmNiZGFiaGhnZ2NhZGNmZWRkZ2ZkZ2JnaWdhYWVkZ2dpYWZhZWNnaGdnY2RhaWhlaGFoYmFoaWdjZWlmZ2JmZ2VmZ2FpZmFiaWZhZ2FlZ2VhY2diYmVhZ2ZnZ2VlZ2dhZmJhY2dmY2RiZWlmZmFhZmNpZGFoZ2RlZWZnaGhjZ2dhZWdkZWJoaGVnZWdoY2VnYWRmYmRpYWdlZmNpY2dnaWZkY2dhYWdnZmJpZ2FpY2ZiaGVjYWVjYmNlaWFpY2ViZ2JnaWVjZGVnZ2ZnZWdhZWRnZ2ZpaWNpaWlmaWZoZ2djZ2ZnZGNkZ2dlZmNiZWVpZ2VmaWJnaWJnZ2doaGZiY2dpZmRlaGVkZmRhZ2ljZGJoaWNnYWllZGFlaGFoZ2hoY2loZGdoZmhiaWljZWNiaWljaGloaWlpZ2lkZGdlaGhkZmRjaGNiYWZnZmJoYWhlYWdlZ2VjYWZlaGdjZmdnZ2djYWdmaGhnaGJhaWhpZGllaGhmZGVnZ2RnY2loZ2dnZ2doYWRhaGlnaWdiZ2VjZ2VkZmNkZ2dhY2NkZWhpaWNpZ2ZiZmZoZ2dhZWlkYmJlaWJiZWlpZmRnZmRoaWVlZWllZWVjaWZkZ2RhaGRpZ2dmaGVnZmlhZmZpZ2diY2JjZWhjZWFiZmJlZGJpaWJmYmZkZWRlZWhnaWdmYWFpZ2dhZ2JlaWljaGllZGlmYmVoZ2JjY2FoaGJpaWJpYmJpYmRjYmFoYWlkaGZhaGlpaGlj
+
+=== [04.01.2026 02:34:25 UTC-05:00] Dasharo
+interesting
+
+=== [04.01.2026 02:35:50 UTC-05:00] X
+it is not interesting, it is a progress but people dont see it
+
+=== [04.01.2026 02:36:11 UTC-05:00] X
+matrix sum list was a hint for bifid cipher
+
+=== [04.01.2026 02:36:48 UTC-05:00] X
+bifid uses polybuis square to turn each letter into cords
+
+=== [04.01.2026 02:37:31 UTC-05:00] Dasharo
+"the password is in front of your eyes but you're not seeing it"
+
+=== [04.01.2026 02:37:45 UTC-05:00] Dasharo
+this means the password is VISIBLE instead of computed
+
+=== [04.01.2026 02:38:00 UTC-05:00] X
+- write all the row numbers in a row
+
+-write all the column numbers in a row
+
+-concatenate them into one long list of digits
+
+-split into pairs again to map back through the matrix
+
+=== [04.01.2026 02:38:39 UTC-05:00] X
+“matrix sum list” ring bells with how Bifid works
+
+=== [04.01.2026 02:39:34 UTC-05:00] X
+we are not there yet
+
+Hit index 45758; messages 45748..45768
+
+=== [18.01.2026 10:43:34 UTC-05:00] X
+btcseed
+
+deoemckeadhbschdkbdcsdkdvbxcpcochcrdicibqeebddbcndsbdcpdgcpdncncsescgddclenbmcuducqcacdeld
+
+z
+
+elcmefdfesdodwckbycubwbaesbwbnemedeadobrcpbgbqcoegbsenesblbtesdadpduescpcreacnckcscdcnbedkckctclbrenenccegelcncubsbgeseienduefddbackdnbsdsescrbsebblbierdvcobdccegbseobvbvcdemcpcscgeldiegdadwdycacpegenbyebcgclcrdbbrdgdbdmercncgdtcdbncfclcpdnbrbbebcnereremeldsdadlencqbochdqdgbxegcfcueeeidacieadoctdneiegdeeldeelbmckedbbeacmcodremcccmcscgdbcocmdtdlbmcdbmbmdpbsdnbsdyeoeocienbseobicbbbcncnecducibecccgdocmeedubndeelblbacpcpcmdxdxdrdgcbcmdndrddecdweadhbtdicqcpdoefdhdgdxdpciel
+
+=== [18.01.2026 10:44:06 UTC-05:00] Alex
+i forgot where this is from
+
+=== [18.01.2026 10:44:38 UTC-05:00] X
+https://gchq.github.io/CyberChef/#recipe=Bifid_Cipher_Decode('dbifhceg')&input=ZmFlZGdnZWVkZmNiZGFiaGhnZ2NhZGNmZWRkZ2ZkZ2JnaWdhYWVkZ2dpYWZhZWNnaGdnY2RhaWhlaGFoYmFoaWdjZWlmZ2JmZ2VmZ2FpZmFiaWZhZ2FlZ2VhY2diYmVhZ2ZnZ2VlZ2dhZmJhY2dmY2RiZWlmZmFhZmNpZGFoZ2RlZWZnaGhjZ2dhZWdkZWJoaGVnZWdoY2VnYWRmYmRpYWdlZmNpY2dnaWZkY2dhYWdnZmJpZ2FpY2ZiaGVjYWVjYmNlaWFpY2ViZ2JnaWVjZGVnZ2ZnZWdhZWRnZ2ZpaWNpaWlmaWZoZ2djZ2ZnZGNkZ2dlZmNiZWVpZ2VmaWJnaWJnZ2doaGZiY2dpZmRlaGVkZmRhZ2ljZGJoaWNnYWllZGFlaGFoZ2hoY2loZGdoZmhiaWljZWNiaWljaGloaWlpZ2lkZGdlaGhkZmRjaGNiYWZnZmJoYWhlYWdlZ2VjYWZlaGdjZmdnZ2djYWdmaGhnaGJhaWhpZGllaGhmZGVnZ2RnY2loZ2dnZ2doYWRhaGlnaWdiZ2VjZ2VkZmNkZ2dhY2NkZWhpaWNpZ2ZiZmZoZ2dhZWlkYmJlaWJiZWlpZmRnZmRoaWVlZWllZWVjaWZkZ2RhaGRpZ2dmaGVnZmlhZmZpZ2diY2JjZWhjZWFiZmJlZGJpaWJmYmZkZWRlZWhnaWdmYWFpZ2dhZ2JlaWljaGllZGlmYmVoZ2JjY2FoaGJpaWJpYmJpYmRjYmFoYWlkaGZhaGlpaGlj
+
+=== [18.01.2026 10:44:47 UTC-05:00] X
+bifid(dbbi + faed)
+
+=== [18.01.2026 10:45:42 UTC-05:00] X
+"z" been intentionally placed here
+
+=== [18.01.2026 10:46:30 UTC-05:00] Alex
+looks like it, none noticed this before?
+That's very pointing to it
+
+=== [18.01.2026 10:53:34 UTC-05:00] X
+i already found btcseed long time ago but didn't notice there is only one "z" until today.
+
+=== [18.01.2026 10:54:06 UTC-05:00] X
+btcseed always had a chance to being a random noise
+
+=== [18.01.2026 10:54:19 UTC-05:00] Alex
+yeah but what kind of a chance?
+
+=== [18.01.2026 10:54:24 UTC-05:00] Alex
+lol
+
+=== [18.01.2026 10:54:33 UTC-05:00] X
+Are you really looking for just the btc...?
+
+=== [18.01.2026 10:54:58 UTC-05:00] X
+with this hint i can't accept it is a random..
+
+=== [18.01.2026 10:55:43 UTC-05:00] X
+i will calculate what are the chances of having one "z" letter
+
+=== [18.01.2026 11:09:53 UTC-05:00] Alex
+btcseed as noise is extremely unlikely
+
+=== [18.01.2026 11:10:01 UTC-05:00] Alex
+the z might be a separator
+
+=== [18.01.2026 11:27:22 UTC-05:00] X
+okay, it is pretty low chance to having "z" letter
+
+=== [18.01.2026 11:27:35 UTC-05:00] X
+i have noticed another pattern, i will wrote when i finish
+
+=== [18.01.2026 11:27:51 UTC-05:00] Alex
+the string after btcseed and before the separator is 90 in length
+
+=== [18.01.2026 11:27:56 UTC-05:00] X
+deoemckeadhbschdkbdcsdkdvbxcpcochcrdicibqeebddbcndsbdcpdgcpdncncsescgddclenbmcuducqcacdeld
+
+=== [18.01.2026 11:28:02 UTC-05:00] Alex
+there was something else that was 90 in length
+
+=== [18.01.2026 11:28:10 UTC-05:00] X
+dbbi and incase strings are 91
+
+Hit index 47535; messages 47525..47545
+
+=== [19.02.2026 18:00:19 UTC-05:00] 3.14159265358979323846264338327950288419716939937510 0b1one|58209749445923078164062862089986280348253421170679
+z has a meaning
+
+=== [19.02.2026 18:02:04 UTC-05:00] 3.14159265358979323846264338327950288419716939937510 0b1one|58209749445923078164062862089986280348253421170679
+and enter might do to, every aes has same format, except salph one
+
+=== [19.02.2026 18:04:20 UTC-05:00] 3.14159265358979323846264338327950288419716939937510 0b1one|58209749445923078164062862089986280348253421170679
+matrixsumlist: https://en.wikipedia.org/wiki/Rijndael_MixColumns
+
+only mixcols over state
+0: 30313233343536373839616263646566
+1: 3237303536333431388b65d469626768 -- mix 
+2: 38393a3b3c3d3e3f474e1e157b6c7d6e -- 2nd mix ... 
+you could apply the inverse and get back the initial plaintext
+
+=== [19.02.2026 19:37:04 UTC-05:00] N U L L 2 3 4（ミ虞囲)
+you might have somethign there
+
+=== [20.02.2026 09:19:13 UTC-05:00] 𝔻𝕖𝕣S𝕋
+Did anyone get what that last hint was? I feel like the creator needs to give us a hint just to understand that hint… No way to tell if it’s about time, the <3, or those dots. Honestly, it doesn’t make sense at all.
+
+=== [20.02.2026 09:20:49 UTC-05:00] Denis Golovkin
+Here's where you can take a broader view, I believe.
+
+=== [20.02.2026 09:56:55 UTC-05:00] Cereal Killer
+Good pun
+
+=== [20.02.2026 12:59:02 UTC-05:00] Dysto
+has the obscure intel been found?
+
+=== [22.02.2026 04:38:10 UTC-05:00] Flo Sku
+Do you still think the btcseed lead is valid, or is it just a coincidence ? 
+
+We have btcseed > short text with pairs ending in bcde > z > long text with pairs starting with bcde
+
+And the ‘yellow blue primes dbbi’ lead leaves us with the number 73 (or fefefe), perhaps this lead can be used to decrypt btcseed blocks ?
+
+=== [22.02.2026 08:26:31 UTC-05:00] Cereal Killer
+Technically "think" word is barrier in this puzzle, everyone thinks and every think concept bring new concept everyday
+
+=== [22.02.2026 23:37:28 UTC-05:00] Sycorax
+Are you really looking for just the btc...? Or just the seed...?
+
+=== [23.02.2026 02:38:27 UTC-05:00] Σ⸙ꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋᅠᅠᅠ𓆈⃤
+:O
+
+=== [23.02.2026 06:13:06 UTC-05:00] Flo Sku
+Is there any progress on the bcde pairs ?
+
+=== [23.02.2026 06:58:53 UTC-05:00] Robby
+no public progress , but who knows how far people are in private
+
+=== [23.02.2026 07:01:06 UTC-05:00] Robby
+d b b i b f b h c c b e g b i h a b e  = 4229 2628 3325 7298 ( Looks like a Visa card number )
+
+google visa from matrix and its in the architects speech "visavis love"
+
+=== [23.02.2026 07:04:50 UTC-05:00] Robby
+also anstoo = 1+14+19+20+15+15 = 84 ( could be BB84 encryption )
+
+=== [23.02.2026 07:05:47 UTC-05:00] Robby
+The BB84 protocol, named after its inventors Charles Bennett and Gilles Brassard in 1984, is a prepare-and-measure Quantum key distribution (QKD) protocol, in which, one party (e.g. Alice) performs the encoding by preparing the quantum states, and the other party (e.g., Bob) measures them.[1] The BB84 QKD scheme is the first quantum cryptography protocol, and has become one of the most well-studied QKD protocols.[2] The protocol is provably secure assuming a perfect implementation, relying on two conditions: (1) the quantum property that information gain is only possible at the expense of disturbing the signal if the two states one is trying to distinguish are not orthogonal (see no-cloning theorem); and (2) the existence of an authenticated public classical channel.[3] As such, the security of the BB84 protocol is fundamentally based on the principle that two non-orthogonal quantum states cannot be perfectly distinguished. This inherent limitation means that the states cannot be reliably copied, thereby ensuring a robust framework for secure quantum communication. The BB84 QKD protocol is usually explained as a method of securely communicating a private key from one party to another for use in one-time pad encryption.[4] The proof of BB84 QKD scheme depends on a perfect implementation. Side channel attacks exist, taking advantage of non-quantum sources of information. Since this information is non-quantum, it can be intercepted without measuring or cloning quantum particles.[5] The BB84 protocol provides a significant advancement in the field of quantum cryptography and represents a pioneering step toward achieving secure communication in the quantum era.
+
+=== [23.02.2026 09:53:22 UTC-05:00] Flo Sku
+Nice
+
+=== [23.02.2026 10:00:27 UTC-05:00] Flo Sku
+Jrk's "<3" hint could be referencing "Visavis love" from the Architect, Trinity. Love is the unifying force that bridges the two poles of cosmic duality
+
+=== [23.02.2026 10:00:34 UTC-05:00] Flo Sku
+(just messing around nvm)
+
+=== [23.02.2026 10:09:48 UTC-05:00] Sycorax
+Phase 3.2 is based on The Matrix: Reloaded movie which in turn is deeply based on the Alice Through the Looking Glass novel. 
+
+The way I came to the conclusion that the novel has something to do with the phase is from this line:
+
+"Raising the stakes without extra chances of winning. A fubcd-king & oracle-queen, thingky mvps, on a sad board but as wide as the first one seen."
+
+Remove the characters that were used in the alphabet to solve the Vic cipher and your left with this:
+
+"Raising the stakes without extra chances of winning. A -king & -queen, on a sad board but as wide as the first one seen."
+
+This entire text I interpret as having to do with a game of chess and not a straddling checkerboard as some have suggested. What is Alice Through the Looking Glass based on? A literal game of chess. 
+
+The first page of the novel includes an actual chess board ("first one seen"), the chess board includes a black king (-king) and a black queen (-queen). What is the opposite/negative of white? It's black. A chess board usually has white and black squares. This all ties into the concept of yin yang.
+
+How many pieces dose one player get in a game of chess? It is 16 which may allude to the "sixteen encryptions" that are mentioned in Phase 3.2. The chess board in the novel also has 8 pieces. With the pawn represented as Alice. When you exclude Alice your left with 7 chess pieces, which might have to do with the "seven intertwined passwords" mentioned. Alice also dose seven moves in order to get promoted to Queen.
+
+Of course this is all conjecture, so take my interpretation with a grain of salt.
+
+##### Another one only 8 minutes after the last one?
+
+Hit index 6503; messages 6493..6513
+
+=== [29.07.2023 11:53:25 UTC-05:00] ArchOptic
+There's alot more info here after that.
+
+=== [29.07.2023 12:03:40 UTC-05:00] Barend
+In that case you should be fairly close to resolving it! Enjoy!
+
+=== [29.07.2023 12:04:34 UTC-05:00] ArchOptic
+I am not sure this type of puzzle in in my wheelhouse. Never messed with cryptography and I need the time to familiarize with it to have a shot at solving
+
+=== [01.08.2023 19:28:18 UTC-05:00] Zil
+@SoWut [https://t.me/SoWut] please shine us some 'light'
+
+=== [03.08.2023 14:50:23 UTC-05:00] Jrk Bgrt
+Ok ok ok ok. I can't hold this one any longer.
+
+=== [03.08.2023 14:51:33 UTC-05:00] Jrk Bgrt
+Are you really looking for just the btc...?
+
+=== [03.08.2023 14:56:15 UTC-05:00] Deleted Account
+I think it's about the enigma of the puzzle tbh... considering no one has gotten past Salphaseion and phase 3.2.2 is just wild
+
+=== [03.08.2023 14:59:32 UTC-05:00] Deleted Account
+It's nearly been 6 months so I think we all deserve a mini hint if you are willing @SoWut [https://t.me/SoWut]
+
+=== [03.08.2023 15:12:24 UTC-05:00] ArchOptic
+I just got started. I'm not even ready for another hint yet lol. I've got pretty good lead on the next phase
+
+=== [03.08.2023 15:13:47 UTC-05:00] stranger
+👂
+
+=== [03.08.2023 15:17:19 UTC-05:00] Jrk Bgrt
+Another one only 8 minutes after the last one?
+
+=== [03.08.2023 15:18:17 UTC-05:00] Deleted Account
+oh oh!! cheeky move!
+
+=== [03.08.2023 15:19:53 UTC-05:00] stranger
+Matrix and prime numbers
+
+=== [03.08.2023 15:21:00 UTC-05:00] stranger
+Double hash
+
+=== [03.08.2023 15:21:11 UTC-05:00] stranger
+And… nothing
+
+=== [03.08.2023 15:27:40 UTC-05:00] Zil
+is this the hint? sorry, this puzzle made me trust noone, not even myself, so just want to be clear 😁
+
+=== [03.08.2023 15:28:11 UTC-05:00] Deleted Account
++1
+
+=== [03.08.2023 15:28:12 UTC-05:00] Zil
+two peanuts are better than one 🤠
+
+=== [03.08.2023 15:28:20 UTC-05:00] Jrk Bgrt
+Might be. Wish I had said nothing though.
+
+=== [03.08.2023 15:28:41 UTC-05:00] ArchOptic
+Now you get lots of questions 😂
+
+=== [03.08.2023 15:30:13 UTC-05:00] Zil
+at least the chatroom is a little more active now :-)!
+
+##### Actually, the hardest part is done.
+
+Hit index 6517; messages 6507..6527
+
+=== [03.08.2023 15:21:11 UTC-05:00] stranger
+And… nothing
+
+=== [03.08.2023 15:27:40 UTC-05:00] Zil
+is this the hint? sorry, this puzzle made me trust noone, not even myself, so just want to be clear 😁
+
+=== [03.08.2023 15:28:11 UTC-05:00] Deleted Account
++1
+
+=== [03.08.2023 15:28:12 UTC-05:00] Zil
+two peanuts are better than one 🤠
+
+=== [03.08.2023 15:28:20 UTC-05:00] Jrk Bgrt
+Might be. Wish I had said nothing though.
+
+=== [03.08.2023 15:28:41 UTC-05:00] ArchOptic
+Now you get lots of questions 😂
+
+=== [03.08.2023 15:30:13 UTC-05:00] Zil
+at least the chatroom is a little more active now :-)!
+
+=== [03.08.2023 15:30:14 UTC-05:00] Jrk Bgrt
+Exactly, should have refrained from typing earlier maybe.
+
+=== [03.08.2023 15:32:00 UTC-05:00] Deleted Account
+But you can confirm if there is indeed a 3rd door that is yet to be found right?
+
+=== [03.08.2023 15:33:50 UTC-05:00] Jrk Bgrt
+I saw that you guys got really really far already.
+
+=== [03.08.2023 15:34:24 UTC-05:00] Jrk Bgrt
+Actually, the hardest part is done.
+
+=== [03.08.2023 15:35:14 UTC-05:00] ArchOptic
+Sweet. Hopefully we can do it without more hints
+
+=== [03.08.2023 15:36:22 UTC-05:00] Zil
+I bet two years from now we'll still be asking for more peanuts 🐿️🥳
+
+=== [03.08.2023 15:37:02 UTC-05:00] ArchOptic
+I see something tangible. Just trying to piece it together
+
+=== [04.08.2023 01:23:59 UTC-05:00] ArchOptic
+Placeholder
+
+=== [04.08.2023 03:00:46 UTC-05:00] ArchOptic
+I think they were just slapped together in MS paint or something. I think the symbolism is more important and I wouldn't read too much into that. But if you feel like there's something there dig into it
+
+=== [04.08.2023 08:12:31 UTC-05:00] ArchOptic
+Don't be so literal in your interpretation of the movie
+
+=== [04.08.2023 09:21:41 UTC-05:00] Deleted Account
+Dang it!! still can't figure what it means
+
+=== [04.08.2023 09:31:03 UTC-05:00] ArchOptic
+If you don't get a bad decrypt error in openssl does that mean you got the password correct?
+
+=== [04.08.2023 09:31:39 UTC-05:00] Deleted Account
+You need to get the correctly decoded message as well
+
+=== [04.08.2023 09:33:46 UTC-05:00] ArchOptic
+We don't need more than 1 door to the encryptions as well. That's what I'm asking. Is it possible to find a password that doesn't give an error but still returns the wrong output?
+
+Hit index 12949; messages 12939..12959
+
+=== [09.11.2023 01:23:57 UTC-05:00] ArchOptic
+Mildly irritated. Hope you did solve it tho
+
+=== [09.11.2023 04:01:53 UTC-05:00] RB
+Seems to be 'solved' gordian knot style. at least in the authors imagination.
+
+=== [09.11.2023 21:22:32 UTC-05:00] Deleted Account
+okay
+
+=== [10.11.2023 01:15:59 UTC-05:00] Deleted Account
+at least a starting point with the rabbit grid... 
+
+roses are white but often red,
+yellow has a number and so does blue....
+
+^^^—need to apply this somehow—-^^^
+
+lets NOT try to include the primes 
+( i think thats why everyone is stuck, its 2 seperate things involving the colors but we all are try to do at same time)
+
+but this image of grid might help to see something new maybe or diff perspective
+
+=== [10.11.2023 10:41:52 UTC-05:00] Deleted Account
+goodluck
+
+=== [10.11.2023 14:38:56 UTC-05:00] Deleted Account
+For reference (Based on binary spiral solution for phase 0)
+
+Visualizing known elements in different ways can better help with realizing connections between things you might have thought were unrelated before... Hope these posts help
+
+=== [10.11.2023 14:58:16 UTC-05:00] Deleted Account
+so guys i left this puzzle for months maybe .. is there anything about the salf the ddbd or fead or anything new ??
+
+=== [10.11.2023 15:01:07 UTC-05:00] Deleted Account
+as far as I know man, not really... im dumping posts on here now so maybe someone might catch a new idea or see a connection and can get this going again
+
+=== [10.11.2023 15:26:26 UTC-05:00] Deleted Account
+okay guys ..
+there is a rose be white and sometimes red  .. it's called the white down rose so maybe for the puzzles picture we need to make the white color down and the The the black up and start to look for something i mean play with picture 
+
+like The Jigsaw Puzzles
+
+=== [10.11.2023 15:27:01 UTC-05:00] Deleted Account
+sometimes red i edit it
+
+=== [11.11.2023 18:26:46 UTC-05:00] X
+Actually, the hardest part is done.
+
+=== [11.11.2023 18:26:55 UTC-05:00] X
+😄
+
+=== [11.11.2023 18:27:52 UTC-05:00] Deleted Account
+thanks for the reminder, otherwise id be doin all the hard stuuf for nothing right now
+
+=== [11.11.2023 18:29:01 UTC-05:00] X
+Also the creator's telegram username is "SoWut"
+
+=== [11.11.2023 18:29:12 UTC-05:00] X
+do you think it might means something?
+
+=== [11.11.2023 18:29:39 UTC-05:00] Deleted Account
+I tried asking why Jrk and he said no hints.....
+
+=== [11.11.2023 18:30:03 UTC-05:00] Deleted Account
+might have just autoanswered tho since so many ask for hints
+
+=== [11.11.2023 18:30:07 UTC-05:00] Deleted Account
+i have myself
+
+=== [12.11.2023 01:36:23 UTC-05:00] Deleted Account
+Just for reference concerning Decentraland (Hint)
+
+" ⸮ "
+
+U+2E2E REVERSED QUESTION MARK
+UTF-8: e2 b8 ae UTF-16BE: 2e2e Decimal: &#11822; Octal: \027056
+⸮
+Category: Po (Punctuation, Other); East Asian width: N (neutral)
+Unicode block: 2E00..2E7F; Supplemental Punctuation
+Bidi: ON (Other Neutrals)
+
+=== [12.11.2023 15:36:11 UTC-05:00] Deleted Account
+the bastards war
+
+=== [12.11.2023 15:50:58 UTC-05:00] Deleted Account
+i think the decode text from this 👇
+
+U2FsdGVkX1+0Wl49gnWTyiimluu7V3+vl7st0gUt9sWDzNLxDmlPMsDSiuW2a46z
+gKlIi8aaqY5gpJPPEzW1n9n3/26qs4zstWtPKF8Zs/BTNN4IiEh4qu18mdC0NAv4
+
+
+it's gonna be this 👇
+
+"Roses are White but often Red.
+Yellow has a number and so does Blue.
+Go back to the first puzzle piece without further ado.
+
+It might have shown you only one door, beware that the  ((rab bits)) nest may contain a whole  lot more.
+
+Hush hush."
+
+
+the 3 doors are 
+
+1 - decntaland 
+2 - salphition
+3 - the theory of everything
+
+Hit index 39614; messages 39604..39624
+
+=== [12.10.2025 17:23:42 UTC-05:00] GN93
+Drop*
+
+=== [12.10.2025 17:30:30 UTC-05:00] Jay Gudic
+I wouldn't have an issue dropping it and borrowing 10k. Would pay back after I sweep.
+
+=== [12.10.2025 17:31:32 UTC-05:00] Jay Gudic
+10k would get me in a better position to finish it.
+
+=== [12.10.2025 17:31:43 UTC-05:00] GN93
+Why u pretend to have it i don’t get it
+
+=== [12.10.2025 17:31:57 UTC-05:00] Jay Gudic
+I'm still trying to make sense myself
+
+=== [12.10.2025 17:32:24 UTC-05:00] GN93
+Just drop it or just keep it for yourself
+
+=== [12.10.2025 17:33:20 UTC-05:00] GN93
+You say you check how to present it and didn’t have time now you say you still check yourself
+
+=== [12.10.2025 17:33:45 UTC-05:00] GN93
+Either you lie or you want to scam …
+
+=== [12.10.2025 17:35:28 UTC-05:00] Jay Gudic
+I've explained why I haven't dropped my findings. No where can you find me asking for anyone to pay me. I'm just a solver like you and wanna get this done.
+
+=== [12.10.2025 17:36:53 UTC-05:00] Jay Gudic
+I didn't mean to promise anything. I also didn't expect all the attacks here and in DMs. Let's just say i was wrong and have nothing.
+
+=== [12.10.2025 18:12:43 UTC-05:00] Matt
+Actually, the hardest part is done.
+
+=== [12.10.2025 18:13:11 UTC-05:00] Matt
+I don't check the website logs. There aren't any tracking scripts either. People somehow now how to reach me on telegram and PM me, that's how I know :-). Although I can't prove it, we don't monitor the puzzlers progress in any way. I just read the chat and when I notice the address is empty I'll know how they did it. After the first stage was cracked within no-time I was afraid the entire puzzle would have been solved not too long after that. When people progress in salphation it might be cracked pretty soon. Breaking salphation, should be giving the feeling of the phase's name. Won't be easy but I've noticed how clever most of you are so I assume it will be cracked at some point, probably before next halving.
+
+=== [12.10.2025 18:14:22 UTC-05:00] Matt
+Why say the hardest part is done, then say "won't be easy"
+
+=== [12.10.2025 21:37:28 UTC-05:00] Mahfooz
+The "hardest part" means cryptographically. "Won't be easy" means unless you find the right pieces.
+
+=== [12.10.2025 21:50:44 UTC-05:00] Matt
+That makes sense. But it really feels like dbbi and faed are a novel algorithm that was invented for this puzzle.
+
+=== [12.10.2025 22:10:09 UTC-05:00] Matt
+In which case I wouldn't say it's easy cryptographically either
+
+=== [13.10.2025 07:28:30 UTC-05:00] Alex
+But why does he call it salphation?
+
+=== [13.10.2025 08:28:49 UTC-05:00] Alex
+Salphation:
+
+The tribes became the nations;
+
+The nations became the enemies;
+
+The enemies became the friends;
+
+The friends became the assassins;
+
+The assassins became the saviors;
+
+The saviours became the nationals;
+
+The nationals became the nationalists.
+
+=== [13.10.2025 08:29:20 UTC-05:00] Alex
+this is a chunk found online for the salphation word
+
+=== [13.10.2025 08:52:46 UTC-05:00] Alex
+mh. 56 65
+
+=== [13.10.2025 16:29:10 UTC-05:00] Heellrzz
+Does anyone have the ability to decode an image programmed in Piet?
+
+##### Globally supporting my generation
+
+Hit index 6662; messages 6652..6672
+
+=== [04.08.2023 17:45:16 UTC-05:00] nieods
+that's encoded differently
+
+=== [04.08.2023 17:45:40 UTC-05:00] nieods
+what I did is decrypt the step to a file, then reopened the file with "ISO 8859-3" encoding
+
+=== [04.08.2023 17:48:10 UTC-05:00] nieods
+i'll see if i can get a raw hex output first
+
+=== [04.08.2023 17:50:17 UTC-05:00] nieods
+yeah, it needs encoding from the raw first
+
+=== [04.08.2023 17:53:52 UTC-05:00] nieods
+here you go: https://tinyurl.com/457bxn5s
+
+=== [04.08.2023 17:54:33 UTC-05:00] nieods
+There's still something about the capital letters I haven't figured out though
+
+=== [04.08.2023 18:10:01 UTC-05:00] Jerry
+Probably "answer too"
+
+=== [04.08.2023 18:10:26 UTC-05:00] Jerry
+Sha256 the answer
+
+=== [04.08.2023 18:21:03 UTC-05:00] Deleted Account
+.
+
+=== [04.08.2023 18:29:05 UTC-05:00] Pomyk
+Maybe the dbbib part is the "first hint"
+
+=== [04.08.2023 19:46:47 UTC-05:00] Jrk Bgrt
+"Globally supporting my generation"
+
+=== [04.08.2023 20:10:41 UTC-05:00] ArchOptic
+I had a free trial for gsmg and I never used it. I got the notification that it expired yesterday. Not even sure what it is. Trading bots?
+
+=== [04.08.2023 22:44:11 UTC-05:00] ArchOptic
+?
+
+=== [04.08.2023 22:44:55 UTC-05:00] Deleted Account
+sorry that was my cat
+
+=== [04.08.2023 22:45:10 UTC-05:00] Deleted Account
+Lol
+
+=== [04.08.2023 22:45:10 UTC-05:00] ArchOptic
+Maybe your cat has the solution
+
+=== [04.08.2023 22:45:38 UTC-05:00] Deleted Account
+haha I wish
+
+=== [05.08.2023 02:06:58 UTC-05:00] Barend
+Globally Supporting My Generation
+
+=== [05.08.2023 04:40:39 UTC-05:00] Deleted Account
+nope
+
+=== [05.08.2023 04:41:27 UTC-05:00] Deleted Account
+I personally tried substitution 1-9, 0-8, prime numbers... nothing worked though
+
+=== [05.08.2023 04:42:52 UTC-05:00] Deleted Account
+Also this was discussed a long time ago but most b's in the above blob are in prime number locations
+
+Hit index 6669; messages 6659..6679
+
+=== [04.08.2023 18:10:26 UTC-05:00] Jerry
+Sha256 the answer
+
+=== [04.08.2023 18:21:03 UTC-05:00] Deleted Account
+.
+
+=== [04.08.2023 18:29:05 UTC-05:00] Pomyk
+Maybe the dbbib part is the "first hint"
+
+=== [04.08.2023 19:46:47 UTC-05:00] Jrk Bgrt
+"Globally supporting my generation"
+
+=== [04.08.2023 20:10:41 UTC-05:00] ArchOptic
+I had a free trial for gsmg and I never used it. I got the notification that it expired yesterday. Not even sure what it is. Trading bots?
+
+=== [04.08.2023 22:44:11 UTC-05:00] ArchOptic
+?
+
+=== [04.08.2023 22:44:55 UTC-05:00] Deleted Account
+sorry that was my cat
+
+=== [04.08.2023 22:45:10 UTC-05:00] Deleted Account
+Lol
+
+=== [04.08.2023 22:45:10 UTC-05:00] ArchOptic
+Maybe your cat has the solution
+
+=== [04.08.2023 22:45:38 UTC-05:00] Deleted Account
+haha I wish
+
+=== [05.08.2023 02:06:58 UTC-05:00] Barend
+Globally Supporting My Generation
+
+=== [05.08.2023 04:40:39 UTC-05:00] Deleted Account
+nope
+
+=== [05.08.2023 04:41:27 UTC-05:00] Deleted Account
+I personally tried substitution 1-9, 0-8, prime numbers... nothing worked though
+
+=== [05.08.2023 04:42:52 UTC-05:00] Deleted Account
+Also this was discussed a long time ago but most b's in the above blob are in prime number locations
+
+=== [05.08.2023 11:37:21 UTC-05:00] Deleted Account
+there was a discussion in this group regarding this
+
+=== [05.08.2023 11:37:52 UTC-05:00] Deleted Account
+take a look at this
+
+=== [05.08.2023 11:38:55 UTC-05:00] J
+Haven’t looked at this group in forever—any recent developments?
+
+=== [05.08.2023 12:31:42 UTC-05:00] J
+It’s too frequent to be coincidence
+
+=== [05.08.2023 12:35:06 UTC-05:00] J
+Just the first 12 characters; the chances that you’d arrive at only the letter ‘b’ in the prime locations on a range of a-h is astronomical
+
+=== [05.08.2023 12:36:20 UTC-05:00] J
+‘Very close to each other’ isn’t the metric
+
+=== [05.08.2023 12:39:23 UTC-05:00] J
+*A* letter? Sure, but not the *same* letter, on all five primes and nowhere else
+
+Hit index 25826; messages 25816..25836
+
+=== [30.11.2024 16:02:52 UTC-05:00] nieods
+import into electrum, sign message with that address
+
+=== [30.11.2024 16:05:21 UTC-05:00] ⏤͟͞Mr Nobody
+How much of a bit??
+
+=== [30.11.2024 16:06:44 UTC-05:00] nieods
+i'd probably leave ~500USD worth to keep the incentive
+
+=== [30.11.2024 16:07:30 UTC-05:00] ⏤͟͞Mr Nobody
+0.1 BTC
+
+=== [30.11.2024 16:08:11 UTC-05:00] X
+man I'm just offering $1k for "dbbi" and "faed" parts
+
+=== [30.11.2024 16:08:50 UTC-05:00] X
+if anyone thinks they solved "dbbi" or "faed" can easily claim $1k in USDC from me
+
+=== [30.11.2024 16:09:32 UTC-05:00] X
+i think "dbbi" is not solvable
+
+=== [30.11.2024 16:09:36 UTC-05:00] X
+thats why I offer $1k
+
+=== [30.11.2024 16:10:11 UTC-05:00] X
+im just betting against my self
+
+=== [30.11.2024 16:20:37 UTC-05:00] Conner
+What does gsmg stand for I’m curious abt sum
+
+=== [30.11.2024 16:23:24 UTC-05:00] nieods
+"Globally supporting my generation"
+
+=== [30.11.2024 16:44:31 UTC-05:00] Conner
+I got no clue man got to the last message and brain flopped
+
+=== [30.11.2024 16:49:10 UTC-05:00] Conner
+Why do I have to prove anything to someone who doubts only man I have to prove anything to is the creator not you so now I shall think why he wants me to remember something so obvious
+
+=== [30.11.2024 16:49:27 UTC-05:00] Deleted Account
+No proof is needed
+
+=== [30.11.2024 16:49:32 UTC-05:00] Deleted Account
+Take funds
+
+=== [30.11.2024 16:49:53 UTC-05:00] Deleted Account
+Anyone who doesnt take funds but claims he solved it is just an attention seeker
+
+=== [30.11.2024 16:50:58 UTC-05:00] Deleted Account
+aight bro no one cares, shut the fuck up with the "I solved it 100%" unless the wallet funds are drained
+
+=== [30.11.2024 16:51:03 UTC-05:00] Deleted Account
+you need to stop larping
+
+=== [30.11.2024 16:51:27 UTC-05:00] Deleted Account
+if you do not want to share any "ideas" or possible "leads" that you have then stop the yapping
+
+=== [30.11.2024 16:51:50 UTC-05:00] ArchOptic
+Check GPT clown
+
+=== [30.11.2024 16:52:13 UTC-05:00] Deleted Account
+very obvious troll
+
+Hit index 39545; messages 39535..39555
+
+=== [11.10.2025 11:00:17 UTC-05:00] Jay Gudic
+Also trying to figure out this new hint
+
+=== [11.10.2025 11:00:43 UTC-05:00] Jay Gudic
+The random 2 in there is interesting
+
+=== [11.10.2025 14:33:35 UTC-05:00] Ashley Marie
+flying into the puzzle right now, did I miss anything cool recently?
+
+=== [11.10.2025 19:17:24 UTC-05:00] Jacob
+Sort of looks like gsmg logo?
+
+=== [11.10.2025 19:28:35 UTC-05:00] Jacob
+Here's another one with the logo.
+
+=== [11.10.2025 19:29:49 UTC-05:00] Jacob
+It seems like most of them are created by someone named waneella. The ones with the GSMG logo are at most 6 years old and not created by waneella, unless I am missing something.
+
+=== [11.10.2025 20:16:52 UTC-05:00] k1ng 😎
+why do you conclude that he owns them?
+
+=== [11.10.2025 20:40:34 UTC-05:00] Jay Gudic
+Sounds like he trolled you into googling pale thick boy if anything
+
+=== [11.10.2025 20:42:26 UTC-05:00] Jacob
+Probably
+
+=== [11.10.2025 21:12:15 UTC-05:00] Jay Gudic
+Probably hashed it too I'm assuming lol
+
+=== [11.10.2025 21:46:50 UTC-05:00] Jacob
+"GSMG (Globally Supporting My Generation) – Vision Statement
+We believe debt is a huge social economic problem which is something that is not recognized
+enough and should be dealt with. Our vision is that we can contribute to help reduce the debt
+problem globally.
+The platform that we have created and the earnings that will come from it will be utilized to do so,
+we aim to allocate a substantial part of our earnings in doing something that no other company has
+ever done before.
+Give back to society. Not with chump change, but with actual volume that can help and support
+people globally. We think big but will start small.
+With all of you people joining us to trade in an automated fashion and helping the crypto space as a
+whole by providing liquidity to markets, you will also be helping us help others on a much larger
+scale.
+So tell us, do you wish to trade with us and help out your fellow man?
+We hope you do
+-GSMG"
+
+=== [11.10.2025 22:29:02 UTC-05:00] Jacob
+Anyone else catch this " take full eternal and universal ownership for reality in all its
+aspects, as it may present itself from time to time subject to your conscious attention at any
+time present, past or future" in the T&C on the site?
+
+=== [11.10.2025 23:33:27 UTC-05:00] k1ng 😎
+Tell me, will you help us create more debt so that we can help the simple man or not😆😆😆
+
+=== [12.10.2025 00:50:40 UTC-05:00] Jay Gudic
+@che_gevara666 [https://t.me/che_gevara666]
+
+You wanna say that here instead?
+
+=== [12.10.2025 00:54:10 UTC-05:00] Jay Gudic
+Guy is wishing death on my family and sending all types of threats in my dms. Not the first one to harass me either since I dropped new info. This is why I am hesitant on releasing full decryption.
+
+=== [12.10.2025 00:55:41 UTC-05:00] Che Gevara
+Guys, this person is not normal. I had to send him a picture of my penis in a private message. Good luck with the puzzle 😁
+
+=== [12.10.2025 00:56:19 UTC-05:00] Che Gevara
+He asked for money in private messages and then deleted the conversation
+
+=== [12.10.2025 00:57:04 UTC-05:00] Che Gevara
+He'll be asking for it in the chat soon, so I should ban him
+
+=== [12.10.2025 00:59:00 UTC-05:00] Che Gevara
+By the way, if you remove the spaces in Salph and encrypt it using VIC. You will get a length of 1539 characters, which is the same as the Architect's speech in phase 3.2
+
+=== [12.10.2025 00:59:17 UTC-05:00] Jay Gudic
+Not gonna report the dick pics. Someone should handle this clown and all the other bs going on.
+
+=== [12.10.2025 01:00:36 UTC-05:00] Che Gevara
+So you send all the correspondence, you only sent part of it. And where do you write the first one and ask for money to give me a clue?
+
+Hit index 47276; messages 47266..47286
+
+=== [09.02.2026 16:14:29 UTC-05:00] Raven King
+Might mean nothing
+
+=== [10.02.2026 00:58:27 UTC-05:00] Focus
+I confuse on this
+
+=== [10.02.2026 01:28:19 UTC-05:00] 3.14159265358979323846264338327950288419716939937510 0b1one|58209749445923078164062862089986280348253421170679
+?
+
+=== [10.02.2026 01:44:19 UTC-05:00] Robby
+even AI is confused an hallucinates cause it cant think outside the box
+
+=== [10.02.2026 01:45:12 UTC-05:00] 3.14159265358979323846264338327950288419716939937510 0b1one|58209749445923078164062862089986280348253421170679
+what does it mean to think?
+
+=== [10.02.2026 01:58:45 UTC-05:00] Focus
+I am tinking hard sir
+
+=== [10.02.2026 02:01:18 UTC-05:00] Fyodor
+Guys
+
+=== [10.02.2026 02:01:42 UTC-05:00] Focus
+It makes me feel like brain is on fire
+
+=== [10.02.2026 02:01:43 UTC-05:00] Fyodor
+Maybe if we know the meaning of gsmg we will have a hint?
+
+=== [10.02.2026 02:02:06 UTC-05:00] Fyodor
+What is the meaning of GSMG fors anybody wonder?
+
+=== [10.02.2026 02:03:16 UTC-05:00] 3.14159265358979323846264338327950288419716939937510 0b1one|58209749445923078164062862089986280348253421170679
+"Globally supporting my generation"
+
+=== [10.02.2026 02:05:16 UTC-05:00] Fyodor
+😂😂
+
+=== [10.02.2026 02:05:33 UTC-05:00] Fyodor
+Nonsense he just lied i think
+
+=== [10.02.2026 02:06:49 UTC-05:00] Fyodor
+Maybe he lied to not give a hint
+
+=== [10.02.2026 02:06:56 UTC-05:00] 3.14159265358979323846264338327950288419716939937510 0b1one|58209749445923078164062862089986280348253421170679
+no , no  you are not thinking you are just being logical
+
+=== [10.02.2026 02:07:07 UTC-05:00] Focus
+Don't test me
+
+=== [10.02.2026 02:07:14 UTC-05:00] Fyodor
+And where is the proof that jrk owns this puzzle?
+
+=== [10.02.2026 02:07:28 UTC-05:00] Fyodor
+Are you %100 sure that he is the admin?
+
+=== [10.02.2026 02:07:33 UTC-05:00] Focus
+What if they replace him
+
+=== [10.02.2026 02:07:49 UTC-05:00] gnomad
+You're thinking is not very thorough. The messages were before the puzzle
+
+=== [10.02.2026 02:08:48 UTC-05:00] 3.14159265358979323846264338327950288419716939937510 0b1one|58209749445923078164062862089986280348253421170679
+https://help.gsmg.io/en/articles/3470554-trailing-stop-loss-orders
+
+Hit index 47328; messages 47318..47338
+
+=== [10.02.2026 02:21:40 UTC-05:00] 3.14159265358979323846264338327950288419716939937510 0b1one|58209749445923078164062862089986280348253421170679
+theres no advertising on the site
+
+=== [10.02.2026 02:21:59 UTC-05:00] 3.14159265358979323846264338327950288419716939937510 0b1one|58209749445923078164062862089986280348253421170679
+money flows through subscriptions
+
+=== [10.02.2026 02:22:21 UTC-05:00] 3.14159265358979323846264338327950288419716939937510 0b1one|58209749445923078164062862089986280348253421170679
+and fee through the bot algo
+
+=== [10.02.2026 02:22:58 UTC-05:00] 3.14159265358979323846264338327950288419716939937510 0b1one|58209749445923078164062862089986280348253421170679
+puzzle brings nothing but potential users for a very specialized target
+
+=== [10.02.2026 02:23:02 UTC-05:00] Fyodor
+With the word advertising i mean they are going to known by sort of people and achieve their profit with that
+
+=== [10.02.2026 02:23:54 UTC-05:00] Focus
+They do good numbers already they have global reach
+
+=== [10.02.2026 02:24:09 UTC-05:00] Whore Amazing
+I think they'll be good with profit if the puzzle is solved
+Personally maintaining a similar project and it does money by itself without any additional advertising campaigns besides regular platforms ads
+
+=== [10.02.2026 02:25:35 UTC-05:00] Focus
+Puzzle is designed for very strong man it seem
+
+=== [10.02.2026 02:27:43 UTC-05:00] Fyodor
+Maybe they did it for misdirection?
+
+=== [10.02.2026 02:28:08 UTC-05:00] Fyodor
+Maybe they want you to dig it
+
+=== [10.02.2026 02:28:51 UTC-05:00] Fyodor
+Who puts to his/her company name globally supporting my generation?
+
+=== [10.02.2026 02:29:12 UTC-05:00] Fyodor
+Only 5 years old kid will do it in my opinion
+
+=== [10.02.2026 02:29:57 UTC-05:00] 3.14159265358979323846264338327950288419716939937510 0b1one|58209749445923078164062862089986280348253421170679
+its globally supporting his wealth generation
+
+=== [10.02.2026 02:30:23 UTC-05:00] Fyodor
+And my theory is i don't know GS but MG can be MEGANIGMA which they put and delete in 2019
+
+=== [10.02.2026 02:33:18 UTC-05:00] 3.14159265358979323846264338327950288419716939937510 0b1one|58209749445923078164062862089986280348253421170679
+its still there , downgrade https://gsmg.io/puzzle to http://gsmg.io/Puzzle 1 upper
+
+=== [10.02.2026 02:34:18 UTC-05:00] Fyodor
+Yeah i know at first it was with lower case only
+
+=== [10.02.2026 02:34:28 UTC-05:00] Fyodor
+Then they changed it
+
+=== [10.02.2026 02:35:46 UTC-05:00] 3.14159265358979323846264338327950288419716939937510 0b1one|58209749445923078164062862089986280348253421170679
+yeah but puzzle seems to be the same since the beginning
+
+=== [10.02.2026 02:36:13 UTC-05:00] Focus
+What about before
+
+=== [10.02.2026 02:36:17 UTC-05:00] Focus
+Before Puzzle
+
+=== [10.02.2026 02:37:08 UTC-05:00] 3.14159265358979323846264338327950288419716939937510 0b1one|58209749445923078164062862089986280348253421170679
+meganigma page  is a hidden route catching  over 'not found page'
+
+Hit index 47445; messages 47435..47455
+
+=== [16.02.2026 21:47:13 UTC-05:00] N U L L 2 3 4（ミ虞囲)
+and to sum up a matrice we need 2 of them no other way so we need to get a second one first
+
+=== [16.02.2026 21:47:15 UTC-05:00] Denis Golovkin
+Yeah, man. Google how to sum matrices. That's a deal.
+
+=== [16.02.2026 21:47:34 UTC-05:00] N U L L 2 3 4（ミ虞囲)
+we already have one
+
+=== [16.02.2026 21:47:38 UTC-05:00] Denis Golovkin
+And first one second. Sure.
+
+=== [16.02.2026 21:48:02 UTC-05:00] N U L L 2 3 4（ミ虞囲)
+are you understandign what im talking about it doesnt seem so?
+
+=== [16.02.2026 21:48:37 UTC-05:00] Denis Golovkin
+I'm not. Sorry. I'll better keep silence.
+
+=== [16.02.2026 21:54:33 UTC-05:00] Denis Golovkin
+Tbh, I wonder if that's an artful LLM-driven bot or just a fury-fingers alwasy messign wiht lats tow charactesr.
+
+=== [16.02.2026 21:56:43 UTC-05:00] N U L L 2 3 4（ミ虞囲)
+you mean me?
+
+=== [16.02.2026 21:57:11 UTC-05:00] N U L L 2 3 4（ミ虞囲)
+i dont understand xd
+
+=== [17.02.2026 09:15:52 UTC-05:00] N U L L 2 3 4（ミ虞囲)
+just scrolling up this chat history is so funny hahahaha
+
+=== [17.02.2026 13:00:20 UTC-05:00] Bitcoin
+GSMG -> globally supporting my generation
+
+supporting the generation of his seed globally
+
+=== [17.02.2026 18:10:04 UTC-05:00] gnosis
+Hello i successfully decrypted:
+✅ AES SalPhaseIon (XX bytes recovered)
+✅ AES Phase 3.2 (XX bytes recovered)
+✅ VIC Cipher 33 chars (full message)
+✅ XOR Fusion generates "1G..." addresses (close to target 1GSMG...)
+I'm 1 step away from the final private key but missing a key piece of data. If anyone has the info to complete the final step, we split the prize 50/50.
+
+=== [17.02.2026 18:12:16 UTC-05:00] Whore Amazing
+If anyone has the info to complete the final step why would they share it with a desperate lying info beggar
+
+=== [17.02.2026 18:12:38 UTC-05:00] Anton
+You decrypted this one?
+
+U2FsdGVkX1+0Wl49gnWTyiimluu7V3+vl7st0gUt9sWDzNLxDmlPMsDSiuW2a46z
+gKlIi8aaqY5gpJPPEzW1n9n3/26qs4zstWtPKF8Zs/BTNN4IiEh4qu18mdC0NAv4
+
+=== [17.02.2026 18:12:56 UTC-05:00] Anton
+Or this one .... also?
+
+U2FsdGVkX186tYU0hVJBXXUnBUO7C0+X4KUWnWkCvoZSxbRD3wNsGWVHefvdrd9z
+QvX0t8v3jPB4okpspxebRi6sE1BMl5HI8Rku+KejUqTvdWOX6nQjSpepXwGuN/jJ
+
+=== [17.02.2026 18:12:58 UTC-05:00] nieods
+did YOU decrypt it, or did an LLM?
+
+=== [17.02.2026 18:13:12 UTC-05:00] N U L L 2 3 4（ミ虞囲)
+sounds liek an llm xd
+
+=== [17.02.2026 18:13:24 UTC-05:00] Anton
+if yes - how did you identified that you actually decrypted it
+
+=== [17.02.2026 18:14:59 UTC-05:00] Denis Golovkin
+It can't be LLM, cause:
+✅ There is no any signs of LLM
+✅ XX bytes is serious thing
+✅ Address is made by XOR fusion
+
+=== [17.02.2026 18:25:04 UTC-05:00] gnosis
+No, that's just the beginning. I decrypted several payloads and several bin files that I'm not going to mention.
+
+=== [17.02.2026 18:25:36 UTC-05:00] nieods
+AES decryption is all or nothing
+
+Hit index 48442; messages 48432..48452
+
+=== [13.04.2026 00:36:09 UTC-05:00] Cereal Killer
+Einverstanden, aber wir hören nicht zu.
+
+=== [13.04.2026 00:40:32 UTC-05:00] 3.14159265358979323846264338327950288419716939937510 0b1one|58209749445923078164062862089986280348253421170679
+what happened to pk?
+
+=== [13.04.2026 01:04:27 UTC-05:00] Joel
+I test a lots of things
+
+=== [13.04.2026 03:53:09 UTC-05:00] Worldmaker
+👏🏻BWV 140, gefühlt aber BWV 82
+
+=== [13.04.2026 06:44:39 UTC-05:00] Alex
+any hint about dbbib or faed ?
+
+=== [13.04.2026 07:46:47 UTC-05:00] Flo Sku
+https://gchq.github.io/CyberChef/#recipe=Bifid_Cipher_Decode('dbifhceg')&input=ZmFlZGdnZWVkZmNiZGFiaGhnZ2NhZGNmZWRkZ2ZkZ2JnaWdhYWVkZ2dpYWZhZWNnaGdnY2RhaWhlaGFoYmFoaWdjZWlmZ2JmZ2VmZ2FpZmFiaWZhZ2FlZ2VhY2diYmVhZ2ZnZ2VlZ2dhZmJhY2dmY2RiZWlmZmFhZmNpZGFoZ2RlZWZnaGhjZ2dhZWdkZWJoaGVnZWdoY2VnYWRmYmRpYWdlZmNpY2dnaWZkY2dhYWdnZmJpZ2FpY2ZiaGVjYWVjYmNlaWFpY2ViZ2JnaWVjZGVnZ2ZnZWdhZWRnZ2ZpaWNpaWlmaWZoZ2djZ2ZnZGNkZ2dlZmNiZWVpZ2VmaWJnaWJnZ2doaGZiY2dpZmRlaGVkZmRhZ2ljZGJoaWNnYWllZGFlaGFoZ2hoY2loZGdoZmhiaWljZWNiaWljaGloaWlpZ2lkZGdlaGhkZmRjaGNiYWZnZmJoYWhlYWdlZ2VjYWZlaGdjZmdnZ2djYWdmaGhnaGJhaWhpZGllaGhmZGVnZ2RnY2loZ2dnZ2doYWRhaGlnaWdiZ2VjZ2VkZmNkZ2dhY2NkZWhpaWNpZ2ZiZmZoZ2dhZWlkYmJlaWJiZWlpZmRnZmRoaWVlZWllZWVjaWZkZ2RhaGRpZ2dmaGVnZmlhZmZpZ2diY2JjZWhjZWFiZmJlZGJpaWJmYmZkZWRlZWhnaWdmYWFpZ2dhZ2JlaWljaGllZGlmYmVoZ2JjY2FoaGJpaWJpYmJpYmRjYmFoYWlkaGZhaGlpaGlj
+
+=== [13.04.2026 07:57:12 UTC-05:00] Flo Sku
+Also, in the dbbi string, you can replace the B and BE, in order and by counting them, with prime numbers (d B[2] B[3] i B[5] f B[7]…). This matches the blue and yellow squares in the puzzle image (counter clockwise, B for blue and BE for yellow), with one extra prime number (73) in place of the very light grey square (fefefe). That fits the creator’s hint "yellow blue primes" but it seems we haven’t found how to go further yet.
+
+=== [13.04.2026 08:51:39 UTC-05:00] Cereal Killer
+RIP last friday
+
+=== [13.04.2026 10:23:04 UTC-05:00] Alex
+It worked! But No clue how to use the result of that... this puzzle...
+
+=== [13.04.2026 10:56:59 UTC-05:00] Flo Sku
+Unfortunately 😔
+
+=== [13.04.2026 11:25:35 UTC-05:00] X
+All Good Things Come To An End.
+
+The End of GSMG Our 9 Year Chaos Tour Is Officially Over, But the Stories Stay… Forever.
+
+
+Hey legends.
+After almost nine years of pure madness, caffeine overdoses and more red candles than any human should endure, it is time to turn the lights off.
+But before we do, grab a drink, get comfortable and let me tell you the whole stupid story straight from the idiots who lived it. It all started in 2017. JRK was visiting Sydney with the better half. Instead of playing tourist like a normal person, he locked himself in a living room for nine straight days. Zero high-end programming skills. Just Siemens PLC code, some HTML, Quake 3 scripting and a bit of Pascal. He built the entire bot from scratch as one single terrifying, never-ending script. No functions. No classes. Just pure chaos and hope.
+On June 10th at around 8:30 in the morning, the first order actually hit Poloniex servers. It somehow worked, albeit that the ATH of rising markets wasn’t overwritten, thus we started by selling for a loss. The very first name for this script was MR. ROIbot. And right there on that same day, d0d was already in the mix (he already knew infrastructure expert Darky, too). Greengras hooked us up with the very first server space, and the experienced algotrading coder Bloctite joined shortly after and basically saved our lives by rewriting the ENTIRE codebase (Python plus Cython, and currently basically bug-free). 1 idiot and 3 professionals with complementary skills, a host, and one big stupid dream. What could go wrong?
+The reason it all started? JRK and d0d had just used another bot run by a scammer called fuzzyhobbit and thought nope. We are doing this the right way for everybody. That disrespect for the old banking system? Still burns to this day. And that is literally where Globally Supporting My Generation came from. An old friend's group name was reused and suddenly became a mission. Give the power back to the little guy.
+A little later, JRK got inspired by other crypto puzzles and spent two sloppy days throwing one together. Full of grammatical mistakes and zero polish. Sorry about the mental damage. That thing is still running, and we are keeping it alive. In 40 years, he might admit he forgot how to solve it himself. The torture continues. You are welcome.
+The early days were absolutely mental. Within the first few days, we were already handling around 8 million dollars in value. The market analyser and trading engine we built back then were absolute beasts; they’ve been running nearly flawlessly ever since.
+We wanted to offer a proper high-end portfolio management tool to the little guy at stupidly low prices. That was always the point. (And yes, now in 2026, AI can do the same thing in one shot if you’re a prompt genius with decent subscriptions and setups. Thanks for nothing, future.)
+Here is the part nobody likes to say out loud.
+We never paid ourselves a single cent of salary in all these years. We had exactly one team dinner funded by GSMG. One. That is it. (Admittedly, it was a very nice dinner.) Every single subscription went straight into upgrades for Jeff Bezos's wife's latest mega yacht, and maybe even her youth.
+We had some absolutely legendary moments together.
+Besides the community chat banter that still makes us cry laugh at 3 am.
+Boat rides with the first bunnies.
+Accidentally melting an exchange by ramping our API call limit parameter times one hundred (sorry again, lads).
+Some of you lost money. We know the classic move. Coin moons set the bot to 220% aggression at the top coin dumps, blame the bot. Standard crypto rite of passage. But we also saw some of you catch beautiful flash crashes and turn minutes into multiple BTC. Those wins still make us giggle like little kids.
+The ride was always about getting YOU rich. Hehe. We are not here for the money; we are here for the tech. Aren’t we all? We actually meant the first part.
+
+=== [13.04.2026 11:25:35 UTC-05:00] Jrk Bgrt 13.04.2026 11:21:41
+So why are we stopping?
+To run a bot like this in 2026, you need a ridiculous amount of compute. Our market analyser is a proper cruncher which deals with big data, all on the fly (big data by definition, fyi). It crunches numbers every microsecond, year in year out. To stay competitive, it costs a fortune. The whole setup only really makes financial sense for the big whales and UHNWIs on the highest tier. Running these calculations for the shrimps is literally killing us financially. The other subscription levels are not enough to keep it +EV. We tried. We crunched the numbers until our eyes hurt. Time to be honest and do the inevitable.
+We try to be a bit ghostly, but we are definitely not ghosting you. Here is what we are doing for you right now.
+The dashboard will stay open for a few days, and we’ll make sure you can retrieve your history. Also, our terms and conditions state that we have to return all funds from the last 2 weeks. We’ll make that 6 weeks instead. So, please stop sending us funds for your subscriptions.
+We are not deleting the code. We are still figuring out what to do with it (maybe open source it, maybe something else, sell it to w/e company, fund or individual. We will let you know soon, or you may contact us, of course.
+Your personal data was always kept to bank security grade plus standards. It will be deleted and will never be included in a sale (might that ever happen).
+So thank you.
+Thank you for trusting a bunch of idiots with a dream. Thank you for the memes, the rage messages, the wins, the losses and every single story you shared. This ride was never about us getting rich. It was about getting YOU rich in a world that needed it.
+The lights are going off, but the story? That one lives forever.
+Stay dangerous out there, stack sats and may your future entries always be better than your exits.
+With love, zero regrets,
+JRK, d0d, Darky, Bloctite, and the remaining GSMG crew.
+P.S. The puzzle is still unsolved. We are watching from the sidelines with an infinite amount of popcorn without giving any hints - we hope that this will remain community-maintained, as the URL might vanish. 👀
+P.P.S. Don’t worry about us; we’ve been busy with many non-GSMG things in the meantime. Who knows, you might enjoy some of the services/products we worked on somewhere in your life. You may find us in digital delivery systems for the entertainment and racing industry, automobile global human transport services, educational platforms, card game, logistics, data analyses, music-related entertainment, and many more.
+
+=== [13.04.2026 11:45:20 UTC-05:00] nieods
+thus confirming the "no internet required" part
+
+=== [13.04.2026 13:07:40 UTC-05:00] Alex
+any hint about PT79_A ?
+
+=== [13.04.2026 13:26:42 UTC-05:00] Alex
+What's that?
+
+=== [13.04.2026 13:27:19 UTC-05:00] Alex
+Apart from an antibody?
+
+=== [13.04.2026 13:29:25 UTC-05:00] Alex
+Oh damn
+
+=== [13.04.2026 15:18:19 UTC-05:00] X
+unfortunately, it also confirms "the private keys belong to half and better half and they also need funds to live"
+
+the better half (JRK was visiting Sydney with the better half) and "We never paid ourselves a single cent of salary in all these years"
+
+this confirms that the puzzle prize is reserved for Jrk and his partner.
+
+=== [13.04.2026 15:19:09 UTC-05:00] X
+it was never meant to be found by someone else because "youll never finish the last task"
+
+=== [13.04.2026 15:19:53 UTC-05:00] Whore Amazing
+It is meant to be solved.
+
+=== [13.04.2026 15:20:20 UTC-05:00] X
+I am talking about the prize not the solution.
+
+##### Once you hit a "ying yang", you'll be able to solve it the same day.
+
+Hit index 7018; messages 7008..7028
+
+=== [06.08.2023 06:24:57 UTC-05:00] Deleted Account
+Or longer... I don't know
+
+=== [06.08.2023 06:39:10 UTC-05:00] silver_anth
+^this
+
+=== [06.08.2023 06:39:45 UTC-05:00] silver_anth
+is Jrk a secret cyber criminal?
+
+=== [06.08.2023 07:05:33 UTC-05:00] Jrk Bgrt
+I wish only for that the puzzle provided some exciting pieces of information. That others have learned something new and that for some it is simply entertaining. I hope that the person who connects the last pieces for the 'main price' will thus get its hands on the private key and hold or spend it wisely, but mostly enjoy it. And lastly, I hope to witness the day that the last scene of mr. Robot becomes a reality.
+
+=== [06.08.2023 07:05:51 UTC-05:00] Jrk Bgrt
+In the eye of the beholder, for sure 😊.
+
+=== [06.08.2023 07:07:27 UTC-05:00] silver_anth
+let's say you need to disappear for a few years for unknown reasons, is there someone else who knows the solutions who can keep us entertained over the next years? And someone to half the prize when the halvening comes?
+
+=== [06.08.2023 07:09:27 UTC-05:00] Jrk Bgrt
+Technically my friends and family can get to all my data if they'd work together. In that scenario, don't expect a halving of the price.
+
+=== [06.08.2023 07:10:05 UTC-05:00] silver_anth
+want to set up some timelocked hints? :D
+
+=== [06.08.2023 07:11:19 UTC-05:00] Jrk Bgrt
+Hahaha good one. I thought of a 24h Killswitch, but nah. Can't be bothered :D! Instead.
+
+=== [06.08.2023 07:11:27 UTC-05:00] mpeg
+I won’t lie, after such an obscure puzzle that the best teams haven’t been able to solve yet, a warning that you might go MIA makes it sound a bit sketchy…
+
+=== [06.08.2023 07:12:13 UTC-05:00] Jrk Bgrt
+Probably the last hint:
+
+Once you hit a "ying yang", you'll be able to solve it the same day.
+
+=== [06.08.2023 07:12:23 UTC-05:00] mpeg
+I think the fact that you are still engaging is the thing that keeps this puzzle alive
+
+=== [06.08.2023 07:13:30 UTC-05:00] Jrk Bgrt
+Chance is small though. Merely an fyi, bit dramatic as stated earlier.
+
+=== [06.08.2023 07:13:42 UTC-05:00] Deleted Account
+@SoWut [https://t.me/SoWut] hit or hint?
+
+=== [06.08.2023 07:14:54 UTC-05:00] Jrk Bgrt
+Both?
+
+=== [06.08.2023 07:15:20 UTC-05:00] Deleted Account
+ok, thanks))
+
+=== [06.08.2023 07:18:41 UTC-05:00] silver_anth
+@SoWut [https://t.me/SoWut] any chance you can tell us if there is another URL to find? otherwise I am going to do a big brute force haha
+
+=== [06.08.2023 07:18:48 UTC-05:00] ArchOptic
+I still haven't had the time to follow the puzzle from start to finish. I feel like it can be solved. Maybe tonight I can get into it deeper
+
+=== [06.08.2023 07:19:07 UTC-05:00] Jrk Bgrt
+No need. You have all the info.
+
+=== [06.08.2023 07:19:16 UTC-05:00] Jrk Bgrt
+Good to see you again btw.
+
+=== [06.08.2023 07:19:45 UTC-05:00] silver_anth
+I've been lurking for years recharging, finally want to get back in and solve this
+
+Hit index 8053; messages 8043..8063
+
+=== [22.08.2023 00:53:17 UTC-05:00] ArchOptic
+And we don't know if we're at a stage to use that information yet
+
+=== [22.08.2023 00:53:31 UTC-05:00] ArchOptic
+Also, he said a valid path. Not the valid path.
+
+=== [22.08.2023 00:54:19 UTC-05:00] Deleted Account
+that's what we have no idea of
+and if the theory of everything is a path then we have to focus on it and walk through that path
+
+=== [22.08.2023 00:54:33 UTC-05:00] ArchOptic
+Theory of everything could simply allude to yin yang philosophy
+
+=== [22.08.2023 00:58:25 UTC-05:00] Deleted Account
+ying yang is another riddle bro
+you know how funny some of us in here are?
+telling the creato of a puzzle he made some errors in spelling some of the words in the puzzles
+those errors are not error...
+they are intentional errors to keep us off from the point, we needed to make meanings to it but no error she be ignored because that's where the actual point is probably leading to if not a part of the solution, like the " A fubcd-king & oracle-queen, thingky mvps"
+
+=== [22.08.2023 00:58:55 UTC-05:00] Deleted Account
+Ying yang is the theory of opposites attracting
+stilling leading to the fact of the better halves
+
+=== [22.08.2023 00:59:08 UTC-05:00] ArchOptic
+Unreliable narrator is mentioned often
+
+=== [22.08.2023 00:59:36 UTC-05:00] ArchOptic
+I think yin yang is inside cosmic duality. Irrelevant until dbbib and faed solved
+
+=== [22.08.2023 00:59:43 UTC-05:00] Deleted Account
+without yin, there is no yang
+and without yang there is no yin
+these 2 can't do without each other but then, they're opposites
+
+=== [22.08.2023 01:00:39 UTC-05:00] ArchOptic
+We're probably going to be pairing up dualities from the puzzle for the final phase
+
+=== [22.08.2023 01:01:27 UTC-05:00] Deleted Account
+solving the dbb is clearly hinted already... 
+I will quote
+
+"yellow blue prime s matrix sum list last words before archi choice yin yang we wont give away the password its in front of your eyes but youre not seeing it very last step is a true give away promised."
+
+"Once you hit a "ying yang", you'll be able to solve it the same day."
+
+=== [22.08.2023 01:02:09 UTC-05:00] Deleted Account
+focus on getting into the blob in salvation
+the dbbi is just to keep you in that phase for too long
+
+=== [22.08.2023 01:02:22 UTC-05:00] ArchOptic
+Yellow blue primes = dbbib and yin yang is faed?
+
+=== [22.08.2023 01:03:02 UTC-05:00] ArchOptic
+Blob isn't going to be brute forced.
+
+=== [22.08.2023 01:03:14 UTC-05:00] ArchOptic
+Solve dbbib and faed then blob
+
+=== [22.08.2023 01:03:26 UTC-05:00] Deleted Account
+okay I will quote this then
+"It can be solved, albeit very difficult as you have to understand how to interpret all the hints."
+
+=== [22.08.2023 01:04:04 UTC-05:00] ArchOptic
+Yes. Obviously
+
+=== [22.08.2023 01:04:14 UTC-05:00] Deleted Account
+as long as you see a problem then the solution you start to find
+and you can't find what you are not looking for
+
+=== [22.08.2023 01:04:50 UTC-05:00] ArchOptic
+Ciao Bella O and other hints to salphasion are my main focus
+
+=== [22.08.2023 01:05:19 UTC-05:00] ArchOptic
+Ciao in hint comment as well
+
+=== [22.08.2023 01:05:41 UTC-05:00] Deleted Account
+that hint is from the previous door, "half and better half"
+I might have missed that one
+
+Hit index 8081; messages 8071..8091
+
+=== [22.08.2023 01:10:24 UTC-05:00] ArchOptic
+Base 10 version dbbib, for example
+
+=== [22.08.2023 01:15:31 UTC-05:00] Deleted Account
+quote "yellow blue primes"
+ 
+matrix sum list 
+last words before archi choice 
+yin yang 
+
+...we wont give away the password its in front of your eyes but youre not seeing it very last step is a true give away promised."
+
+=== [22.08.2023 01:15:57 UTC-05:00] Deleted Account
+do we need the primes of some colors?
+if yellow blue primes is dbbi
+
+=== [22.08.2023 01:18:29 UTC-05:00] Deleted Account
+Listen to what is going on in my head, 
+a b b a was decoded to matrixsumlist
+he hinted at matrixsumlist
+not a b b a
+trying to decode what he had already told us what it is is like trying to say he's lying
+if he said yellow blue primes instead of dbbib
+then it means that even if we decode the dbbib we would get yellowblueprimes
+
+=== [22.08.2023 01:19:00 UTC-05:00] Deleted Account
+that's why I said we need to work with what we have already
+"yellow blue prime s matrix sum list last words before archi choice yin yang we wont give away the password its in front of your eyes but youre not seeing it very last step is a true give away promised."
+to get into the blob
+
+=== [22.08.2023 01:19:06 UTC-05:00] 0xColombo
+How you converted it to base10?
+
+=== [22.08.2023 01:25:52 UTC-05:00] ArchOptic
+Python
+
+=== [22.08.2023 01:26:42 UTC-05:00] ArchOptic
+He didn't flat out give us the strings
+
+=== [22.08.2023 01:29:15 UTC-05:00] Deleted Account
+104 alphabets "a b b a" = 13 alphabets Matrix sumlist
+91 alphabets "d b b i" = "yellow blue primes" 16 alphabets
+
+=== [22.08.2023 01:29:53 UTC-05:00] Deleted Account
+we need ying yang
+not trying to go back
+
+=== [22.08.2023 01:30:22 UTC-05:00] Deleted Account
+"Once you hit a "ying yang", you'll be able to solve it the same day."
+ying yang is from the blob
+
+=== [22.08.2023 01:30:38 UTC-05:00] Deleted Account
+we need the full ying yang information in the blob
+
+=== [22.08.2023 01:30:49 UTC-05:00] Deleted Account
+that's how to solve the cosmic duality
+
+=== [22.08.2023 01:30:55 UTC-05:00] ArchOptic
+Either way nothing happens without dbbib and faed
+
+=== [22.08.2023 01:33:29 UTC-05:00] Deleted Account
+I would rather focus on faed because I believe dbbi is yellow blue primes
+maybe faed will tell us what to do with the yellow blue primes
+
+=== [22.08.2023 01:36:07 UTC-05:00] Pomyk
+We need yellow and blue primes then
+
+=== [22.08.2023 01:37:16 UTC-05:00] AaCrypto🆙 UXUY✌️Yescoiner$ZAI🍩🚀🍅🥠$CFI💠❤️ 🐾🐐 Meshchain.Ai
+would someone tell me all the hint inside salphaseon that has been found till now, appreciate..
+
+=== [22.08.2023 01:37:51 UTC-05:00] Deleted Account
+the hints I've gathered so far will be shared here, no need to ask for money. I know we all are victims of causality. walking down this path is not safe for anyone. we don't want to lose our sanity to a puzzle...
+
+Matrixsumlist = focus on the scene between Architect and Neo "throughout the scene, the word Matrix was mentioned 9 times", the word sum was only mentioned once "our life is the sum of a remainder of an unbalanced equation"
+
+Enter = the word enter was only mentioned was throughout that scene "The Architect: Apropos, she entered the matrix to save your life at the cost of her own."
+
+(SHA-256) LastWordsBeforeArchitectChoice = the last words Architect said before giving Neo the choice 
+(SHA-256) AnsToo = Neo's response after the "the last words Architect said before giving Neo the choice "
+
+=== [22.08.2023 01:38:07 UTC-05:00] Deleted Account
+add "yellow blue prime s matrix sum list last words before archi choice yin yang we wont give away the password its in front of your eyes but youre not seeing it very last step is a true give away promised."
+to get into the blob
+
+=== [22.08.2023 01:41:57 UTC-05:00] AaCrypto🆙 UXUY✌️Yescoiner$ZAI🍩🚀🍅🥠$CFI💠❤️ 🐾🐐 Meshchain.Ai
+so what words do you think make the most sense to solve cosmic duality
+
+=== [22.08.2023 01:42:19 UTC-05:00] Pomyk
+matrixsumlist - sum of 1s in matrix from image is 101
+
+Hit index 29501; messages 29491..29511
+
+=== [02.04.2025 18:39:07 UTC-05:00] gnomad
+I should have added "anything relevant".
+
+=== [02.04.2025 18:42:40 UTC-05:00] X
+probably but better chance than nothing :))
+
+=== [02.04.2025 18:43:05 UTC-05:00] Gorden dev.
+well thats true.
+
+=== [02.04.2025 18:43:41 UTC-05:00] Gorden dev.
+may @SoWut [https://t.me/SoWut] can confirm the yingyang has been seen, found allready :) ..
+
+=== [02.04.2025 18:44:04 UTC-05:00] Denis Golovkin
+Also, pure speculation, but:
+and or seven intertwined passwords
+(a XOR b) = ((a OR b) - (a AND b))
+
+=== [02.04.2025 18:45:28 UTC-05:00] X
+first we will find/figure out prime number then yinyang
+
+=== [02.04.2025 18:45:35 UTC-05:00] X
+it is valid path from Jrk
+
+=== [02.04.2025 18:46:05 UTC-05:00] X
+block 103 give us multiple primes and also a yinyang form
+
+=== [02.04.2025 18:46:21 UTC-05:00] Gorden dev.
+yingyang unrelated to primes
+
+=== [02.04.2025 18:46:28 UTC-05:00] Gorden dev.
+where ?
+
+=== [02.04.2025 18:46:50 UTC-05:00] X
+Probably the last hint:
+
+Once you hit a "ying yang", you'll be able to solve it the same day.
+
+=== [02.04.2025 18:47:19 UTC-05:00] Gorden dev.
+well, yingyang and primes come togehter but doesnt mean you need primes first
+
+=== [02.04.2025 18:47:29 UTC-05:00] X
+this is from jan 2023
+
+=== [02.04.2025 18:47:29 UTC-05:00] X
+At least prime number is very important to get any further.
+
+=== [02.04.2025 18:47:55 UTC-05:00] Gorden dev.
+yinagyang may viausally and you need to combine with prímes as in the orig image.
+
+=== [02.04.2025 18:48:02 UTC-05:00] X
+and this is august 2023
+
+=== [02.04.2025 18:48:11 UTC-05:00] X
+so first prime then yinyang
+
+=== [02.04.2025 18:48:40 UTC-05:00] X
+this order also validated in “yellow blue primes…” hint
+
+=== [02.04.2025 18:49:43 UTC-05:00] Gorden dev.
+i am just saying that i dont believe that primes leads us to yingyang, at the end you need to combine, yellow , blue , yinyang and primes to proced.
+
+=== [02.04.2025 18:50:17 UTC-05:00] X
+prime definitely lead to yinyang since prime is required to proceed further right now
+
+=== [02.04.2025 18:50:35 UTC-05:00] X
+if you cant figure out primes you cant reach to yinyang step
+
+Hit index 30480; messages 30470..30490
+
+=== [27.04.2025 07:44:01 UTC-05:00] Gabriele
+the ying and yang are probably 2 twin primes
+
+=== [27.04.2025 07:44:58 UTC-05:00] Gabriele
+thats why the spiral
+
+=== [27.04.2025 07:45:47 UTC-05:00] Gabriele
+i think im very close to resolve the aes blob of the 3.2 phase
+
+=== [27.04.2025 07:51:34 UTC-05:00] Gabriele
+maybe the 2 strings of the sal have to converted into prime numbers using the letters
+
+=== [27.04.2025 07:51:56 UTC-05:00] Gabriele
+a is the first prime number then b and c and the other letters will be zeroed out
+
+=== [27.04.2025 07:52:02 UTC-05:00] Gabriele
+already tried this but not working
+
+=== [27.04.2025 07:52:47 UTC-05:00] Gabriele
+the phrase 3.2 numeric string is a part of an RSA key, where N = p * q
+
+=== [27.04.2025 07:53:00 UTC-05:00] Gabriele
+N is the numerical string
+
+=== [27.04.2025 07:53:07 UTC-05:00] Gabriele
+the primes can be p and q
+
+=== [27.04.2025 07:53:19 UTC-05:00] Gabriele
+to generate the RSA key
+
+=== [27.04.2025 07:54:13 UTC-05:00] Gabriele
+Probably the last hint:
+
+Once you hit a "ying yang", you'll be able to solve it the same day.
+
+=== [27.04.2025 07:54:49 UTC-05:00] Gabriele
+guess, if you invert the p or the q they can be a ying and yang completing each other
+
+=== [27.04.2025 07:56:15 UTC-05:00] S | h
+which numeric string you talking about?
+
+=== [27.04.2025 07:59:46 UTC-05:00] Gabriele
+15165943121972409169171213758951813141543131412428154191312181219433121171617137149110916631213131281491109166131412199114371612126021664313711154112
+
+=== [27.04.2025 08:00:18 UTC-05:00] Gabriele
+it was in the message with the undecoded blob
+
+=== [27.04.2025 08:01:05 UTC-05:00] S | h
+i suggest you to read the whole github repository before anything else
+
+=== [27.04.2025 08:01:30 UTC-05:00] Gabriele
+already read all the notebooks
+
+=== [27.04.2025 08:01:36 UTC-05:00] Gabriele
++ the hints and everything
+
+=== [27.04.2025 08:01:39 UTC-05:00] Gabriele
+still confusing
+
+=== [27.04.2025 08:01:50 UTC-05:00] S | h
+then you must read slower
+
+=== [27.04.2025 08:01:51 UTC-05:00] Gabriele
+because it has been unresolved for years so the hints are like randomly given imo
+
+Hit index 35889; messages 35879..35899
+
+=== [16.07.2025 19:10:16 UTC-05:00] gnomad
+I'm tempted to make one
+
+=== [16.07.2025 19:10:41 UTC-05:00] gnomad
+You would be banned for waffling too much
+
+=== [16.07.2025 19:11:15 UTC-05:00] Djinex
+Yapping final boss
+
+=== [16.07.2025 19:12:09 UTC-05:00] Djinex
+Did you make any progress in the puzzle regarding that +1000 messages
+
+=== [16.07.2025 19:12:36 UTC-05:00] Djinex
+I'm not gonna read all of that
+
+=== [16.07.2025 19:12:56 UTC-05:00] Djinex
+Because if you did , then it's already solved
+
+=== [16.07.2025 19:13:07 UTC-05:00] Smile :)
+the funds are still there retarded
+
+=== [16.07.2025 19:13:15 UTC-05:00] Djinex
+That's what I'm saying
+
+=== [16.07.2025 19:13:28 UTC-05:00] Smile :)
+you just said you haven't read messages
+
+=== [16.07.2025 19:13:53 UTC-05:00] Djinex
+Haha alright angry pajeet good luck
+
+=== [16.07.2025 19:18:29 UTC-05:00] Djinex
+Probably the last hint:
+
+Once you hit a "ying yang", you'll be able to solve it the same day.
+
+=== [16.07.2025 19:43:08 UTC-05:00] Denis Golovkin
+You're far ahead of us in zeroing out words AFAICS
+
+=== [16.07.2025 19:50:04 UTC-05:00] silver_anth
+have muted you as you are spamming and starting arguments now
+
+=== [16.07.2025 19:55:01 UTC-05:00] Mr. Raid
+He will come back with his alt account sounds the same as that ketemine guy 🤣
+
+=== [16.07.2025 19:56:09 UTC-05:00] silver_anth
+yeah they both joined in the last two days and both sent around 1000 messages of nothing...
+
+=== [16.07.2025 22:30:14 UTC-05:00] Diego Schmidt
+You had mentioned that you had made progress in something, was it in salph or 3.2?
+
+=== [17.07.2025 03:23:15 UTC-05:00] E
+so much to read but so little to learn lately
+
+=== [17.07.2025 06:21:36 UTC-05:00] Djinex
+I agree
+
+=== [17.07.2025 08:23:58 UTC-05:00] Σ⸙ꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋᅠᅠᅠ𓆈⃤
+Man went back and laugh reacted a message I sent here months ago.
+
+=== [17.07.2025 08:24:05 UTC-05:00] Σ⸙ꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋᅠᅠᅠ𓆈⃤
+Professional pajeet rage baiter
+
+=== [17.07.2025 08:24:22 UTC-05:00] Σ⸙ꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋᅠᅠᅠ𓆈⃤
+I haven't even interacted with you 🤓
+
+Hit index 37691; messages 37681..37701
+
+=== [23.08.2025 09:24:05 UTC-05:00] Mauro Etrade
+https://github.com/jackdevs66/GSMG5_CDuality
+
+=== [23.08.2025 09:24:26 UTC-05:00] Mauro Etrade
+If there is something wrong there, let me know.
+
+=== [23.08.2025 09:36:57 UTC-05:00] X
+why are you still here? please dont spam the chat
+
+=== [23.08.2025 09:37:49 UTC-05:00] R B
+😂
+
+=== [23.08.2025 09:37:59 UTC-05:00] X
+you think your decryption of the false positive is correct and asking people to prove that it is wrong. i started to believe that you don't even have a monkey brain.
+
+=== [23.08.2025 09:38:02 UTC-05:00] R B
+I reached a phase where i wish someone just solves it
+
+=== [23.08.2025 09:39:11 UTC-05:00] R B
+It was about the btc at first now im trying addicted to solve 😂
+
+=== [23.08.2025 09:40:52 UTC-05:00] 3.14159265358979323846264338327950288419716939937510 0b1one|58209749445923078164062862089986280348253421170679
+Hey. Don't let people push you down.
+You doing great , I would suggest to look into the nice side of the hunt, the learning process.
+The btc is not the real prize
+
+=== [23.08.2025 09:41:56 UTC-05:00] X
+it is not solvable. proof? 6 wasted years. There is no way to progress without a clear hint from Jrk
+
+=== [23.08.2025 09:48:27 UTC-05:00] ES
+What about btcseed? I mean, you don't see it as progress?
+
+=== [23.08.2025 09:48:56 UTC-05:00] R B
+All JRk hints i went from the beginning of the convo and checked nearly everything 
+
+
+
+Theory of everything 
+
+Another door
+
+Prime numbers 
+
+
+00100110 10100110 11001110 10010110 10110110 11110110 01001110 00001110 10011110 10000110 11101110 10000110 10100110 01101110 10010110 11100110 10100110 10101110 01001110 00101110 10000110 11001110 10010110 00001110 10100110 00101110 11001110 00101110 11001110 10000110 00110110 10011110 01001110 10100110 01101110 00101110 10010110 11100110 01110110 10010110 10100110 10100110 11001110 00101110 11110110 01110110 10100110 01001110 10101110 11110110 10011110 00101110 10101110 01000110 11001110 10100110 10011110 10100110 01001110 10101110 11110110 10011110 01100110 11110110 00101110 01110110 11110110 01001110 01100110 01110110 10010110 11001110 00101110 10010110 00100110 01001110 11110110 11101110 11001110 11001110 10000110 00001110 10100110 00010110 00101110 10011110 10000110 11101110 10000110 10100110 01101110 10010110 11100110 00101110 01110110 11110110 11101110 10100110 11101110 11100110 01110110 10000110 10011110 01110110 10010110 10011110 10100110 11000110 10010110 11110110 00010110 11000110 10010110 00010110 11000110 01001110 10000110 10100110 01001110 11110110 01100110 10100110 01000110 11001110 00100110 01001110 11110110 11101110 00101110 11001110 10000110 00110110 00101110 11001110 10010110 00110110 10110110 10101110 11001110 00011110 10010110 01001110 00101110 10000110 10110110 11001110 10100110 10110110 10010110 01001110 00001110 10100110 10101110 00110110 01000110 11101110 11110110 00110110 00110110 10100110 10011110
+
+
+reversed binary: yellowblueprimesmatrixsumlistlastwordsbeforearchichoiceyinyangwewontgiveawaythepassworditsinfrontofyoureyesbutyourenotseeingitverylaststepisatruegiveawaypromised
+
+Neo passport expiration date 09/11/2001
+
+
+Are you really looking for just the btc...?
+
+
+Probably the last hint:
+
+Once you hit a "ying yang", you'll be able to solve it the same day.
+
+=== [23.08.2025 09:49:14 UTC-05:00] R B
+I think we need a hint 😂 unless the hint is literally the finish line
+
+=== [23.08.2025 09:50:44 UTC-05:00] R B
+Cause im stuck at sal and cosmic 
+
+Like im not sure if the other door is another phase or solving 
+
+And im not manging to decrypt the openssl for cosmic in anyway 
+
+And Sal
+
+=== [23.08.2025 09:52:30 UTC-05:00] ES
+He said he didn't know what to hint at this point. We have to work with what we have (and there is plenty to think about).
+
+=== [23.08.2025 09:53:19 UTC-05:00] R B
+Will try harder
+
+=== [23.08.2025 09:53:24 UTC-05:00] Mauro Etrade
+You are very stupid and that's why you don't understand, please be quiet, let other people explore this information
+
+=== [23.08.2025 09:53:27 UTC-05:00] Mauro Etrade
+=)
+
+=== [23.08.2025 09:55:12 UTC-05:00] Mauro Etrade
+If you think there's no solution to this puzzle, I don't know what you're doing here wasting your time, monkey.
+
+=== [23.08.2025 09:55:55 UTC-05:00] Jay Gudic
+The other door may be a person. That person is me.
+
+=== [23.08.2025 09:56:19 UTC-05:00] Mauro Etrade
+Nobody is sure about this
+
+=== [23.08.2025 09:57:47 UTC-05:00] Mauro Etrade
+please don't write if you don't know what you're talking about. If anyone has a correct and verifiable method for decrypting Cosmic Duality, please write it. the other wise please stfu
+
+Hit index 45263; messages 45253..45273
+
+=== [14.01.2026 19:44:35 UTC-05:00] Dameal
+So nobody solved faed and dbbib still or people just hiding their progress? Because in the contrary if any small progress means you'd be able to solve it in a day then anyone that has probably decoded faed and dbbib would have solved the puzzle already
+
+=== [14.01.2026 19:45:48 UTC-05:00] Whore Amazing
+Yup.
+
+=== [14.01.2026 19:48:06 UTC-05:00] saar
+publicly seems like none were solved yet
+
+=== [14.01.2026 19:48:41 UTC-05:00] saar
+i been reading the chat for the past dozen minutes, nothing but arguing and some people being super weird, this chat is really mental
+
+=== [14.01.2026 19:48:45 UTC-05:00] saar
+i won't drop any names :D
+
+=== [14.01.2026 19:50:23 UTC-05:00] X
+Jrk has shared more than 30 hints so far. can you give me one hint (1) that helped make any progress on the puzzle. or they just made things worse and mislead us.
+
+=== [14.01.2026 19:51:00 UTC-05:00] Dameal
+The most recent one 
+The tiny hint
+
+=== [14.01.2026 19:51:18 UTC-05:00] Dameal
+January 1st
+.
+..
+...
+....
+.....
+
+=== [14.01.2026 19:52:52 UTC-05:00] Dameal
+Analyzing bits doesn't help
+The hint is right there though very tiny. <3 = ❤️
+
+=== [14.01.2026 19:53:01 UTC-05:00] X
+Those hints are the last hints. Although I can say that one team managed to find something... something others haven't yet found (unless they didn't tell us).
+
+=== [14.01.2026 19:53:22 UTC-05:00] X
+Probably the last hint:
+
+Once you hit a "ying yang", you'll be able to solve it the same day.
+
+=== [14.01.2026 19:53:33 UTC-05:00] Dameal
+Not these ones bro
+
+=== [14.01.2026 19:53:49 UTC-05:00] Dameal
+Just search for "....."
+
+=== [14.01.2026 19:54:08 UTC-05:00] X
+To answer your question 'fully', from here on, high likely no hints anymore. But if somehow you all can't solve it from here in the next few years (which I deem unlikely given the state of the solving process), then I might feel the need to give an additional hint, as I couldn't happily live with the idea that some would think that this was a scam. Note, that I hope not to have to give another hint as it would probably be a give away. Good luck to you all!
+
+=== [14.01.2026 19:55:02 UTC-05:00] X
+he said bunch of times “this is last hint”, “no hints anymore” and gave 20 more hints
+
+=== [14.01.2026 19:55:15 UTC-05:00] X
+why do you take his hints so serious?
+
+=== [14.01.2026 19:56:01 UTC-05:00] saar
+good remark
+
+=== [14.01.2026 19:56:09 UTC-05:00] Dameal
+01001000 01100001 01110000 01110000 01111001 00100000 01101110 01100101 01110111 00100000 01111001 01100101 01100001 01110010 00100001 00100000 01001101 01100001 01101011 01100101 00100000 01110100 01101000 01100101 00100000 01100010 01100101 01110011 01110100 00100000 01101111 01100110 00100000 01100101 01110110 01100101 01110010 01111001 01110100 01101000 01101001 01101110 01100111 00101110 00100000 01001111 01101000 00101100 00100000 01100001 01101110 01100100 00100000 01101000 01100101 01110010 01100101 00100111 01110011 00100000 01100001 00100000 00100010 01110100 01101001 01101110 01111001 00100000 01101000 01101001 01101110 01110100 00100010 00100000 00111100 00110011 00101110
+
+=== [14.01.2026 19:56:25 UTC-05:00] Martín
+question would be why...
+
+=== [14.01.2026 19:56:29 UTC-05:00] X
+i am asking a basic question. give me ONE HINT (1) that is helped for any progress made on the puzzle
+
+=== [14.01.2026 19:56:43 UTC-05:00] Dameal
+THIS ONE BRO
+
+##### Both?
+
+Hit index 7022; messages 7012..7032
+
+=== [06.08.2023 07:05:51 UTC-05:00] Jrk Bgrt
+In the eye of the beholder, for sure 😊.
+
+=== [06.08.2023 07:07:27 UTC-05:00] silver_anth
+let's say you need to disappear for a few years for unknown reasons, is there someone else who knows the solutions who can keep us entertained over the next years? And someone to half the prize when the halvening comes?
+
+=== [06.08.2023 07:09:27 UTC-05:00] Jrk Bgrt
+Technically my friends and family can get to all my data if they'd work together. In that scenario, don't expect a halving of the price.
+
+=== [06.08.2023 07:10:05 UTC-05:00] silver_anth
+want to set up some timelocked hints? :D
+
+=== [06.08.2023 07:11:19 UTC-05:00] Jrk Bgrt
+Hahaha good one. I thought of a 24h Killswitch, but nah. Can't be bothered :D! Instead.
+
+=== [06.08.2023 07:11:27 UTC-05:00] mpeg
+I won’t lie, after such an obscure puzzle that the best teams haven’t been able to solve yet, a warning that you might go MIA makes it sound a bit sketchy…
+
+=== [06.08.2023 07:12:13 UTC-05:00] Jrk Bgrt
+Probably the last hint:
+
+Once you hit a "ying yang", you'll be able to solve it the same day.
+
+=== [06.08.2023 07:12:23 UTC-05:00] mpeg
+I think the fact that you are still engaging is the thing that keeps this puzzle alive
+
+=== [06.08.2023 07:13:30 UTC-05:00] Jrk Bgrt
+Chance is small though. Merely an fyi, bit dramatic as stated earlier.
+
+=== [06.08.2023 07:13:42 UTC-05:00] Deleted Account
+@SoWut [https://t.me/SoWut] hit or hint?
+
+=== [06.08.2023 07:14:54 UTC-05:00] Jrk Bgrt
+Both?
+
+=== [06.08.2023 07:15:20 UTC-05:00] Deleted Account
+ok, thanks))
+
+=== [06.08.2023 07:18:41 UTC-05:00] silver_anth
+@SoWut [https://t.me/SoWut] any chance you can tell us if there is another URL to find? otherwise I am going to do a big brute force haha
+
+=== [06.08.2023 07:18:48 UTC-05:00] ArchOptic
+I still haven't had the time to follow the puzzle from start to finish. I feel like it can be solved. Maybe tonight I can get into it deeper
+
+=== [06.08.2023 07:19:07 UTC-05:00] Jrk Bgrt
+No need. You have all the info.
+
+=== [06.08.2023 07:19:16 UTC-05:00] Jrk Bgrt
+Good to see you again btw.
+
+=== [06.08.2023 07:19:45 UTC-05:00] silver_anth
+I've been lurking for years recharging, finally want to get back in and solve this
+
+=== [06.08.2023 07:19:53 UTC-05:00] 0xColombo
+Jrk, can you confirm if dbbib is decryptable?
+
+=== [06.08.2023 07:20:13 UTC-05:00] Jrk Bgrt
+No hints 🤡
+
+=== [06.08.2023 07:20:16 UTC-05:00] Zil
+I would like to know if all AES'es are decryptable. dbbib most defeinetely is.
+
+=== [06.08.2023 07:20:30 UTC-05:00] silver_anth
+Jrk, can you confirm that you will give no hints?
+
+Hit index 9459; messages 9449..9469
+
+=== [24.08.2023 22:52:19 UTC-05:00] nieods
+go for it
+
+=== [24.08.2023 23:40:39 UTC-05:00] ArchOptic
+With a valid solution 🤣
+
+=== [25.08.2023 00:08:56 UTC-05:00] ArchOptic
+d b b i b f b h c c b e g 
+b i h a b e b e i h b e g 
+g e g e b e b b g e h h e 
+b h h f b a b f d h b e f 
+f c d b b f c c c g b f b 
+e e g g e c b e d c i b f 
+b f f g i g b e e e a b e
+
+=== [25.08.2023 00:10:14 UTC-05:00] ArchOptic
+d b b i b f b 
+h c c b e g b 
+i h a b e b e 
+i h b e g g e 
+g e b e b b g 
+e h h e b h h 
+f b a b f d h 
+b e f f c d b 
+b f c c c g b 
+f b e e g g e 
+c b e d c i b 
+f b f f g i g 
+b e e e a b e
+
+=== [25.08.2023 01:02:31 UTC-05:00] ArchOptic
+I have another set to make, opposite approach. Too tired right now tho
+
+=== [25.08.2023 01:20:13 UTC-05:00] ArchOptic
+d e g b b e b e g e g g e
+b h f b g c c c f b b d b
+b h b g i g f f b f b c h
+i e e b e e e a b e i f i
+b b e g g e c b e d c f e
+f h h f b a b f d h b e b
+b h c c b e g b i h a b e
+
+=== [25.08.2023 05:48:11 UTC-05:00] Deleted Account
+it is unfeasible
+
+=== [25.08.2023 05:48:24 UTC-05:00] Deleted Account
+has little data
+
+=== [25.08.2023 07:19:35 UTC-05:00] ArchOptic
+Zv, English, please. At least subtitle your messages in English if they contain Russian texts
+
+=== [25.08.2023 07:21:00 UTC-05:00] zvgolden
+2 foto English & rus
+
+=== [25.08.2023 07:21:19 UTC-05:00] ArchOptic
+Same thing both? Ok I didn't understand
+
+=== [25.08.2023 07:31:27 UTC-05:00] ArchOptic
+Did you try last string?
+
+=== [25.08.2023 07:31:33 UTC-05:00] ArchOptic
+This
+
+=== [25.08.2023 09:21:50 UTC-05:00] Deleted Account
+watch the movie to find the ying yang pattern
+
+=== [25.08.2023 09:22:21 UTC-05:00] ArchOptic
+Fead?
+
+=== [25.08.2023 09:22:31 UTC-05:00] ArchOptic
+Need?
+
+=== [25.08.2023 09:22:34 UTC-05:00] Deleted Account
+yeah both
+
+=== [25.08.2023 09:23:17 UTC-05:00] ArchOptic
+Explain
+
+=== [25.08.2023 09:23:37 UTC-05:00] Deleted Account
+I just started watching the movie right now
+
+=== [25.08.2023 09:23:58 UTC-05:00] ArchOptic
+I'm working on something interesting this morning. Get ready for some fun images of dbbib
+
+=== [25.08.2023 09:24:16 UTC-05:00] Deleted Account
+awesome!!!
+can't wait
+
+Hit index 10939; messages 10929..10949
+
+=== [09.09.2023 19:16:00 UTC-05:00] semaj
+196
+
+=== [09.09.2023 19:16:02 UTC-05:00] semaj
+14x14
+
+=== [09.09.2023 19:16:17 UTC-05:00] RB
+The first are zeros
+
+=== [09.09.2023 19:16:18 UTC-05:00] semaj
+it has leading zeroes
+
+=== [09.09.2023 19:16:20 UTC-05:00] semaj
+yes
+
+=== [09.09.2023 19:16:32 UTC-05:00] semaj
+im interpreting the data as a whole..
+
+=== [09.09.2023 19:16:40 UTC-05:00] RB
+182 would be 91*2
+
+=== [09.09.2023 19:17:59 UTC-05:00] RB
+But i think it's 183 bits... ha... binary digits = bits i forgot :D
+
+=== [09.09.2023 19:19:32 UTC-05:00] Deleted Account
+which hint came first?
+the roses are white hint or decentraland image?
+did roses are white hint come after we had already hashed the text or after?
+
+=== [09.09.2023 19:19:44 UTC-05:00] RB
+Roses
+
+=== [09.09.2023 19:19:57 UTC-05:00] Deleted Account
+Roses came before both?
+
+=== [09.09.2023 19:20:13 UTC-05:00] RB
+Decentraland with hash the text was the nail on the coffin
+
+=== [09.09.2023 19:20:24 UTC-05:00] Deleted Account
+LOL
+
+=== [09.09.2023 19:20:43 UTC-05:00] RB
+After that it was to be solved
+
+=== [09.09.2023 19:21:22 UTC-05:00] Deleted Account
+so we had roses are white before the halving or after the halving?
+I need to know if the roses are white hint is for salvation or the prior stage
+
+=== [09.09.2023 19:22:04 UTC-05:00] RB
+All was before halving. As decentraland.. let me recheck
+
+=== [09.09.2023 19:23:48 UTC-05:00] RB
+14. Jan 2020 'roses are white but often red... Hush hush' - hint
+Feb 2020 opening of decentraland (don't know the exact date)
+20 Feb 2020 - release of the hint with the decentraland picture (hashthetext)
+11 May 2020 - halving, splitting of the price
+
+=== [09.09.2023 19:24:34 UTC-05:00] Deleted Account
+now we see that the roses are white was for the half and better half phase
+
+=== [09.09.2023 19:26:43 UTC-05:00] Deleted Account
+now it's intertwined with salvation phase with the yellowblueprimes
+which still leads to the fact that the image itself is what holds the vital information 
+where the yellow and blue colors would need to be mapped out carefully for full supervision
+
+=== [09.09.2023 19:26:43 UTC-05:00] RB
+It's a lot of blabla hinting the bunny phase and hush/hash
+
+=== [09.09.2023 19:31:27 UTC-05:00] Deleted Account
+we might be stuck with this intertwinement for years if we don't map it all out 
+specifically how to handle the yellow blue colors
+and it's definitely not to be mapped to bits
+numbers work differently but we know colors also do
+and if we try to map the color to numbes it'd definitely not be 0s and 1s and our target would definitely not be actual numbers as the rabbit hole holds more than we can imagine
+if the rabbit hole square can further be broken down into bits of its own
+you would notice that for each normal white or black cell from the rabbit picture we also have bits in smaller particles 
+and we have a 2 * 2 matrix there
+4 cells
+
+Hit index 37123; messages 37113..37133
+
+=== [14.08.2025 00:44:25 UTC-05:00] Человек
+the reward is already so small that you can't even buy a roll of toilet paper. 😂
+
+anyone solve first 'dbbi***' section?
+
+=== [14.08.2025 00:46:09 UTC-05:00] gnomad
+Is there a puzzle to win that roll of TP? 😁
+
+=== [14.08.2025 00:55:49 UTC-05:00] Человек
+this place... =)
+
+=== [14.08.2025 01:06:14 UTC-05:00] gnomad
+i'll let you try that one, i'll go for the next one ;)
+
+=== [14.08.2025 04:51:14 UTC-05:00] Denis Golovkin
+Why do I think about Ferrum sulfation now?
+😂😂😂
+
+https://en.m.wikipedia.org/wiki/Iron(III)_sulfate
+
+=== [14.08.2025 04:56:49 UTC-05:00] GN93
+salphaselon
+
+=== [14.08.2025 05:46:25 UTC-05:00] 3.14159265358979323846264338327950288419716939937510 0b1one|58209749445923078164062862089986280348253421170679
+2: B, 3:A , 4:D ,5:I
+
+=== [14.08.2025 06:56:07 UTC-05:00] 3.14159265358979323846264338327950288419716939937510 0b1one|58209749445923078164062862089986280348253421170679
+please leave gpt5 alone, he is tired
+
+=== [14.08.2025 06:58:16 UTC-05:00] 3.14159265358979323846264338327950288419716939937510 0b1one|58209749445923078164062862089986280348253421170679
+when something interesting comes up is overlooked, given the amount of gibberish dumped here.
+
+=== [14.08.2025 12:38:32 UTC-05:00] Cereal Killer
+Welcome back 👍🏻
+
+=== [14.08.2025 13:08:51 UTC-05:00] 3.14159265358979323846264338327950288419716939937510 0b1one|58209749445923078164062862089986280348253421170679
+both?
+
+=== [14.08.2025 13:29:16 UTC-05:00] k1ng 😎
+give 1 microhint
+
+=== [14.08.2025 13:31:19 UTC-05:00] k1ng 😎
+I saw UFO in this puzzle somewhere yesterday, i swear, i dont remember where, i think it was in an address i created
+
+=== [15.08.2025 03:29:59 UTC-05:00] GN93
+I saw btcseed and YOUWON 😂
+
+=== [15.08.2025 04:07:16 UTC-05:00] GN93
+Jing Wang & shiping Yang
+
+=== [15.08.2025 04:07:58 UTC-05:00] Cereal Killer
+Congrats, in 2 hour you will won👍🏻
+
+=== [15.08.2025 04:21:22 UTC-05:00] GN93
+😂😂😂😂😂
+
+=== [15.08.2025 04:21:28 UTC-05:00] GN93
+I already gave up
+
+=== [15.08.2025 06:43:35 UTC-05:00] Dante Sparda
+What’s Up, People?!
+
+=== [15.08.2025 06:47:31 UTC-05:00] 3.14159265358979323846264338327950288419716939937510 0b1one|58209749445923078164062862089986280348253421170679
+🫦
+
+=== [15.08.2025 06:47:35 UTC-05:00] 3.14159265358979323846264338327950288419716939937510 0b1one|58209749445923078164062862089986280348253421170679
+hi 😘
+
+Hit index 39534; messages 39524..39544
+
+=== [10.10.2025 13:29:06 UTC-05:00] Thunder
+I just didn't see the chat rules, but usually this is prohibited.
+
+=== [10.10.2025 13:31:07 UTC-05:00] 3.14159265358979323846264338327950288419716939937510 0b1one|58209749445923078164062862089986280348253421170679
+it seems, since we cant understand it, we cant judge its content :D
+
+=== [10.10.2025 13:31:30 UTC-05:00] Trin
+might be a spam bot yes
+
+=== [10.10.2025 13:35:09 UTC-05:00] Trin
+So. Banned and removed
+
+=== [10.10.2025 13:35:32 UTC-05:00] 3.14159265358979323846264338327950288419716939937510 0b1one|58209749445923078164062862089986280348253421170679
+unmute me and call it a day
+
+=== [10.10.2025 13:36:12 UTC-05:00] 3.14159265358979323846264338327950288419716939937510 0b1one|58209749445923078164062862089986280348253421170679
+.🤣
+
+=== [10.10.2025 14:36:11 UTC-05:00] k1ng 😎
+Jrk has not confirmed that the rick roll puzzle is not part of the main prize, btw
+
+=== [10.10.2025 17:24:40 UTC-05:00] Gab
+@SoWut [https://t.me/SoWut] is carrot a hint really or is it a passing joke
+
+=== [10.10.2025 22:41:10 UTC-05:00] Raphael Q
+ALL joke
+
+=== [11.10.2025 10:28:05 UTC-05:00] GN93
+How are you doing ?
+
+=== [11.10.2025 10:59:06 UTC-05:00] Jay Gudic
+I'm good. Trying to get out of this Matrix but trying to figure out if I'm Neo or Morpherous. Maybe both?
+
+=== [11.10.2025 11:00:17 UTC-05:00] Jay Gudic
+Also trying to figure out this new hint
+
+=== [11.10.2025 11:00:43 UTC-05:00] Jay Gudic
+The random 2 in there is interesting
+
+=== [11.10.2025 14:33:35 UTC-05:00] Ashley Marie
+flying into the puzzle right now, did I miss anything cool recently?
+
+=== [11.10.2025 19:17:24 UTC-05:00] Jacob
+Sort of looks like gsmg logo?
+
+=== [11.10.2025 19:28:35 UTC-05:00] Jacob
+Here's another one with the logo.
+
+=== [11.10.2025 19:29:49 UTC-05:00] Jacob
+It seems like most of them are created by someone named waneella. The ones with the GSMG logo are at most 6 years old and not created by waneella, unless I am missing something.
+
+=== [11.10.2025 20:16:52 UTC-05:00] k1ng 😎
+why do you conclude that he owns them?
+
+=== [11.10.2025 20:40:34 UTC-05:00] Jay Gudic
+Sounds like he trolled you into googling pale thick boy if anything
+
+=== [11.10.2025 20:42:26 UTC-05:00] Jacob
+Probably
+
+=== [11.10.2025 21:12:15 UTC-05:00] Jay Gudic
+Probably hashed it too I'm assuming lol
+
+##### No need. You have all the info.
+
+Hit index 7026; messages 7016..7036
+
+=== [06.08.2023 07:11:19 UTC-05:00] Jrk Bgrt
+Hahaha good one. I thought of a 24h Killswitch, but nah. Can't be bothered :D! Instead.
+
+=== [06.08.2023 07:11:27 UTC-05:00] mpeg
+I won’t lie, after such an obscure puzzle that the best teams haven’t been able to solve yet, a warning that you might go MIA makes it sound a bit sketchy…
+
+=== [06.08.2023 07:12:13 UTC-05:00] Jrk Bgrt
+Probably the last hint:
+
+Once you hit a "ying yang", you'll be able to solve it the same day.
+
+=== [06.08.2023 07:12:23 UTC-05:00] mpeg
+I think the fact that you are still engaging is the thing that keeps this puzzle alive
+
+=== [06.08.2023 07:13:30 UTC-05:00] Jrk Bgrt
+Chance is small though. Merely an fyi, bit dramatic as stated earlier.
+
+=== [06.08.2023 07:13:42 UTC-05:00] Deleted Account
+@SoWut [https://t.me/SoWut] hit or hint?
+
+=== [06.08.2023 07:14:54 UTC-05:00] Jrk Bgrt
+Both?
+
+=== [06.08.2023 07:15:20 UTC-05:00] Deleted Account
+ok, thanks))
+
+=== [06.08.2023 07:18:41 UTC-05:00] silver_anth
+@SoWut [https://t.me/SoWut] any chance you can tell us if there is another URL to find? otherwise I am going to do a big brute force haha
+
+=== [06.08.2023 07:18:48 UTC-05:00] ArchOptic
+I still haven't had the time to follow the puzzle from start to finish. I feel like it can be solved. Maybe tonight I can get into it deeper
+
+=== [06.08.2023 07:19:07 UTC-05:00] Jrk Bgrt
+No need. You have all the info.
+
+=== [06.08.2023 07:19:16 UTC-05:00] Jrk Bgrt
+Good to see you again btw.
+
+=== [06.08.2023 07:19:45 UTC-05:00] silver_anth
+I've been lurking for years recharging, finally want to get back in and solve this
+
+=== [06.08.2023 07:19:53 UTC-05:00] 0xColombo
+Jrk, can you confirm if dbbib is decryptable?
+
+=== [06.08.2023 07:20:13 UTC-05:00] Jrk Bgrt
+No hints 🤡
+
+=== [06.08.2023 07:20:16 UTC-05:00] Zil
+I would like to know if all AES'es are decryptable. dbbib most defeinetely is.
+
+=== [06.08.2023 07:20:30 UTC-05:00] silver_anth
+Jrk, can you confirm that you will give no hints?
+
+=== [06.08.2023 07:20:47 UTC-05:00] Deleted Account
+As i understand, answer lies on the surface?
+
+=== [06.08.2023 07:21:07 UTC-05:00] Jrk Bgrt
+My hat off to you, and you know why 🫡.
+
+=== [06.08.2023 07:21:37 UTC-05:00] Jrk Bgrt
+Only fair ones. And to everyone.
+
+=== [06.08.2023 07:38:32 UTC-05:00] omaru
+do it
+
+Hit index 28072; messages 28062..28082
+
+=== [23.01.2025 07:01:01 UTC-05:00] X
+who said that?
+
+=== [23.01.2025 07:01:06 UTC-05:00] P....
+In movie, Neo instead of using the door of Salvation of Zion he choose door to save Trinity....so Salvation door is already known to us...what about Trinity door or reality/matrix door?
+
+=== [23.01.2025 07:01:23 UTC-05:00] Gorden dev.
+cause 3.2.2 didnt lead you to the salph, so its another door.
+
+=== [23.01.2025 07:01:56 UTC-05:00] Gorden dev.
+or i am completely wrong, who knows. 
+some poeple here focus on salph and others on 3.2
+
+=== [23.01.2025 07:02:12 UTC-05:00] X
+3.2.2 element "INCASEYOUMANAGETOCRACKTHISTHEPRIVATEKEYSBELONGTOHALFANDBETTERHALFANDTHEYALSONEEDFUNDSTOLIVE" is 91 chars
+
+=== [23.01.2025 07:02:29 UTC-05:00] X
+and "dbbibfbhccbegbihabebeihbeggegebebbgehhebhhfbabfdhbeffcdbbfcccgbfbeeggecbedcibfbffgigbeeeabe" is also exactly 91 chars and it is element of Salph
+
+=== [23.01.2025 07:02:36 UTC-05:00] X
+I think they are connected
+
+=== [23.01.2025 07:02:46 UTC-05:00] ES
+There is no other URL. The another door is the Cosmic Duality.
+
+=== [23.01.2025 07:02:57 UTC-05:00] X
+yeah, thats what I think
+
+=== [23.01.2025 07:03:01 UTC-05:00] ES
+@SoWut [https://t.me/SoWut] any chance you can tell us if there is another URL to find? otherwise I am going to do a big brute force haha
+
+=== [23.01.2025 07:03:02 UTC-05:00] ES
+No need. You have all the info.
+
+=== [23.01.2025 07:03:31 UTC-05:00] Deleted Account
+coincidence is always a possibility with this one as i can find connections like this with many things in the puzzle...
+might just be seeing something that isn't there if char count is all that connects them
+
+=== [23.01.2025 07:04:06 UTC-05:00] X
+you have a 91 char at ending of previous phase and at next phase of the puzzle is also starting with exact 91 char
+
+=== [23.01.2025 07:04:33 UTC-05:00] Gorden dev.
+well that would also mean the AES Blob in 3.2 will resolve in the salph link, then couldnt you reverse the solution ?
+
+=== [23.01.2025 07:04:44 UTC-05:00] Deleted Account
+how so???
+
+then phase 3 is a door too then???
+
+same setup as salphaseion page, phase 2 and 3 (so if cosmic is a door then so is 3???)
+
+=== [23.01.2025 07:05:08 UTC-05:00] X
+it is possible
+
+=== [23.01.2025 07:05:22 UTC-05:00] X
+but you cant reverse
+
+=== [23.01.2025 07:05:30 UTC-05:00] X
+AES blob with known output
+
+=== [23.01.2025 07:06:19 UTC-05:00] Deleted Account
+every door thats been found has led to another page, thats fact...
+molding reality to fit our views doesn't change reality...
+just saying
+
+=== [23.01.2025 07:07:26 UTC-05:00] Gorden dev.
+well maybe your statement is right and 3.2 becomes obsolete then, i still believe there are several ways to solve this as maybe 3.2 and salph leads to sepearte pks that access both of the wallets, the official one and the one where the halving amount went trough.
+
+=== [23.01.2025 07:07:57 UTC-05:00] Deleted Account
+this is logical....
+
+Hit index 28994; messages 28984..29004
+
+=== [12.03.2025 10:27:26 UTC-05:00] k
+And hint yen  yang It may hint at rearranging to find the balance that is the basic technique in the game matrix
+
+=== [12.03.2025 10:29:17 UTC-05:00] k
+But also the road is not without obstacles Matrix 14 * 14 and to be the square marked in the middle the matrix must be odd not even
+
+=== [12.03.2025 11:23:52 UTC-05:00] frgz
+I think 164 is where the rabbit starts his adventure
+
+=== [12.03.2025 12:01:57 UTC-05:00] Σ⸙ꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋᅠᅠᅠ𓆈⃤
+Theory on this statement
+
+=== [12.03.2025 12:02:45 UTC-05:00] Σ⸙ꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋᅠᅠᅠ𓆈⃤
+Was jrk asking us if we were only looking for BTC 
+
+Or was he telling us, instructing us. 
+
+"Are you exclusively looking for the BTC"
+
+=== [12.03.2025 12:03:05 UTC-05:00] Σ⸙ꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋᅠᅠᅠ𓆈⃤
+As in, are you wasting time with other things in the puzzle
+
+=== [12.03.2025 12:03:55 UTC-05:00] Σ⸙ꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋᅠᅠᅠ𓆈⃤
+If it's the second. Then it links together with the "the password is right infront of your eyes" statement
+
+=== [12.03.2025 12:04:18 UTC-05:00] Σ⸙ꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋᅠᅠᅠ𓆈⃤
+Meaning were looking for a solution to something that either has already been solved and we can't see it or were looking in the wrong direction
+
+=== [12.03.2025 12:04:28 UTC-05:00] Σ⸙ꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋᅠᅠᅠ𓆈⃤
+Just food for thought.
+
+=== [12.03.2025 14:39:28 UTC-05:00] Diego Schmidt
+TRL []
+
+=== [12.03.2025 14:39:28 UTC-05:00] Diego Schmidt
+No need. You have all the info.
+
+=== [12.03.2025 14:48:51 UTC-05:00] Floxy
+lol
+
+=== [12.03.2025 15:21:35 UTC-05:00] Szymon Szczawiński
+lol
+
+=== [12.03.2025 16:26:13 UTC-05:00] Gorden dev.
+👀
+
+=== [12.03.2025 16:43:48 UTC-05:00] Zed Heres
+Only for Russian men.
+
+=== [13.03.2025 04:12:17 UTC-05:00] Trin
+@propcompany [https://t.me/propcompany] @id1011718671 [https://t.me/id1011718671] english please
+
+=== [13.03.2025 04:13:52 UTC-05:00] lepr
+sorry man
+
+=== [13.03.2025 04:54:33 UTC-05:00] Deleted Account
+oh eurowizion will smash this year
+
+=== [13.03.2025 04:54:39 UTC-05:00] Deleted Account
+good songs too good ones
+
+=== [13.03.2025 15:24:33 UTC-05:00] k
+Hi man Is it possible to send the picture in an adjustable format in terms of colors and numbers?
+
+=== [13.03.2025 17:39:21 UTC-05:00] gnomad
+You can make it in libre Office or Google sheets..
+
+##### My hat off to you, and you know why
+
+Hit index 7034; messages 7024..7044
+
+=== [06.08.2023 07:18:41 UTC-05:00] silver_anth
+@SoWut [https://t.me/SoWut] any chance you can tell us if there is another URL to find? otherwise I am going to do a big brute force haha
+
+=== [06.08.2023 07:18:48 UTC-05:00] ArchOptic
+I still haven't had the time to follow the puzzle from start to finish. I feel like it can be solved. Maybe tonight I can get into it deeper
+
+=== [06.08.2023 07:19:07 UTC-05:00] Jrk Bgrt
+No need. You have all the info.
+
+=== [06.08.2023 07:19:16 UTC-05:00] Jrk Bgrt
+Good to see you again btw.
+
+=== [06.08.2023 07:19:45 UTC-05:00] silver_anth
+I've been lurking for years recharging, finally want to get back in and solve this
+
+=== [06.08.2023 07:19:53 UTC-05:00] 0xColombo
+Jrk, can you confirm if dbbib is decryptable?
+
+=== [06.08.2023 07:20:13 UTC-05:00] Jrk Bgrt
+No hints 🤡
+
+=== [06.08.2023 07:20:16 UTC-05:00] Zil
+I would like to know if all AES'es are decryptable. dbbib most defeinetely is.
+
+=== [06.08.2023 07:20:30 UTC-05:00] silver_anth
+Jrk, can you confirm that you will give no hints?
+
+=== [06.08.2023 07:20:47 UTC-05:00] Deleted Account
+As i understand, answer lies on the surface?
+
+=== [06.08.2023 07:21:07 UTC-05:00] Jrk Bgrt
+My hat off to you, and you know why 🫡.
+
+=== [06.08.2023 07:21:37 UTC-05:00] Jrk Bgrt
+Only fair ones. And to everyone.
+
+=== [06.08.2023 07:38:32 UTC-05:00] omaru
+do it
+
+=== [06.08.2023 07:39:04 UTC-05:00] Zil
+do it. and set the timer to Forever
+
+=== [06.08.2023 07:39:17 UTC-05:00] Zil
+"How long is forever? Well, sometimes just one second" :)))))
+
+=== [06.08.2023 07:40:32 UTC-05:00] Zil
+at times I wonder to myself - how many of us (including me) will end up in a mental health institution because of this puzzle :))
+
+=== [06.08.2023 07:43:54 UTC-05:00] Jrk Bgrt
+To answer your question 'fully', from here on, high likely no hints anymore. But if somehow you all can't solve it from here in the next few years (which I deem unlikely given the state of the solving process), then I might feel the need to give an additional hint, as I couldn't happily live with the idea that some would think that this was a scam. Note, that I hope not to have to give another hint as it would probably be a give away. Good luck to you all!
+
+=== [06.08.2023 07:44:51 UTC-05:00] Zil
+thank you for a great puzzle Jrk
+
+=== [06.08.2023 07:45:37 UTC-05:00] Zil
+and my usual - "You're going to help us Mr Anderson, whether you like it, or not" 😅
+
+=== [06.08.2023 07:45:43 UTC-05:00] ArchOptic
+I really feel like it's close to being solved. I think if I had one good day to actually focus on it I could at least get to the next phase
+
+=== [06.08.2023 07:46:53 UTC-05:00] Zil
+unless Jrk thinks we already know something, which we do not
+
+Hit index 23071; messages 23061..23081
+
+=== [14.11.2024 20:24:52 UTC-05:00] ArchOptic
+Address code?
+
+=== [14.11.2024 20:24:58 UTC-05:00] ArchOptic
+That we carry
+
+=== [14.11.2024 20:24:59 UTC-05:00] RB
+now show me how you build the correct coordinates - managing the -16
+
+=== [14.11.2024 20:25:21 UTC-05:00] Jerry
+Dunno maybe i think jrk lives in that area
+
+=== [14.11.2024 20:25:41 UTC-05:00] Jerry
+Shit maybe we worked at thales/safenet before gsmg heh
+
+=== [14.11.2024 20:25:46 UTC-05:00] ArchOptic
+The math for safenet has always been an issue for me. I see it done incorrectly alot
+
+=== [14.11.2024 20:26:27 UTC-05:00] Jerry
+Jrk did tell the guy that posted the solution in chat that it was incredible that it was solved
+
+=== [14.11.2024 20:26:56 UTC-05:00] Jerry
+Silver_anth I believe
+
+=== [14.11.2024 20:28:03 UTC-05:00] RB
+that's what he wrote
+
+=== [14.11.2024 20:28:24 UTC-05:00] Martín
+referring to the coords?
+
+=== [14.11.2024 20:28:42 UTC-05:00] Jerry
+My hat off to you, and you know why 🫡.
+
+=== [14.11.2024 20:29:09 UTC-05:00] Jerry
+Silver had posted the coordinates then jrk sent him that
+
+=== [14.11.2024 20:29:19 UTC-05:00] Martín
+Wonder why doing that in public?
+
+=== [14.11.2024 20:29:31 UTC-05:00] Jerry
+Because it was unsolved forever
+
+=== [14.11.2024 20:29:57 UTC-05:00] Jerry
+And jrk probably thought it wasn't going to be solved but may have been one of his side quests
+
+=== [14.11.2024 20:30:46 UTC-05:00] Jerry
+For it to spot on show thales using the gps coordinates silver posted I don't see it as a coincidence but like I said maybe we use safenet as a password again or something similar, anstoo
+
+=== [14.11.2024 20:31:49 UTC-05:00] Jerry
+Maybe he put it as a redundancy in case we couldn't figure out how so mate?
+
+=== [14.11.2024 20:32:40 UTC-05:00] RB
+it was a redundancy to the 'ironic 2name of the keymakers'
+
+=== [14.11.2024 20:34:57 UTC-05:00] Jerry
+Makes sense
+
+=== [14.11.2024 20:35:16 UTC-05:00] Jerry
+Also the bv in dutch companies meaning private
+
+=== [14.11.2024 20:35:18 UTC-05:00] Jerry
+BV80605001911AP
+
+Hit index 38764; messages 38754..38774
+
+=== [16.09.2025 08:11:02 UTC-05:00] Mr. Raid
+@sowut [https://t.me/sowut] don’t give us anything he said Hes 100% solving it a few weeks ago Hes too close :)
+
+=== [16.09.2025 08:14:05 UTC-05:00] Septa
+How about this ?
+
+=== [16.09.2025 08:14:11 UTC-05:00] Septa
+Similarities in the Concept of Cosmic Duality between Archie Comics and The Matrix
+
+Choice as the Center of Cosmic Duality
+
+In both stories, the main characters (Archie and Neo) face choices that reflect a cosmic duality—Betty vs. Veronica, the Matrix vs. the real world. Neither fully resolves these choices before their "death," creating a perpetual cosmic tension. Archie's last words and Trinity's declaration before Neo's resurrection are moments where this duality is highlighted without resolution.
+
+Death as a Balancer for Duality
+
+Archie's death in Life with Archie #36 and Neo's temporary death in The Matrix are culminating points that maintain the cosmic duality. Archie dies without choosing, maintaining the balance between Betty and Veronica. Neo dies but resurrects, maintaining the balance between the Matrix and the real world. Both are cosmic sacrifices to maintain the narrative.
+
+Multiverse/Simulation as a Reflection of Duality
+
+Archie Comics uses the multiverse (Betty vs. Veronica's timeline) to explore duality, just as The Matrix uses simulation vs. reality. In both cases, the main characters are trapped in a cycle that maintains this duality, with last words or critical moments symbolizing cosmic uncertainty.
+
+Love as a Cosmic Force
+
+Love is the element that transcends duality in both stories. Archie chooses not to choose because he loves both, maintaining balance. Neo rises because of Trinity's love, bridging the Matrix and the real world. This reflects the cosmic idea that love is an impartial, balancing force.
+
+Archie Comics Series with Correlates to Cosmic Duality
+All of the aforementioned series (Life with Archie, Archie Marries Veronica / Archie Marries Betty, Archie: The Decision, Afterlife with Archie, the main Archie series) have elements of cosmic duality, primarily through:
+
+Love Triangle as Yin-Yang: Betty and Veronica are the two poles that maintain the balance of Riverdale.
+Death and Resurrection: Archie frequently "dies" (literally or metaphorically) and comes back to life, resembling a cosmic cycle.
+Multiverse: Alternate timelines reflect the duality of reality, similar to the Matrix simulation.
+
+Specific Examples:
+
+Life with Archie #36: Archie's death is the culmination of a cosmic duality, with his last words symbolizing the balance between Betty and Veronica.
+Archie: The Decision (2024): The pressure to choose is a cosmic battle, but Archie remains ambiguous, maintaining the duality.
+Afterlife with Archie: Zombie world vs. normal Riverdale is a cosmic duality, with Archie as the balance.
+
+Conclusion
+The concept of "last words before Archie's choice" and elements of The Matrix are connected to cosmic duality through the themes of ambiguous choice, death as a balance, and love as a cosmic force. In Archie Comics, Betty and Veronica are a yin-yang duality maintained through Archie's uncertainty. In The Matrix, Neo navigates the duality of the Matrix vs. the real world, with Trinity's love as a balance. Both use death and last words to maintain cosmic balance without a final resolution, reflecting the eternal cycle inherent in cosmic duality.
+
+=== [16.09.2025 08:36:15 UTC-05:00] Septa
+ofc, gpt & grok
+
+=== [16.09.2025 08:36:57 UTC-05:00] Cereal Killer
+He better know already 😂
+
+=== [16.09.2025 08:37:46 UTC-05:00] 3.14159265358979323846264338327950288419716939937510 0b1one|58209749445923078164062862089986280348253421170679
+i know its hard but restrain yourself pk
+
+=== [16.09.2025 08:40:54 UTC-05:00] Septa
+It may seem silly, I just explored every hint on github. It would take a lot of time to explore all of this manually.
+
+=== [16.09.2025 08:47:08 UTC-05:00] Septa
+Of course, I have also tried it many times from the beginning to the end, but there is no way at all. It's better to play Roblox with my girlfriend.😂
+
+=== [16.09.2025 09:23:53 UTC-05:00] GN93
+If you eat enough carrots you might see the hidden door that is in front of you eyes 👀
+
+=== [16.09.2025 10:12:51 UTC-05:00] Cereal Killer
+Orange 🤐
+
+=== [16.09.2025 10:22:25 UTC-05:00] Cereal Killer
+My hat off to you, and you know why 🫡.
+
+=== [16.09.2025 10:22:52 UTC-05:00] Cereal Killer
+This msg is almost tont for us, with hint 🤐
+
+=== [16.09.2025 10:40:43 UTC-05:00] Раб того кому принадлежит моя душа
+Orange = red+blue
+Purple=red+yellow
+
+=== [16.09.2025 10:41:26 UTC-05:00] Раб того кому принадлежит моя душа
+Red is fefefe, rabiits can't see red soo... It's gray
+
+=== [16.09.2025 10:45:55 UTC-05:00] Cereal Killer
+🙄 puzzle is talking for "me" para 3.2
+
+=== [16.09.2025 10:47:43 UTC-05:00] Denis Golovkin
+That puzzle is silent for "I", probably
+
+=== [16.09.2025 10:49:43 UTC-05:00] Denis Golovkin
+Get yourself a good spectrophotometer, measure room ambient light, calibrate your monitor, do some fancy color correction math and you'll get visually exact match. 😁
+
+=== [16.09.2025 10:51:10 UTC-05:00] S | h
+must be me that Im William the Silent
+
+=== [16.09.2025 10:52:10 UTC-05:00] Cereal Killer
+S CA n You
+
+=== [16.09.2025 10:52:14 UTC-05:00] Cereal Killer
+Scan yourself
+
+=== [16.09.2025 10:53:02 UTC-05:00] Cereal Killer
+You scan crypto, you are same kike mirror of crypto
+
+##### Something was solved rather... remarkable.
+
+Hit index 7045; messages 7035..7055
+
+=== [06.08.2023 07:21:37 UTC-05:00] Jrk Bgrt
+Only fair ones. And to everyone.
+
+=== [06.08.2023 07:38:32 UTC-05:00] omaru
+do it
+
+=== [06.08.2023 07:39:04 UTC-05:00] Zil
+do it. and set the timer to Forever
+
+=== [06.08.2023 07:39:17 UTC-05:00] Zil
+"How long is forever? Well, sometimes just one second" :)))))
+
+=== [06.08.2023 07:40:32 UTC-05:00] Zil
+at times I wonder to myself - how many of us (including me) will end up in a mental health institution because of this puzzle :))
+
+=== [06.08.2023 07:43:54 UTC-05:00] Jrk Bgrt
+To answer your question 'fully', from here on, high likely no hints anymore. But if somehow you all can't solve it from here in the next few years (which I deem unlikely given the state of the solving process), then I might feel the need to give an additional hint, as I couldn't happily live with the idea that some would think that this was a scam. Note, that I hope not to have to give another hint as it would probably be a give away. Good luck to you all!
+
+=== [06.08.2023 07:44:51 UTC-05:00] Zil
+thank you for a great puzzle Jrk
+
+=== [06.08.2023 07:45:37 UTC-05:00] Zil
+and my usual - "You're going to help us Mr Anderson, whether you like it, or not" 😅
+
+=== [06.08.2023 07:45:43 UTC-05:00] ArchOptic
+I really feel like it's close to being solved. I think if I had one good day to actually focus on it I could at least get to the next phase
+
+=== [06.08.2023 07:46:53 UTC-05:00] Zil
+unless Jrk thinks we already know something, which we do not
+
+=== [06.08.2023 07:49:59 UTC-05:00] Jrk Bgrt
+Something was solved rather... remarkable.
+
+=== [06.08.2023 07:51:34 UTC-05:00] 0xColombo
+Has anyone passed the salvation part?
+
+=== [06.08.2023 07:53:56 UTC-05:00] Jrk Bgrt
+Partly.
+
+=== [06.08.2023 07:55:37 UTC-05:00] ArchOptic
+Don't give away too much. Especially if someone is close!
+
+=== [06.08.2023 07:56:02 UTC-05:00] Jrk Bgrt
+I won't!
+
+=== [06.08.2023 08:00:38 UTC-05:00] Jrk Bgrt
+Ok, although I somehow feel the need to have my eyes at this chat all for sudden it's time for me to shut up again and see my little ones play in an obstacle parc here on France. Ciao!
+
+=== [06.08.2023 08:03:10 UTC-05:00] Zil
+❤️
+
+=== [06.08.2023 10:57:27 UTC-05:00] TG
+When did this happen.. may I ask?
+
+=== [06.08.2023 11:06:55 UTC-05:00] x7x7x7x6
+how many X2SH hashes were used in attempts to open 3.2.2 AES... still, this puzzle is on par with 1FLAMEN6, if not better. Whoever solves it, good job Jrk!
+
+=== [06.08.2023 12:23:44 UTC-05:00] Jrk Bgrt
+I have no clue.
+
+=== [06.08.2023 13:06:58 UTC-05:00] Jerry
+@SoWut [https://t.me/SoWut] you at one time said that with what we have the puzzle would no longer require the Internet can you reconfirm
+
+Hit index 14017; messages 14007..14027
+
+=== [27.12.2023 11:09:47 UTC-05:00] 8а70N
+Matrix inside me
+
+=== [27.12.2023 11:13:20 UTC-05:00] Deleted Account
+i wonder if whoever partly passed salvation part
+
+=== [27.12.2023 11:13:27 UTC-05:00] Deleted Account
+knows he actually did so
+
+=== [27.12.2023 15:21:58 UTC-05:00] X
+@amiai_ceo [https://t.me/amiai_ceo] /help []
+
+=== [27.12.2023 15:36:31 UTC-05:00] Pomyk
+He choose the rgb values, yellow/blue is decided by the lowest bit of each encoded character of the url
+
+=== [27.12.2023 15:48:36 UTC-05:00] Pomyk
+Now try decoding the first step using your image
+
+=== [27.12.2023 16:00:15 UTC-05:00] Deleted Account
+With respect to all here, I will no longer post any new finds or thoughts in this chat... Im available on DM for anyone serious about solving but this chat is not worth the effort anymore.... good luck to all, hope someone solves it
+
+=== [27.12.2023 16:20:57 UTC-05:00] Deleted Account
+because he see it in githup mayby and knows no one decode the dbbdi or fead yet
+
+=== [27.12.2023 16:21:36 UTC-05:00] Deleted Account
+you still human
+
+=== [28.12.2023 13:58:30 UTC-05:00] Deleted Account
+i doubt it, what is solved so far in github on salvation phase is anything but remarkable
+
+=== [28.12.2023 13:58:54 UTC-05:00] Deleted Account
+@SoWut [https://t.me/SoWut] said: Something was solved rather... remarkable.
+
+=== [28.12.2023 14:25:48 UTC-05:00] Deleted Account
+okay some send him msgs
+
+=== [28.12.2023 14:26:00 UTC-05:00] Deleted Account
+with solve
+
+=== [28.12.2023 14:26:06 UTC-05:00] Deleted Account
+it's not big deal
+
+=== [28.12.2023 14:26:49 UTC-05:00] Deleted Account
+🤦‍♂️
+
+=== [28.12.2023 14:27:22 UTC-05:00] Deleted Account
+well its big deal for many reasons
+
+=== [28.12.2023 14:27:44 UTC-05:00] Deleted Account
+but i have a feeling you are here for the chat not for the puzzle so I will not argue my case
+
+=== [28.12.2023 14:28:45 UTC-05:00] Deleted Account
+i mean the people who successfully solve part of salvation they send mags to jrk and tell him
+
+
+hello 
+
+we already solve parts of salvation ..
+
+it's like this i think ..
+
+=== [28.12.2023 14:29:25 UTC-05:00] Deleted Account
+my feeling i understand this puzzle more than anyone here
+
+=== [28.12.2023 14:29:55 UTC-05:00] Deleted Account
+and I'm waiting for the hint because i can't pass the dbbdi or fead
+
+=== [28.12.2023 14:30:42 UTC-05:00] Deleted Account
+i think those two might not be needed with the hint given by sowut
+
+Hit index 45426; messages 45416..45436
+
+=== [14.01.2026 20:38:42 UTC-05:00] Martín
+haha this Jay is like a softer version of saber
+
+=== [14.01.2026 20:39:31 UTC-05:00] X
+why dont you say where did you progress on? we have a conv history too
+
+=== [14.01.2026 20:39:43 UTC-05:00] Jay Gudic
+Just need to recover the output
+
+=== [14.01.2026 20:40:10 UTC-05:00] Martín
+must be salph.. jrk said something like that
+
+=== [14.01.2026 20:40:32 UTC-05:00] X
+it was long time ago
+
+=== [14.01.2026 20:40:44 UTC-05:00] Martín
+probably got some output that seems like real data.. but can't use it further
+
+=== [14.01.2026 20:41:03 UTC-05:00] Martín
+am I right? 😜
+
+=== [14.01.2026 20:41:08 UTC-05:00] Jay Gudic
+It looked final then was nuked
+
+=== [14.01.2026 20:42:08 UTC-05:00] Denis Golovkin
+Yeah, you catch me. I got a private key but need help swapping funs. 😂😂😂
+
+=== [14.01.2026 20:46:43 UTC-05:00] X
+@aRandomString [https://t.me/aRandomString] i think u are talking about this
+
+=== [14.01.2026 20:46:43 UTC-05:00] X
+Something was solved rather... remarkable.
+
+=== [14.01.2026 20:46:48 UTC-05:00] X
+it is from Aug 2023
+
+=== [14.01.2026 20:46:53 UTC-05:00] Martín
+Yes
+
+=== [14.01.2026 20:47:01 UTC-05:00] X
+Denis joined at 24 Dec 2024
+
+=== [14.01.2026 20:47:25 UTC-05:00] Martín
+I do not think that Jrk's was referring him
+
+=== [14.01.2026 20:47:34 UTC-05:00] X
+oh i thought you did
+
+=== [14.01.2026 20:47:37 UTC-05:00] X
+okay then
+
+=== [14.01.2026 20:47:40 UTC-05:00] Martín
+I believe is someone else I won't mention
+
+=== [14.01.2026 20:47:47 UTC-05:00] Martín
+(not important)
+
+=== [14.01.2026 20:48:34 UTC-05:00] Martín
+neither i want to people start DM spam on this user 😂
+
+=== [14.01.2026 20:50:35 UTC-05:00] X
+I know what he is referring to
+
+Hit index 50948; messages 50938..50958
+
+=== [09.06.2026 18:42:53 UTC-05:00] gnosis
+We're offering some constructive criticism of your theory; we'll see if you take it into account or not, bro.
+
+=== [09.06.2026 18:43:00 UTC-05:00] X
+if 39 was a prime number i would give a chance to bip39 due to multiple “prime number” hint
+
+=== [09.06.2026 18:43:11 UTC-05:00] Artem
+I just wanted to show a slightly different view of the matrix, and that it can be solved using this method.
+
+=== [09.06.2026 18:43:29 UTC-05:00] Artem
+Whether this means anything is up to you to decide.
+
+=== [09.06.2026 18:44:33 UTC-05:00] X
+a real progress should have affect of no doubt like all previous phase progresses
+
+=== [09.06.2026 18:44:50 UTC-05:00] X
+and as he said the harder part is done
+
+=== [09.06.2026 18:45:05 UTC-05:00] X
+the progress should be very easily noticeable
+
+=== [09.06.2026 18:47:42 UTC-05:00] Artem
+I'm not arguing, I just wanted to show that the matrix is ​​solved over the gf2 field, by replacing the highlighted bit from 0 to 1
+
+=== [09.06.2026 18:52:26 UTC-05:00] X
+btw, the progress is already shared in the group
+
+=== [09.06.2026 18:52:30 UTC-05:00] X
+years ago
+
+=== [09.06.2026 18:52:47 UTC-05:00] X
+Something was solved rather... remarkable.
+
+=== [09.06.2026 18:53:10 UTC-05:00] X
+it was August 2023
+
+=== [09.06.2026 18:53:23 UTC-05:00] X
+but we didnt notice it
+
+=== [09.06.2026 18:53:53 UTC-05:00] X
+maybe we should investigate all messages between January 2023 to August 2023
+
+=== [09.06.2026 18:54:09 UTC-05:00] X
+and wish it is not deleted
+
+=== [09.06.2026 19:11:35 UTC-05:00] Denis Golovkin
+@theseedisplanted [https://t.me/theseedisplanted] , your turn 😁
+
+=== [09.06.2026 19:36:05 UTC-05:00] Nietzsch
+No hints 😉
+
+=== [09.06.2026 20:24:00 UTC-05:00] Nietzsch
+Someone hit the Ying Yang yet?
+
+=== [09.06.2026 20:24:44 UTC-05:00] gnosis
+yes
+
+=== [09.06.2026 20:24:53 UTC-05:00] Nietzsch
+?
+
+=== [09.06.2026 20:25:19 UTC-05:00] Nietzsch
+Share the input
+
+##### Partly.
+
+Hit index 7047; messages 7037..7057
+
+=== [06.08.2023 07:39:04 UTC-05:00] Zil
+do it. and set the timer to Forever
+
+=== [06.08.2023 07:39:17 UTC-05:00] Zil
+"How long is forever? Well, sometimes just one second" :)))))
+
+=== [06.08.2023 07:40:32 UTC-05:00] Zil
+at times I wonder to myself - how many of us (including me) will end up in a mental health institution because of this puzzle :))
+
+=== [06.08.2023 07:43:54 UTC-05:00] Jrk Bgrt
+To answer your question 'fully', from here on, high likely no hints anymore. But if somehow you all can't solve it from here in the next few years (which I deem unlikely given the state of the solving process), then I might feel the need to give an additional hint, as I couldn't happily live with the idea that some would think that this was a scam. Note, that I hope not to have to give another hint as it would probably be a give away. Good luck to you all!
+
+=== [06.08.2023 07:44:51 UTC-05:00] Zil
+thank you for a great puzzle Jrk
+
+=== [06.08.2023 07:45:37 UTC-05:00] Zil
+and my usual - "You're going to help us Mr Anderson, whether you like it, or not" 😅
+
+=== [06.08.2023 07:45:43 UTC-05:00] ArchOptic
+I really feel like it's close to being solved. I think if I had one good day to actually focus on it I could at least get to the next phase
+
+=== [06.08.2023 07:46:53 UTC-05:00] Zil
+unless Jrk thinks we already know something, which we do not
+
+=== [06.08.2023 07:49:59 UTC-05:00] Jrk Bgrt
+Something was solved rather... remarkable.
+
+=== [06.08.2023 07:51:34 UTC-05:00] 0xColombo
+Has anyone passed the salvation part?
+
+=== [06.08.2023 07:53:56 UTC-05:00] Jrk Bgrt
+Partly.
+
+=== [06.08.2023 07:55:37 UTC-05:00] ArchOptic
+Don't give away too much. Especially if someone is close!
+
+=== [06.08.2023 07:56:02 UTC-05:00] Jrk Bgrt
+I won't!
+
+=== [06.08.2023 08:00:38 UTC-05:00] Jrk Bgrt
+Ok, although I somehow feel the need to have my eyes at this chat all for sudden it's time for me to shut up again and see my little ones play in an obstacle parc here on France. Ciao!
+
+=== [06.08.2023 08:03:10 UTC-05:00] Zil
+❤️
+
+=== [06.08.2023 10:57:27 UTC-05:00] TG
+When did this happen.. may I ask?
+
+=== [06.08.2023 11:06:55 UTC-05:00] x7x7x7x6
+how many X2SH hashes were used in attempts to open 3.2.2 AES... still, this puzzle is on par with 1FLAMEN6, if not better. Whoever solves it, good job Jrk!
+
+=== [06.08.2023 12:23:44 UTC-05:00] Jrk Bgrt
+I have no clue.
+
+=== [06.08.2023 13:06:58 UTC-05:00] Jerry
+@SoWut [https://t.me/SoWut] you at one time said that with what we have the puzzle would no longer require the Internet can you reconfirm
+
+=== [06.08.2023 13:39:34 UTC-05:00] Jrk Bgrt
+Correct. Well, technically, you'll need the internet to claim the prize in the end 🤔.
+
+=== [06.08.2023 13:40:53 UTC-05:00] ArchOptic
+I use openssl online tho 🤣
+
+Hit index 43164; messages 43154..43174
+
+=== [04.01.2026 07:26:59 UTC-05:00] 3.14159265358979323846264338327950288419716939937510 0b1one|58209749445923078164062862089986280348253421170679
+the key could become visible in that square (8,5)  14x14 bits after some transformation
+following routine could be needed?
+
+=== [04.01.2026 07:27:29 UTC-05:00] 3.14159265358979323846264338327950288419716939937510 0b1one|58209749445923078164062862089986280348253421170679
+absolute crime XD
+
+=== [04.01.2026 14:52:46 UTC-05:00] 3.14159265358979323846264338327950288419716939937510 0b1one|58209749445923078164062862089986280348253421170679
+the png ate your tongue?
+
+=== [04.01.2026 15:29:39 UTC-05:00] Dasharo
+i think we should alll collaborate to make a fork of the github with all new findings or progress
+
+=== [04.01.2026 15:29:59 UTC-05:00] Dasharo
+especially the "youwon" and "btcseed" findings, those seem like "finding" instead of just guesses
+
+=== [04.01.2026 15:30:12 UTC-05:00] Dasharo
+we should document all of this instead of just having  us save things locally/individually
+
+=== [04.01.2026 15:31:06 UTC-05:00] Dasharo
+someone should fork one of the two puzzle githubs and add the new findings
+
+=== [04.01.2026 22:57:25 UTC-05:00] Denis Golovkin
+I'll do in a next few days.
+
+=== [04.01.2026 23:13:44 UTC-05:00] Dasharo
+that would help us progress drastically
+
+=== [04.01.2026 23:14:23 UTC-05:00] Dasharo
+just update on top of this, i think should be good :
+github.com/Naddiseo/gsmgio-5btc-puzzle
+
+=== [04.01.2026 23:45:42 UTC-05:00] Denis Golovkin
+I think to rewrite the notebooks partly. But, yeah, Nadisseo's repo is the most up-to-date public source.
+
+=== [05.01.2026 01:05:54 UTC-05:00] 3.14159265358979323846264338327950288419716939937510 0b1one|58209749445923078164062862089986280348253421170679
+for what?
+
+=== [05.01.2026 01:07:41 UTC-05:00] 3.14159265358979323846264338327950288419716939937510 0b1one|58209749445923078164062862089986280348253421170679
+^
+
+=== [05.01.2026 01:09:01 UTC-05:00] Denis Golovkin
+We'll block them all from solving the puzzle and then silently solve it ourselves. 😈
+
+=== [05.01.2026 01:12:56 UTC-05:00] 3.14159265358979323846264338327950288419716939937510 0b1one|58209749445923078164062862089986280348253421170679
+there's no ✨ leverage ✨
+
+=== [05.01.2026 02:17:52 UTC-05:00] Dasharo
+Because fuck it why not
+
+=== [05.01.2026 02:18:34 UTC-05:00] Dasharo
+Were obviously relying on each other to some extent, it is a race however group work at least partially can come in handy
+
+=== [05.01.2026 02:24:31 UTC-05:00] 3.14159265358979323846264338327950288419716939937510 0b1one|58209749445923078164062862089986280348253421170679
+https://youtu.be/XFkzRNyygfk
+
+=== [06.01.2026 11:47:53 UTC-05:00] Dasharo
+got a  1327-byte Cosmic Duality decryption, unsure if it's a false flag :p
+
+=== [06.01.2026 11:48:41 UTC-05:00] Dasharo
+207 byte header + 35 × 32-byte blocks, also All 35 blocks seem like valid BIP39 mnemonics
+
+=== [06.01.2026 11:49:46 UTC-05:00] Dasharo
+"X 2 S H 4 Y 0 Q B 15" also seems like a formula, anyone has theories to what it can or should be used for?
