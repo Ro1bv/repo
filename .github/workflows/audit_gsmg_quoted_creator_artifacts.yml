@@ -1,0 +1,94 @@
+name: Audit GSMG quoted creator artifacts
+
+on:
+  push:
+    paths:
+      - '.github/workflows/audit_gsmg_quoted_creator_artifacts.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Recover exact creator posts and quote artifacts
+        run: |
+          set -euo pipefail
+          curl --fail --location --retry 4 \
+            'https://raw.githubusercontent.com/halbgott29a/gsmgio-5btc-puzzle/master/_work/chat_transcript.txt' \
+            --output /tmp/chat_transcript.txt
+          python3 - <<'PY'
+          import csv, json, re, string
+          from pathlib import Path
+
+          raw=Path('/tmp/chat_transcript.txt').read_text(encoding='utf-8',errors='replace')
+          pat=re.compile(r'^=== \[(?P<date>[^\]]+)\] (?P<sender>[^\n]*)\n(?P<text>.*?)(?=^=== \[|\Z)',re.M|re.S)
+          msgs=[{'index':i,'date':m.group('date').strip(),'sender':m.group('sender').strip(),'text':m.group('text').strip()} for i,m in enumerate(pat.finditer(raw))]
+          exact=[m for m in msgs if m['sender']=='Jrk Bgrt']
+          quoted=[m for m in msgs if m['sender'].startswith('Jrk Bgrt ') and m['sender']!='Jrk Bgrt']
+          out=Path('gsmg_quoted_creator_audit'); out.mkdir(exist_ok=True)
+
+          with (out/'EXACT_CREATOR_411.tsv').open('w',encoding='utf-8',newline='') as f:
+              w=csv.writer(f,delimiter='\t'); w.writerow(['ordinal','global_index','date','text_one_line'])
+              for n,m in enumerate(exact,1): w.writerow([n,m['index'],m['date'],' \\n '.join(m['text'].splitlines())])
+
+          def ascii_decode(bits, mode):
+              b=bits
+              if mode=='reverse_all': b=b[::-1]
+              vals=[]
+              for i in range(0,len(b)-7,8):
+                  chunk=b[i:i+8]
+                  if mode=='reverse_each': chunk=chunk[::-1]
+                  vals.append(int(chunk,2))
+              if mode=='reverse_bytes': vals=vals[::-1]
+              return bytes(vals)
+          def score(bs):
+              if not bs:return 0
+              good=sum((32<=x<127) or x in (9,10,13) for x in bs)
+              alpha=sum(chr(x) in string.ascii_letters+'0123456789 _-:/.,?!{}[]()' for x in bs if x<128)
+              return (good+alpha)/max(1,2*len(bs))
+          qmeta=[]; qraw=[]; qctx=[]
+          for n,m in enumerate(quoted,1):
+              compact=re.sub(r'\s+','',m['text'])
+              candidates=[]
+              if compact and set(compact)<=set('01') and len(compact)>=8:
+                  for mode in ['normal','reverse_each','reverse_bytes','reverse_all']:
+                      bs=ascii_decode(compact,mode)
+                      candidates.append({'mode':mode,'score':round(score(bs),4),'preview':bs[:500].decode('utf-8','replace')})
+                  candidates.sort(key=lambda x:x['score'],reverse=True)
+              qmeta.append({'ordinal':n,'global_index':m['index'],'outer_date':m['date'],'sender_field':m['sender'],'text_length':len(m['text']),'bit_length':len(compact) if compact and set(compact)<=set('01') else None,'binary_candidates':candidates})
+              qraw.append(f'######## QUOTED_ARTIFACT {n}/{len(quoted)} GLOBAL={m["index"]} OUTER_DATE={m["date"]} SENDER_FIELD={m["sender"]} LENGTH={len(m["text"])}\n{m["text"]}\n')
+              i=m['index']; qctx.append(f'######## QUOTED_ARTIFACT {n}/{len(quoted)} GLOBAL={i}')
+              for x in msgs[max(0,i-5):min(len(msgs),i+6)]:
+                  mark='>>>' if x['index']==i else '   '
+                  qctx.append(f'{mark} [{x["date"]}] {x["sender"]}\n{x["text"]}\n')
+          (out/'QUOTED_ARTIFACTS_METADATA.json').write_text(json.dumps(qmeta,indent=2,ensure_ascii=False),encoding='utf-8')
+          (out/'QUOTED_ARTIFACTS_RAW.txt').write_text('\n'.join(qraw),encoding='utf-8')
+          (out/'QUOTED_ARTIFACTS_CONTEXTS.txt').write_text('\n'.join(qctx),encoding='utf-8')
+
+          critical_terms=['Only -41,-17 matters','There may indeed a piece be found outside','7 parts right','Apparently folks found a new piece','🌱','🛣','There must at least be something hidden','And Oen','Infrared','There is\nAnother\nD','42','00100110 10100110','Regular Bitcoin Private key','purple pill','theory of everything']
+          cl=[]
+          for term in critical_terms:
+              cl.append('######## '+term)
+              hits=[m for m in exact if term.lower() in m['text'].lower()]
+              if not hits: cl.append('NOT FOUND\n'); continue
+              for m in hits:
+                  i=m['index']; cl.append(f'GLOBAL={i} DATE={m["date"]}')
+                  for x in msgs[max(0,i-10):min(len(msgs),i+11)]:
+                      mark='>>>' if x['index']==i else '   '
+                      cl.append(f'{mark} [{x["date"]}] {x["sender"]}\n{x["text"]}\n')
+          (out/'MISSED_CRITICAL_CONTEXTS.txt').write_text('\n'.join(cl),encoding='utf-8')
+
+          summary={'exact_creator_posts':len(exact),'quoted_creator_artifacts':len(quoted),'quoted_sender_fields':sorted({m['sender'] for m in quoted}),'exact_first':exact[0]['date'],'exact_last':exact[-1]['date']}
+          (out/'SUMMARY.json').write_text(json.dumps(summary,indent=2,ensure_ascii=False),encoding='utf-8')
+          PY
+      - name: Commit recovered audit
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add gsmg_quoted_creator_audit
+          git commit -m 'Recover quoted and exact GSMG creator messages'
+          git push
