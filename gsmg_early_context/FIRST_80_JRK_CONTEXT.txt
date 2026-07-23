@@ -1,0 +1,2481 @@
+##### CREATOR INDEX 35 [20.04.2019 11:18:49 UTC-05:00]
+
+    [20.04.2019 08:49:39 UTC-05:00] Ewout
+Welcome new solvers, you have any information you want to share?
+
+    [20.04.2019 08:53:18 UTC-05:00] Freek
+Happy eastern fellas
+
+    [20.04.2019 08:53:49 UTC-05:00] Freek
+I must say
+
+    [20.04.2019 08:53:54 UTC-05:00] Freek
+I have no clue at all
+
+>>> [20.04.2019 11:18:49 UTC-05:00] Jrk Bgrt
+Ok.. somebody has cracked the first code.
+
+    [20.04.2019 11:19:00 UTC-05:00] Jrk Bgrt
+that was way faster than expected.
+
+    [20.04.2019 11:19:55 UTC-05:00] Vladimir Tsyplyayev
+How you know? There is no transaction at address.
+
+    [20.04.2019 11:21:57 UTC-05:00] Jrk Bgrt
+The first part. Maybe the puzzle has multiple stages 😉.
+
+    [20.04.2019 11:22:29 UTC-05:00] Vladimir Tsyplyayev
+You said puzzle is private key from address with 5 BTC
+
+
+##### CREATOR INDEX 36 [20.04.2019 11:19:00 UTC-05:00]
+
+    [20.04.2019 08:53:18 UTC-05:00] Freek
+Happy eastern fellas
+
+    [20.04.2019 08:53:49 UTC-05:00] Freek
+I must say
+
+    [20.04.2019 08:53:54 UTC-05:00] Freek
+I have no clue at all
+
+    [20.04.2019 11:18:49 UTC-05:00] Jrk Bgrt
+Ok.. somebody has cracked the first code.
+
+>>> [20.04.2019 11:19:00 UTC-05:00] Jrk Bgrt
+that was way faster than expected.
+
+    [20.04.2019 11:19:55 UTC-05:00] Vladimir Tsyplyayev
+How you know? There is no transaction at address.
+
+    [20.04.2019 11:21:57 UTC-05:00] Jrk Bgrt
+The first part. Maybe the puzzle has multiple stages 😉.
+
+    [20.04.2019 11:22:29 UTC-05:00] Vladimir Tsyplyayev
+You said puzzle is private key from address with 5 BTC
+
+    [20.04.2019 11:22:36 UTC-05:00] Jrk Bgrt
+It is.
+
+
+##### CREATOR INDEX 38 [20.04.2019 11:21:57 UTC-05:00]
+
+    [20.04.2019 08:53:54 UTC-05:00] Freek
+I have no clue at all
+
+    [20.04.2019 11:18:49 UTC-05:00] Jrk Bgrt
+Ok.. somebody has cracked the first code.
+
+    [20.04.2019 11:19:00 UTC-05:00] Jrk Bgrt
+that was way faster than expected.
+
+    [20.04.2019 11:19:55 UTC-05:00] Vladimir Tsyplyayev
+How you know? There is no transaction at address.
+
+>>> [20.04.2019 11:21:57 UTC-05:00] Jrk Bgrt
+The first part. Maybe the puzzle has multiple stages 😉.
+
+    [20.04.2019 11:22:29 UTC-05:00] Vladimir Tsyplyayev
+You said puzzle is private key from address with 5 BTC
+
+    [20.04.2019 11:22:36 UTC-05:00] Jrk Bgrt
+It is.
+
+    [20.04.2019 11:25:43 UTC-05:00] Vladimir Tsyplyayev
+So, how you know? Somebody tell you in pm that?
+
+    [20.04.2019 11:26:06 UTC-05:00] Doeke 👀
+It's in mainchat
+
+
+##### CREATOR INDEX 40 [20.04.2019 11:22:36 UTC-05:00]
+
+    [20.04.2019 11:19:00 UTC-05:00] Jrk Bgrt
+that was way faster than expected.
+
+    [20.04.2019 11:19:55 UTC-05:00] Vladimir Tsyplyayev
+How you know? There is no transaction at address.
+
+    [20.04.2019 11:21:57 UTC-05:00] Jrk Bgrt
+The first part. Maybe the puzzle has multiple stages 😉.
+
+    [20.04.2019 11:22:29 UTC-05:00] Vladimir Tsyplyayev
+You said puzzle is private key from address with 5 BTC
+
+>>> [20.04.2019 11:22:36 UTC-05:00] Jrk Bgrt
+It is.
+
+    [20.04.2019 11:25:43 UTC-05:00] Vladimir Tsyplyayev
+So, how you know? Somebody tell you in pm that?
+
+    [20.04.2019 11:26:06 UTC-05:00] Doeke 👀
+It's in mainchat
+
+    [20.04.2019 11:26:32 UTC-05:00] Doeke 👀
+Also, judging from those snippets of information, I don't stand a chance, as I'm not a dev
+
+    [20.04.2019 11:36:28 UTC-05:00] Vladimir Tsyplyayev
+Why he name it CSRF token?
+
+
+##### CREATOR INDEX 46 [20.04.2019 11:41:14 UTC-05:00]
+
+    [20.04.2019 11:26:06 UTC-05:00] Doeke 👀
+It's in mainchat
+
+    [20.04.2019 11:26:32 UTC-05:00] Doeke 👀
+Also, judging from those snippets of information, I don't stand a chance, as I'm not a dev
+
+    [20.04.2019 11:36:28 UTC-05:00] Vladimir Tsyplyayev
+Why he name it CSRF token?
+
+    [20.04.2019 11:37:02 UTC-05:00] Doeke 👀
+never heard of it
+
+>>> [20.04.2019 11:41:14 UTC-05:00] Jrk Bgrt
+It's a way to protect websites against cross site request forgery but the loadbalancer is a bitch on multiple tries apparently.
+
+    [20.04.2019 11:42:52 UTC-05:00] Doeke 👀
+I see. I really appreciate you guys make a competition like this, with such a great prize. But I think I will stop hunting it, I just don't have dev skills. Been googling for hours, butit was fun. Thanks! 😊👍
+
+    [20.04.2019 11:49:06 UTC-05:00] Falco
+You're not alone 😜
+
+    [20.04.2019 12:20:20 UTC-05:00] Ewout
+So 1 guy found the first part of the puzzle
+
+    [20.04.2019 12:21:24 UTC-05:00] Deleted Account
+Okay maybe this is a dumb question, but is there a page where the puzzle is posted (originally) or was it just shared through social media or something?
+
+
+##### CREATOR INDEX 144 [22.04.2019 09:28:08 UTC-05:00]
+
+    [22.04.2019 08:52:49 UTC-05:00] Falco
+Yep, same here :p
+
+    [22.04.2019 09:26:23 UTC-05:00] Deleted Account
+mine look like this
+
+    [22.04.2019 09:26:46 UTC-05:00] Deleted Account
+removed eos today
+
+    [22.04.2019 09:27:05 UTC-05:00] 0xColombo
+What is it??
+
+>>> [22.04.2019 09:28:08 UTC-05:00] Jrk Bgrt
+wrong chat RKT [] 😊
+
+    [22.04.2019 09:37:48 UTC-05:00] Deleted Account
+lol
+
+    [22.04.2019 09:38:23 UTC-05:00] Deleted Account
+thats the result of puzzle
+
+    [22.04.2019 09:38:25 UTC-05:00] Deleted Account
+lol
+
+    [22.04.2019 09:39:49 UTC-05:00] Jrk Bgrt
+😂
+
+
+##### CREATOR INDEX 148 [22.04.2019 09:39:49 UTC-05:00]
+
+    [22.04.2019 09:28:08 UTC-05:00] Jrk Bgrt
+wrong chat RKT [] 😊
+
+    [22.04.2019 09:37:48 UTC-05:00] Deleted Account
+lol
+
+    [22.04.2019 09:38:23 UTC-05:00] Deleted Account
+thats the result of puzzle
+
+    [22.04.2019 09:38:25 UTC-05:00] Deleted Account
+lol
+
+>>> [22.04.2019 09:39:49 UTC-05:00] Jrk Bgrt
+😂
+
+    [22.04.2019 14:02:11 UTC-05:00] ....
+Everyone past the rabbit yet?
+
+    [22.04.2019 14:02:22 UTC-05:00] 0xColombo
++
+
+    [22.04.2019 14:02:24 UTC-05:00] Falco
+Yep 👍😜
+
+    [22.04.2019 14:04:00 UTC-05:00] ....
+Decentttt
+
+
+##### CREATOR INDEX 155 [22.04.2019 14:48:52 UTC-05:00]
+
+    [22.04.2019 14:02:24 UTC-05:00] Falco
+Yep 👍😜
+
+    [22.04.2019 14:04:00 UTC-05:00] ....
+Decentttt
+
+    [22.04.2019 14:18:49 UTC-05:00] Raudii
+Yes!
+
+    [22.04.2019 14:45:26 UTC-05:00] Deleted Account
+I CAN’T dig this phase 1 verification 😭
+
+On to playing with PostMan. Lol
+
+>>> [22.04.2019 14:48:52 UTC-05:00] Jrk Bgrt
+5ac407837447fba24ba2802e4d1e9aecb4580aa29fef1088cc387c180b746f75
+
+    [22.04.2019 14:49:09 UTC-05:00] Jrk Bgrt
+just try hit your options against that hash.
+
+    [22.04.2019 15:36:12 UTC-05:00] Deleted Account
+Thank you 👍
+
+    [22.04.2019 16:21:43 UTC-05:00] Ewout
+You can check if you have the right password for phase 1 with this sha256 hash: 5ac407837447fba24ba2802e4d1e9aecb4580aa29fef1088cc387c180b746f75
+
+    [22.04.2019 16:24:17 UTC-05:00] Jrk Bgrt
+Puzzle token issue for stage 1 seems to be resolved.
+
+
+##### CREATOR INDEX 156 [22.04.2019 14:49:09 UTC-05:00]
+
+    [22.04.2019 14:04:00 UTC-05:00] ....
+Decentttt
+
+    [22.04.2019 14:18:49 UTC-05:00] Raudii
+Yes!
+
+    [22.04.2019 14:45:26 UTC-05:00] Deleted Account
+I CAN’T dig this phase 1 verification 😭
+
+On to playing with PostMan. Lol
+
+    [22.04.2019 14:48:52 UTC-05:00] Jrk Bgrt
+5ac407837447fba24ba2802e4d1e9aecb4580aa29fef1088cc387c180b746f75
+
+>>> [22.04.2019 14:49:09 UTC-05:00] Jrk Bgrt
+just try hit your options against that hash.
+
+    [22.04.2019 15:36:12 UTC-05:00] Deleted Account
+Thank you 👍
+
+    [22.04.2019 16:21:43 UTC-05:00] Ewout
+You can check if you have the right password for phase 1 with this sha256 hash: 5ac407837447fba24ba2802e4d1e9aecb4580aa29fef1088cc387c180b746f75
+
+    [22.04.2019 16:24:17 UTC-05:00] Jrk Bgrt
+Puzzle token issue for stage 1 seems to be resolved.
+
+    [22.04.2019 16:25:32 UTC-05:00] Deleted Account
+My only issue now is figuring out where to look for the right password. Lol
+
+
+##### CREATOR INDEX 159 [22.04.2019 16:24:17 UTC-05:00]
+
+    [22.04.2019 14:48:52 UTC-05:00] Jrk Bgrt
+5ac407837447fba24ba2802e4d1e9aecb4580aa29fef1088cc387c180b746f75
+
+    [22.04.2019 14:49:09 UTC-05:00] Jrk Bgrt
+just try hit your options against that hash.
+
+    [22.04.2019 15:36:12 UTC-05:00] Deleted Account
+Thank you 👍
+
+    [22.04.2019 16:21:43 UTC-05:00] Ewout
+You can check if you have the right password for phase 1 with this sha256 hash: 5ac407837447fba24ba2802e4d1e9aecb4580aa29fef1088cc387c180b746f75
+
+>>> [22.04.2019 16:24:17 UTC-05:00] Jrk Bgrt
+Puzzle token issue for stage 1 seems to be resolved.
+
+    [22.04.2019 16:25:32 UTC-05:00] Deleted Account
+My only issue now is figuring out where to look for the right password. Lol
+
+    [22.04.2019 16:26:13 UTC-05:00] Doeke 👀
+how to check a password with a hash?
+
+    [22.04.2019 16:26:42 UTC-05:00] Jrk Bgrt
+https://passwordsgenerator.net/sha256-hash-generator/
+
+    [22.04.2019 16:26:50 UTC-05:00] Doeke 👀
+thank you
+
+
+##### CREATOR INDEX 162 [22.04.2019 16:26:42 UTC-05:00]
+
+    [22.04.2019 16:21:43 UTC-05:00] Ewout
+You can check if you have the right password for phase 1 with this sha256 hash: 5ac407837447fba24ba2802e4d1e9aecb4580aa29fef1088cc387c180b746f75
+
+    [22.04.2019 16:24:17 UTC-05:00] Jrk Bgrt
+Puzzle token issue for stage 1 seems to be resolved.
+
+    [22.04.2019 16:25:32 UTC-05:00] Deleted Account
+My only issue now is figuring out where to look for the right password. Lol
+
+    [22.04.2019 16:26:13 UTC-05:00] Doeke 👀
+how to check a password with a hash?
+
+>>> [22.04.2019 16:26:42 UTC-05:00] Jrk Bgrt
+https://passwordsgenerator.net/sha256-hash-generator/
+
+    [22.04.2019 16:26:50 UTC-05:00] Doeke 👀
+thank you
+
+    [22.04.2019 16:26:51 UTC-05:00] Jrk Bgrt
+or just get yourself a python script
+
+    [22.04.2019 16:27:19 UTC-05:00] Doeke 👀
+I'm better at clicking provided links 😄
+
+    [22.04.2019 16:28:05 UTC-05:00] phacyh
+what to do when i get the correct password 🤔
+
+
+##### CREATOR INDEX 164 [22.04.2019 16:26:51 UTC-05:00]
+
+    [22.04.2019 16:25:32 UTC-05:00] Deleted Account
+My only issue now is figuring out where to look for the right password. Lol
+
+    [22.04.2019 16:26:13 UTC-05:00] Doeke 👀
+how to check a password with a hash?
+
+    [22.04.2019 16:26:42 UTC-05:00] Jrk Bgrt
+https://passwordsgenerator.net/sha256-hash-generator/
+
+    [22.04.2019 16:26:50 UTC-05:00] Doeke 👀
+thank you
+
+>>> [22.04.2019 16:26:51 UTC-05:00] Jrk Bgrt
+or just get yourself a python script
+
+    [22.04.2019 16:27:19 UTC-05:00] Doeke 👀
+I'm better at clicking provided links 😄
+
+    [22.04.2019 16:28:05 UTC-05:00] phacyh
+what to do when i get the correct password 🤔
+
+    [22.04.2019 16:28:13 UTC-05:00] Jrk Bgrt
+a sticker
+
+    [22.04.2019 16:28:27 UTC-05:00] Ewout
+hahah
+
+
+##### CREATOR INDEX 167 [22.04.2019 16:28:13 UTC-05:00]
+
+    [22.04.2019 16:26:50 UTC-05:00] Doeke 👀
+thank you
+
+    [22.04.2019 16:26:51 UTC-05:00] Jrk Bgrt
+or just get yourself a python script
+
+    [22.04.2019 16:27:19 UTC-05:00] Doeke 👀
+I'm better at clicking provided links 😄
+
+    [22.04.2019 16:28:05 UTC-05:00] phacyh
+what to do when i get the correct password 🤔
+
+>>> [22.04.2019 16:28:13 UTC-05:00] Jrk Bgrt
+a sticker
+
+    [22.04.2019 16:28:27 UTC-05:00] Ewout
+hahah
+
+    [22.04.2019 16:28:36 UTC-05:00] phacyh
+🤫
+
+    [22.04.2019 16:28:47 UTC-05:00] phacyh
+Trolling 😭
+
+    [22.04.2019 16:28:49 UTC-05:00] Doeke 👀
+Same question, but get to that if I find it 😊
+
+
+##### CREATOR INDEX 184 [22.04.2019 17:29:02 UTC-05:00]
+
+    [22.04.2019 16:33:34 UTC-05:00] phacyh
+Listen spiralling by keane to get an idea
+
+    [22.04.2019 16:34:00 UTC-05:00] Doeke 👀
+will listen now
+
+    [22.04.2019 16:40:07 UTC-05:00] Doeke 👀
+great song 😄
+
+    [22.04.2019 17:26:00 UTC-05:00] Dario P
+what is this?
+
+>>> [22.04.2019 17:29:02 UTC-05:00] Jrk Bgrt
+A hash which we provided as the website was giving a lot of token errors. With this hash the puzzlers can try their passwords instead of firing them at the website.
+
+    [22.04.2019 17:29:47 UTC-05:00] Dario P
+ok, this is what I found in the png:
+
+    [22.04.2019 17:30:18 UTC-05:00] Dario P
+discontinued line
+
+    [22.04.2019 17:30:56 UTC-05:00] Dario P
+a new square equalizing the png
+
+    [22.04.2019 17:49:04 UTC-05:00] Deleted Account
+@Pixel75 [https://t.me/Pixel75] 
+You can get this first part of the puzzle pretty much by hand.
+No steg or anything image analyzing needed.
+
+No clue if anything else is relevant beyond the link encoded in the image.
+
+
+##### CREATOR INDEX 231 [23.04.2019 13:57:51 UTC-05:00]
+
+    [23.04.2019 13:57:14 UTC-05:00] Deleted Account
+hahaha yeah he is not gsmg
+
+    [23.04.2019 13:57:19 UTC-05:00] phacyh
+Oh. Thought you're part of the team
+
+    [23.04.2019 13:57:26 UTC-05:00] phacyh
+My bad
+
+    [23.04.2019 13:57:33 UTC-05:00] Ewout
+no prob
+
+>>> [23.04.2019 13:57:51 UTC-05:00] Jrk Bgrt
+Ewout managed to crack the april 1st puzzle. He was the first to solve it.
+
+    [23.04.2019 13:57:52 UTC-05:00] AnonSam
+the man
+
+    [23.04.2019 13:58:11 UTC-05:00] phacyh
+Ah ewout is the man
+
+    [23.04.2019 13:58:52 UTC-05:00] Ewout
+hahah got rick rolled
+
+    [23.04.2019 13:58:52 UTC-05:00] phacyh
+I'm new to puzzling but i figured out the first part. Got the link and found the hidden submit form
+
+
+##### CREATOR INDEX 386 [27.04.2019 10:46:58 UTC-05:00]
+
+    [25.04.2019 10:06:14 UTC-05:00] ....
+Pulling my hair out haha
+
+    [27.04.2019 00:37:54 UTC-05:00] Deleted Account
+news?
+
+    [27.04.2019 03:02:24 UTC-05:00] 0xColombo
+Solved
+
+    [27.04.2019 03:02:48 UTC-05:00] phacyh
+😂
+
+>>> [27.04.2019 10:46:58 UTC-05:00] Jrk Bgrt
+hahahaha :D
+
+    [27.04.2019 10:47:07 UTC-05:00] Jrk Bgrt
+back to the pile!
+
+    [27.04.2019 16:35:17 UTC-05:00] Dario P
+someone pass second phase?
+
+    [27.04.2019 16:39:30 UTC-05:00] ....
+A few have
+
+    [28.04.2019 13:00:07 UTC-05:00] 0xColombo
+Anyone solved aes 1 / 2?
+
+
+##### CREATOR INDEX 387 [27.04.2019 10:47:07 UTC-05:00]
+
+    [27.04.2019 00:37:54 UTC-05:00] Deleted Account
+news?
+
+    [27.04.2019 03:02:24 UTC-05:00] 0xColombo
+Solved
+
+    [27.04.2019 03:02:48 UTC-05:00] phacyh
+😂
+
+    [27.04.2019 10:46:58 UTC-05:00] Jrk Bgrt
+hahahaha :D
+
+>>> [27.04.2019 10:47:07 UTC-05:00] Jrk Bgrt
+back to the pile!
+
+    [27.04.2019 16:35:17 UTC-05:00] Dario P
+someone pass second phase?
+
+    [27.04.2019 16:39:30 UTC-05:00] ....
+A few have
+
+    [28.04.2019 13:00:07 UTC-05:00] 0xColombo
+Anyone solved aes 1 / 2?
+
+    [28.04.2019 13:58:52 UTC-05:00] Dario P
+Is that for phase 2?
+
+
+##### CREATOR INDEX 405 [29.04.2019 17:35:29 UTC-05:00]
+
+    [29.04.2019 12:27:04 UTC-05:00] Deleted Account
+What has that to do with the puzzle tho
+
+    [29.04.2019 12:41:07 UTC-05:00] 0xColombo
+Just enjoy🤪
+
+    [29.04.2019 12:54:07 UTC-05:00] Ewout
+Let’s keep it English
+
+    [29.04.2019 17:17:18 UTC-05:00] 0xColombo
+I have not seen any rules of this puzzle that forbid speaking other languages. But if the admins are against it, then okay, I won't)
+
+>>> [29.04.2019 17:35:29 UTC-05:00] Jrk Bgrt
+I personally don't mind you talkinig in another language in  this chat tbh although I do prefer english to be the standard language as I assume most of us will be able to follow the conversations. The main chat of GSMG is english only.
+
+    [29.04.2019 17:38:04 UTC-05:00] 0xColombo
+Look at it this way. International networking. Someone here is from Russia, like me, someone from France, someone from Germany and so on. And this is primarily a quest. Why not complicate people's task and give a hint or a joke in another language?) I gave a tip to the translator
+
+    [29.04.2019 17:39:42 UTC-05:00] 0xColombo
+I'm not complaining that there is a lot of incomprehensible in the puzzle because of the language barrier, because of some misunderstanding of metaphors and comparisons. At least I tried to slightly dilute the situation, because the activity in the chat has become lower)
+
+    [30.04.2019 02:53:16 UTC-05:00] L
+So i finally figured out the bunny part. However I'm now stuck with the password. Anyone willing to give a hint for that?
+
+    [30.04.2019 04:38:49 UTC-05:00] Deleted Account
+Are you willing to give a hint for the bunny part?
+
+
+##### CREATOR INDEX 502 [08.05.2019 08:20:21 UTC-05:00]
+
+    [08.05.2019 07:44:17 UTC-05:00] Andrea
+I found it, and I also know about the hash
+
+    [08.05.2019 07:44:34 UTC-05:00] Andrea
+Just can’t find the right password 🙃
+
+    [08.05.2019 07:47:40 UTC-05:00] Andrea
+I’m thinking I need to go back to the images and apply something described in the lyrics, but haven’t been lucky yet
+
+    [08.05.2019 07:49:05 UTC-05:00] Andrea
+Am I on the right track at least?
+
+>>> [08.05.2019 08:20:21 UTC-05:00] Jrk Bgrt
+Apparently somebody managed to get into Phase 3 🧐
+
+    [08.05.2019 08:25:48 UTC-05:00] Alex
+Congratulations 😀
+
+    [08.05.2019 08:28:01 UTC-05:00] Deleted Account
+How many phase are there like 5
+
+    [08.05.2019 08:34:39 UTC-05:00] Jrk Bgrt
+Nobody knows
+
+    [08.05.2019 08:36:53 UTC-05:00] Deleted Account
+😀
+
+
+##### CREATOR INDEX 505 [08.05.2019 08:34:39 UTC-05:00]
+
+    [08.05.2019 07:49:05 UTC-05:00] Andrea
+Am I on the right track at least?
+
+    [08.05.2019 08:20:21 UTC-05:00] Jrk Bgrt
+Apparently somebody managed to get into Phase 3 🧐
+
+    [08.05.2019 08:25:48 UTC-05:00] Alex
+Congratulations 😀
+
+    [08.05.2019 08:28:01 UTC-05:00] Deleted Account
+How many phase are there like 5
+
+>>> [08.05.2019 08:34:39 UTC-05:00] Jrk Bgrt
+Nobody knows
+
+    [08.05.2019 08:36:53 UTC-05:00] Deleted Account
+😀
+
+    [08.05.2019 09:05:56 UTC-05:00] Ewout
+Wow
+
+    [08.05.2019 09:15:43 UTC-05:00] li li
+Oh so difficult😆
+
+    [08.05.2019 09:44:04 UTC-05:00] li li
+Red is strange🤔
+
+
+##### CREATOR INDEX 661 [14.05.2019 09:49:49 UTC-05:00]
+
+    [14.05.2019 09:12:44 UTC-05:00] Deleted Account
+I just can't quite put my finger on what's so suspicious here 🤔
+
+    [14.05.2019 09:15:08 UTC-05:00] Deleted Account
+As far as I can tell no one knows
+
+    [14.05.2019 09:18:23 UTC-05:00] Deleted Account
+Could be but they haven't promoted anything yet
+
+    [14.05.2019 09:22:54 UTC-05:00] 0xColombo
+Cikada3301 its fake too?)))
+
+>>> [14.05.2019 09:49:49 UTC-05:00] Jrk Bgrt
+👌
+
+    [14.05.2019 09:51:40 UTC-05:00] Jrk Bgrt
+Quests might* be scams. We didn't promote this puzzle nor is it unsolvalble. Please enjoy the puzzle or continue your journey.
+
+    [14.05.2019 09:51:58 UTC-05:00] 0xColombo
+)))
+
+    [14.05.2019 09:53:14 UTC-05:00] phacyh
+@SoWut [https://t.me/SoWut] give me the solution
+
+    [14.05.2019 09:53:21 UTC-05:00] phacyh
+🙄
+
+
+##### CREATOR INDEX 662 [14.05.2019 09:51:40 UTC-05:00]
+
+    [14.05.2019 09:15:08 UTC-05:00] Deleted Account
+As far as I can tell no one knows
+
+    [14.05.2019 09:18:23 UTC-05:00] Deleted Account
+Could be but they haven't promoted anything yet
+
+    [14.05.2019 09:22:54 UTC-05:00] 0xColombo
+Cikada3301 its fake too?)))
+
+    [14.05.2019 09:49:49 UTC-05:00] Jrk Bgrt
+👌
+
+>>> [14.05.2019 09:51:40 UTC-05:00] Jrk Bgrt
+Quests might* be scams. We didn't promote this puzzle nor is it unsolvalble. Please enjoy the puzzle or continue your journey.
+
+    [14.05.2019 09:51:58 UTC-05:00] 0xColombo
+)))
+
+    [14.05.2019 09:53:14 UTC-05:00] phacyh
+@SoWut [https://t.me/SoWut] give me the solution
+
+    [14.05.2019 09:53:21 UTC-05:00] phacyh
+🙄
+
+    [14.05.2019 09:53:59 UTC-05:00] Jrk Bgrt
+Sure, once it's solved.
+
+
+##### CREATOR INDEX 666 [14.05.2019 09:53:59 UTC-05:00]
+
+    [14.05.2019 09:51:40 UTC-05:00] Jrk Bgrt
+Quests might* be scams. We didn't promote this puzzle nor is it unsolvalble. Please enjoy the puzzle or continue your journey.
+
+    [14.05.2019 09:51:58 UTC-05:00] 0xColombo
+)))
+
+    [14.05.2019 09:53:14 UTC-05:00] phacyh
+@SoWut [https://t.me/SoWut] give me the solution
+
+    [14.05.2019 09:53:21 UTC-05:00] phacyh
+🙄
+
+>>> [14.05.2019 09:53:59 UTC-05:00] Jrk Bgrt
+Sure, once it's solved.
+
+    [14.05.2019 09:54:10 UTC-05:00] phacyh
+😞
+
+    [14.05.2019 09:56:38 UTC-05:00] Deleted Account
+if prize will be halfed each time.. not sure about interest will continue long time..
+
+    [14.05.2019 10:01:11 UTC-05:00] Jrk Bgrt
+I suppose the btc price will be above 10k at the next halving.
+
+    [14.05.2019 10:01:14 UTC-05:00] 0xColombo
+how to u know it?
+
+
+##### CREATOR INDEX 669 [14.05.2019 10:01:11 UTC-05:00]
+
+    [14.05.2019 09:53:21 UTC-05:00] phacyh
+🙄
+
+    [14.05.2019 09:53:59 UTC-05:00] Jrk Bgrt
+Sure, once it's solved.
+
+    [14.05.2019 09:54:10 UTC-05:00] phacyh
+😞
+
+    [14.05.2019 09:56:38 UTC-05:00] Deleted Account
+if prize will be halfed each time.. not sure about interest will continue long time..
+
+>>> [14.05.2019 10:01:11 UTC-05:00] Jrk Bgrt
+I suppose the btc price will be above 10k at the next halving.
+
+    [14.05.2019 10:01:14 UTC-05:00] 0xColombo
+how to u know it?
+
+    [14.05.2019 10:01:20 UTC-05:00] Deleted Account
+cicada like satoshistreasure hunting.
+
+    [14.05.2019 10:14:43 UTC-05:00] Deleted Account
+its reduce bruteforce time for.. half solar system life :)
+
+    [14.05.2019 10:16:39 UTC-05:00] Deleted Account
+vanity generator use this prefix for WIF.
+
+
+##### CREATOR INDEX 674 [17.05.2019 17:39:21 UTC-05:00]
+
+    [14.05.2019 10:01:14 UTC-05:00] 0xColombo
+how to u know it?
+
+    [14.05.2019 10:01:20 UTC-05:00] Deleted Account
+cicada like satoshistreasure hunting.
+
+    [14.05.2019 10:14:43 UTC-05:00] Deleted Account
+its reduce bruteforce time for.. half solar system life :)
+
+    [14.05.2019 10:16:39 UTC-05:00] Deleted Account
+vanity generator use this prefix for WIF.
+
+>>> [17.05.2019 17:39:21 UTC-05:00] Jrk Bgrt
+Dear all, somebody pointed out that there might be a mistake in phase III and that is correct unfortunately. The mistake makes it nearly impossible to solve unless you'd know where to add 1 extra character between the 3 answers. My sincerest apologies for this, I'll fix this a soon as I've found a decent spot to do so as I'm on holiday atm. Again, 1000 times sorry, I'm aware I might have wasted a lot of time for some :-(...
+
+    [17.05.2019 17:43:46 UTC-05:00] Jrk Bgrt
+Here's the hint in order to bypass the mistake:
+
+giveit = givetit
+
+    [17.05.2019 18:17:22 UTC-05:00] phacyh
+Phase 3 is the 2nd aes right?
+
+    [17.05.2019 19:04:04 UTC-05:00] Jrk Bgrt
+Correct.
+
+    [17.05.2019 19:15:22 UTC-05:00] Jrk Bgrt
+For those feeling bad about having wasted time on my typo. I might feel even worse as I've tested the entire puzzle 3 times with the same string which had the typo in it 😒. I'll kill some braincells tonight with tasteless alcohol in order to forget this blunder.
+
+
+##### CREATOR INDEX 675 [17.05.2019 17:43:46 UTC-05:00]
+
+    [14.05.2019 10:01:20 UTC-05:00] Deleted Account
+cicada like satoshistreasure hunting.
+
+    [14.05.2019 10:14:43 UTC-05:00] Deleted Account
+its reduce bruteforce time for.. half solar system life :)
+
+    [14.05.2019 10:16:39 UTC-05:00] Deleted Account
+vanity generator use this prefix for WIF.
+
+    [17.05.2019 17:39:21 UTC-05:00] Jrk Bgrt
+Dear all, somebody pointed out that there might be a mistake in phase III and that is correct unfortunately. The mistake makes it nearly impossible to solve unless you'd know where to add 1 extra character between the 3 answers. My sincerest apologies for this, I'll fix this a soon as I've found a decent spot to do so as I'm on holiday atm. Again, 1000 times sorry, I'm aware I might have wasted a lot of time for some :-(...
+
+>>> [17.05.2019 17:43:46 UTC-05:00] Jrk Bgrt
+Here's the hint in order to bypass the mistake:
+
+giveit = givetit
+
+    [17.05.2019 18:17:22 UTC-05:00] phacyh
+Phase 3 is the 2nd aes right?
+
+    [17.05.2019 19:04:04 UTC-05:00] Jrk Bgrt
+Correct.
+
+    [17.05.2019 19:15:22 UTC-05:00] Jrk Bgrt
+For those feeling bad about having wasted time on my typo. I might feel even worse as I've tested the entire puzzle 3 times with the same string which had the typo in it 😒. I'll kill some braincells tonight with tasteless alcohol in order to forget this blunder.
+
+    [17.05.2019 19:15:41 UTC-05:00] silver_anth
+😂
+
+
+##### CREATOR INDEX 677 [17.05.2019 19:04:04 UTC-05:00]
+
+    [14.05.2019 10:16:39 UTC-05:00] Deleted Account
+vanity generator use this prefix for WIF.
+
+    [17.05.2019 17:39:21 UTC-05:00] Jrk Bgrt
+Dear all, somebody pointed out that there might be a mistake in phase III and that is correct unfortunately. The mistake makes it nearly impossible to solve unless you'd know where to add 1 extra character between the 3 answers. My sincerest apologies for this, I'll fix this a soon as I've found a decent spot to do so as I'm on holiday atm. Again, 1000 times sorry, I'm aware I might have wasted a lot of time for some :-(...
+
+    [17.05.2019 17:43:46 UTC-05:00] Jrk Bgrt
+Here's the hint in order to bypass the mistake:
+
+giveit = givetit
+
+    [17.05.2019 18:17:22 UTC-05:00] phacyh
+Phase 3 is the 2nd aes right?
+
+>>> [17.05.2019 19:04:04 UTC-05:00] Jrk Bgrt
+Correct.
+
+    [17.05.2019 19:15:22 UTC-05:00] Jrk Bgrt
+For those feeling bad about having wasted time on my typo. I might feel even worse as I've tested the entire puzzle 3 times with the same string which had the typo in it 😒. I'll kill some braincells tonight with tasteless alcohol in order to forget this blunder.
+
+    [17.05.2019 19:15:41 UTC-05:00] silver_anth
+😂
+
+    [17.05.2019 20:42:55 UTC-05:00] Deleted Account
+pls, confirm or decline.
+
+phase2 is a pwd for phase3.
+u told NOT about this stage.
+
+u told about solution of phase3 for next stage?
+
+    [17.05.2019 21:30:08 UTC-05:00] Jrk Bgrt
+The issue is within the 3th phase. Not in going from 2 to 3.
+
+
+##### CREATOR INDEX 678 [17.05.2019 19:15:22 UTC-05:00]
+
+    [17.05.2019 17:39:21 UTC-05:00] Jrk Bgrt
+Dear all, somebody pointed out that there might be a mistake in phase III and that is correct unfortunately. The mistake makes it nearly impossible to solve unless you'd know where to add 1 extra character between the 3 answers. My sincerest apologies for this, I'll fix this a soon as I've found a decent spot to do so as I'm on holiday atm. Again, 1000 times sorry, I'm aware I might have wasted a lot of time for some :-(...
+
+    [17.05.2019 17:43:46 UTC-05:00] Jrk Bgrt
+Here's the hint in order to bypass the mistake:
+
+giveit = givetit
+
+    [17.05.2019 18:17:22 UTC-05:00] phacyh
+Phase 3 is the 2nd aes right?
+
+    [17.05.2019 19:04:04 UTC-05:00] Jrk Bgrt
+Correct.
+
+>>> [17.05.2019 19:15:22 UTC-05:00] Jrk Bgrt
+For those feeling bad about having wasted time on my typo. I might feel even worse as I've tested the entire puzzle 3 times with the same string which had the typo in it 😒. I'll kill some braincells tonight with tasteless alcohol in order to forget this blunder.
+
+    [17.05.2019 19:15:41 UTC-05:00] silver_anth
+😂
+
+    [17.05.2019 20:42:55 UTC-05:00] Deleted Account
+pls, confirm or decline.
+
+phase2 is a pwd for phase3.
+u told NOT about this stage.
+
+u told about solution of phase3 for next stage?
+
+    [17.05.2019 21:30:08 UTC-05:00] Jrk Bgrt
+The issue is within the 3th phase. Not in going from 2 to 3.
+
+    [17.05.2019 21:30:34 UTC-05:00] Jrk Bgrt
+Once you have to work with give(t)it you'll know.
+
+
+##### CREATOR INDEX 681 [17.05.2019 21:30:08 UTC-05:00]
+
+    [17.05.2019 19:04:04 UTC-05:00] Jrk Bgrt
+Correct.
+
+    [17.05.2019 19:15:22 UTC-05:00] Jrk Bgrt
+For those feeling bad about having wasted time on my typo. I might feel even worse as I've tested the entire puzzle 3 times with the same string which had the typo in it 😒. I'll kill some braincells tonight with tasteless alcohol in order to forget this blunder.
+
+    [17.05.2019 19:15:41 UTC-05:00] silver_anth
+😂
+
+    [17.05.2019 20:42:55 UTC-05:00] Deleted Account
+pls, confirm or decline.
+
+phase2 is a pwd for phase3.
+u told NOT about this stage.
+
+u told about solution of phase3 for next stage?
+
+>>> [17.05.2019 21:30:08 UTC-05:00] Jrk Bgrt
+The issue is within the 3th phase. Not in going from 2 to 3.
+
+    [17.05.2019 21:30:34 UTC-05:00] Jrk Bgrt
+Once you have to work with give(t)it you'll know.
+
+    [18.05.2019 11:26:26 UTC-05:00] Jrk Bgrt
+So, after yesterday's 'hint' a team of puzzlers has made an unbelievable amount of progress in just one day... The progress they made was unforseen as we expected it to take at least a !month! to pass those parts of the puzzle. Hat off for those that managed to puzzle their way through all the ciphers and riddles in this extraordinary pace. We're really impressed by that, actually, we stand in awe for you. Congrats.
+
+To those not having reached Phase III yet, no worries besides a bit of extra pressure. The "last" part of the puzzle will ensure that there's quite some time for you guys to catch up to them... although given their obvious skill this might be solved quicker than expected aswell.. time will tell. Good luck!
+
+    [18.05.2019 11:30:59 UTC-05:00] 0xColombo
+Scam🤓
+
+    [18.05.2019 11:31:02 UTC-05:00] Jrk Bgrt
+In case the private key hasn't been found in 2019 we'll release a tiny hint at the start of 2020, that will be the final hint. Can the private key be retrieved without that hint? Yes.
+
+
+##### CREATOR INDEX 682 [17.05.2019 21:30:34 UTC-05:00]
+
+    [17.05.2019 19:15:22 UTC-05:00] Jrk Bgrt
+For those feeling bad about having wasted time on my typo. I might feel even worse as I've tested the entire puzzle 3 times with the same string which had the typo in it 😒. I'll kill some braincells tonight with tasteless alcohol in order to forget this blunder.
+
+    [17.05.2019 19:15:41 UTC-05:00] silver_anth
+😂
+
+    [17.05.2019 20:42:55 UTC-05:00] Deleted Account
+pls, confirm or decline.
+
+phase2 is a pwd for phase3.
+u told NOT about this stage.
+
+u told about solution of phase3 for next stage?
+
+    [17.05.2019 21:30:08 UTC-05:00] Jrk Bgrt
+The issue is within the 3th phase. Not in going from 2 to 3.
+
+>>> [17.05.2019 21:30:34 UTC-05:00] Jrk Bgrt
+Once you have to work with give(t)it you'll know.
+
+    [18.05.2019 11:26:26 UTC-05:00] Jrk Bgrt
+So, after yesterday's 'hint' a team of puzzlers has made an unbelievable amount of progress in just one day... The progress they made was unforseen as we expected it to take at least a !month! to pass those parts of the puzzle. Hat off for those that managed to puzzle their way through all the ciphers and riddles in this extraordinary pace. We're really impressed by that, actually, we stand in awe for you. Congrats.
+
+To those not having reached Phase III yet, no worries besides a bit of extra pressure. The "last" part of the puzzle will ensure that there's quite some time for you guys to catch up to them... although given their obvious skill this might be solved quicker than expected aswell.. time will tell. Good luck!
+
+    [18.05.2019 11:30:59 UTC-05:00] 0xColombo
+Scam🤓
+
+    [18.05.2019 11:31:02 UTC-05:00] Jrk Bgrt
+In case the private key hasn't been found in 2019 we'll release a tiny hint at the start of 2020, that will be the final hint. Can the private key be retrieved without that hint? Yes.
+
+    [18.05.2019 11:41:51 UTC-05:00] li li
+what?
+
+
+##### CREATOR INDEX 683 [18.05.2019 11:26:26 UTC-05:00]
+
+    [17.05.2019 19:15:41 UTC-05:00] silver_anth
+😂
+
+    [17.05.2019 20:42:55 UTC-05:00] Deleted Account
+pls, confirm or decline.
+
+phase2 is a pwd for phase3.
+u told NOT about this stage.
+
+u told about solution of phase3 for next stage?
+
+    [17.05.2019 21:30:08 UTC-05:00] Jrk Bgrt
+The issue is within the 3th phase. Not in going from 2 to 3.
+
+    [17.05.2019 21:30:34 UTC-05:00] Jrk Bgrt
+Once you have to work with give(t)it you'll know.
+
+>>> [18.05.2019 11:26:26 UTC-05:00] Jrk Bgrt
+So, after yesterday's 'hint' a team of puzzlers has made an unbelievable amount of progress in just one day... The progress they made was unforseen as we expected it to take at least a !month! to pass those parts of the puzzle. Hat off for those that managed to puzzle their way through all the ciphers and riddles in this extraordinary pace. We're really impressed by that, actually, we stand in awe for you. Congrats.
+
+To those not having reached Phase III yet, no worries besides a bit of extra pressure. The "last" part of the puzzle will ensure that there's quite some time for you guys to catch up to them... although given their obvious skill this might be solved quicker than expected aswell.. time will tell. Good luck!
+
+    [18.05.2019 11:30:59 UTC-05:00] 0xColombo
+Scam🤓
+
+    [18.05.2019 11:31:02 UTC-05:00] Jrk Bgrt
+In case the private key hasn't been found in 2019 we'll release a tiny hint at the start of 2020, that will be the final hint. Can the private key be retrieved without that hint? Yes.
+
+    [18.05.2019 11:41:51 UTC-05:00] li li
+what?
+
+    [18.05.2019 11:42:45 UTC-05:00] li li
+don't know what you mean
+
+
+##### CREATOR INDEX 685 [18.05.2019 11:31:02 UTC-05:00]
+
+    [17.05.2019 21:30:08 UTC-05:00] Jrk Bgrt
+The issue is within the 3th phase. Not in going from 2 to 3.
+
+    [17.05.2019 21:30:34 UTC-05:00] Jrk Bgrt
+Once you have to work with give(t)it you'll know.
+
+    [18.05.2019 11:26:26 UTC-05:00] Jrk Bgrt
+So, after yesterday's 'hint' a team of puzzlers has made an unbelievable amount of progress in just one day... The progress they made was unforseen as we expected it to take at least a !month! to pass those parts of the puzzle. Hat off for those that managed to puzzle their way through all the ciphers and riddles in this extraordinary pace. We're really impressed by that, actually, we stand in awe for you. Congrats.
+
+To those not having reached Phase III yet, no worries besides a bit of extra pressure. The "last" part of the puzzle will ensure that there's quite some time for you guys to catch up to them... although given their obvious skill this might be solved quicker than expected aswell.. time will tell. Good luck!
+
+    [18.05.2019 11:30:59 UTC-05:00] 0xColombo
+Scam🤓
+
+>>> [18.05.2019 11:31:02 UTC-05:00] Jrk Bgrt
+In case the private key hasn't been found in 2019 we'll release a tiny hint at the start of 2020, that will be the final hint. Can the private key be retrieved without that hint? Yes.
+
+    [18.05.2019 11:41:51 UTC-05:00] li li
+what?
+
+    [18.05.2019 11:42:45 UTC-05:00] li li
+don't know what you mean
+
+    [18.05.2019 11:46:30 UTC-05:00] li li
+did they get the first part of treasure？
+
+    [18.05.2019 11:49:27 UTC-05:00] Jrk Bgrt
+Nope
+
+
+##### CREATOR INDEX 689 [18.05.2019 11:49:27 UTC-05:00]
+
+    [18.05.2019 11:31:02 UTC-05:00] Jrk Bgrt
+In case the private key hasn't been found in 2019 we'll release a tiny hint at the start of 2020, that will be the final hint. Can the private key be retrieved without that hint? Yes.
+
+    [18.05.2019 11:41:51 UTC-05:00] li li
+what?
+
+    [18.05.2019 11:42:45 UTC-05:00] li li
+don't know what you mean
+
+    [18.05.2019 11:46:30 UTC-05:00] li li
+did they get the first part of treasure？
+
+>>> [18.05.2019 11:49:27 UTC-05:00] Jrk Bgrt
+Nope
+
+    [18.05.2019 11:50:17 UTC-05:00] Jrk Bgrt
+Part III consist out of a few stages. The last few stages are, how shall I say it, not really easy to solve for most.
+
+    [18.05.2019 12:06:00 UTC-05:00] li li
+But how did you know a team of puzzlers has made an unbelievable amount of progress in just one day...
+
+    [18.05.2019 12:06:46 UTC-05:00] li li
+how do you know that?
+
+    [18.05.2019 12:07:12 UTC-05:00] li li
+🤔
+
+
+##### CREATOR INDEX 690 [18.05.2019 11:50:17 UTC-05:00]
+
+    [18.05.2019 11:41:51 UTC-05:00] li li
+what?
+
+    [18.05.2019 11:42:45 UTC-05:00] li li
+don't know what you mean
+
+    [18.05.2019 11:46:30 UTC-05:00] li li
+did they get the first part of treasure？
+
+    [18.05.2019 11:49:27 UTC-05:00] Jrk Bgrt
+Nope
+
+>>> [18.05.2019 11:50:17 UTC-05:00] Jrk Bgrt
+Part III consist out of a few stages. The last few stages are, how shall I say it, not really easy to solve for most.
+
+    [18.05.2019 12:06:00 UTC-05:00] li li
+But how did you know a team of puzzlers has made an unbelievable amount of progress in just one day...
+
+    [18.05.2019 12:06:46 UTC-05:00] li li
+how do you know that?
+
+    [18.05.2019 12:07:12 UTC-05:00] li li
+🤔
+
+    [18.05.2019 12:07:32 UTC-05:00] 0xColombo
+:)
+
+
+##### CREATOR INDEX 699 [18.05.2019 12:10:46 UTC-05:00]
+
+    [18.05.2019 12:07:41 UTC-05:00] Andrei Sandu
+Probably noticed activity on the webpage
+
+    [18.05.2019 12:07:41 UTC-05:00] li li
+😄
+
+    [18.05.2019 12:09:08 UTC-05:00] li li
+Oh, maybe
+
+    [18.05.2019 12:09:56 UTC-05:00] li li
+I don't hope so🤣
+
+>>> [18.05.2019 12:10:46 UTC-05:00] Jrk Bgrt
+No, they reaced out to me on tg and send me proof of them passing the stages.
+
+    [18.05.2019 12:12:50 UTC-05:00] li li
+Do you give them any hint🙃
+
+    [18.05.2019 12:13:29 UTC-05:00] Jrk Bgrt
+No hints after stage 2 (except the 't' to fix my stupid mistake)
+
+    [18.05.2019 12:14:39 UTC-05:00] li li
+Oh,l am only on phase2, sad
+
+    [18.05.2019 12:14:52 UTC-05:00] li li
+difficult aes
+
+
+##### CREATOR INDEX 701 [18.05.2019 12:13:29 UTC-05:00]
+
+    [18.05.2019 12:09:08 UTC-05:00] li li
+Oh, maybe
+
+    [18.05.2019 12:09:56 UTC-05:00] li li
+I don't hope so🤣
+
+    [18.05.2019 12:10:46 UTC-05:00] Jrk Bgrt
+No, they reaced out to me on tg and send me proof of them passing the stages.
+
+    [18.05.2019 12:12:50 UTC-05:00] li li
+Do you give them any hint🙃
+
+>>> [18.05.2019 12:13:29 UTC-05:00] Jrk Bgrt
+No hints after stage 2 (except the 't' to fix my stupid mistake)
+
+    [18.05.2019 12:14:39 UTC-05:00] li li
+Oh,l am only on phase2, sad
+
+    [18.05.2019 12:14:52 UTC-05:00] li li
+difficult aes
+
+    [19.05.2019 04:32:04 UTC-05:00] Deleted Account
+https://youtu.be/unfzfe8f9NI
+
+:)) not enf
+
+    [23.05.2019 11:19:13 UTC-05:00] Ewout
+Lot of new members but nothing happening.
+
+
+##### CREATOR INDEX 733 [26.05.2019 19:25:10 UTC-05:00]
+
+    [26.05.2019 14:20:46 UTC-05:00] Ewout
+No
+
+    [26.05.2019 15:48:21 UTC-05:00] Dario P
+not clear to me how to "sing the song" 🙁
+
+    [26.05.2019 15:52:44 UTC-05:00] Chris
+literaly, plug up your microphone and sing the song. 
+magic will happen
+
+    [26.05.2019 16:06:31 UTC-05:00] Dario P
+🤔
+
+>>> [26.05.2019 19:25:10 UTC-05:00] Jrk Bgrt
+Not completely, voice recognition might even work to pass although I'd copy past the answer as it's faster ;-).
+
+    [26.05.2019 20:50:06 UTC-05:00] Deleted Account
+I did not find the logic 😢
+
+    [26.05.2019 22:20:49 UTC-05:00] Jrk Bgrt
+Ok you found a song. Do have a clue on how to proceed on the webpage?
+
+    [27.05.2019 02:16:24 UTC-05:00] Deleted Account
+Yes I do.I need the first step to the pwd
+
+    [27.05.2019 21:53:55 UTC-05:00] Han Solo
+My brain will never be the same
+
+
+##### CREATOR INDEX 735 [26.05.2019 22:20:49 UTC-05:00]
+
+    [26.05.2019 15:52:44 UTC-05:00] Chris
+literaly, plug up your microphone and sing the song. 
+magic will happen
+
+    [26.05.2019 16:06:31 UTC-05:00] Dario P
+🤔
+
+    [26.05.2019 19:25:10 UTC-05:00] Jrk Bgrt
+Not completely, voice recognition might even work to pass although I'd copy past the answer as it's faster ;-).
+
+    [26.05.2019 20:50:06 UTC-05:00] Deleted Account
+I did not find the logic 😢
+
+>>> [26.05.2019 22:20:49 UTC-05:00] Jrk Bgrt
+Ok you found a song. Do have a clue on how to proceed on the webpage?
+
+    [27.05.2019 02:16:24 UTC-05:00] Deleted Account
+Yes I do.I need the first step to the pwd
+
+    [27.05.2019 21:53:55 UTC-05:00] Han Solo
+My brain will never be the same
+
+    [28.05.2019 07:08:27 UTC-05:00] Deleted Account
+How many phase in this puzlle?
+
+    [28.05.2019 07:53:51 UTC-05:00] ....
+Like 4?
+
+
+##### CREATOR INDEX 741 [28.05.2019 11:45:40 UTC-05:00]
+
+    [27.05.2019 21:53:55 UTC-05:00] Han Solo
+My brain will never be the same
+
+    [28.05.2019 07:08:27 UTC-05:00] Deleted Account
+How many phase in this puzlle?
+
+    [28.05.2019 07:53:51 UTC-05:00] ....
+Like 4?
+
+    [28.05.2019 07:54:18 UTC-05:00] ....
+Phase 0 is bunny, then the 1st phase, 2nd phase and 3rd phase are joined then the 4th phase which I think is the final one
+
+>>> [28.05.2019 11:45:40 UTC-05:00] Jrk Bgrt
+Nobody knows.
+
+    [28.05.2019 12:33:34 UTC-05:00] 0xColombo
+42
+
+    [28.05.2019 13:54:04 UTC-05:00] phacyh
+Thats the answer of life
+
+    [29.05.2019 22:40:49 UTC-05:00] Han Solo
+Someone Strange, you're some strange
+
+    [29.05.2019 22:43:01 UTC-05:00] Deleted Account
+Hello
+
+
+##### CREATOR INDEX 755 [31.05.2019 10:02:28 UTC-05:00]
+
+    [30.05.2019 19:35:32 UTC-05:00] Han Solo
+I need to move to Bolivia
+
+    [31.05.2019 09:21:13 UTC-05:00] 0xColombo
+@EwoutM [https://t.me/EwoutM] @SoWut [https://t.me/SoWut] spam
+
+    [31.05.2019 09:21:44 UTC-05:00] phacyh
+😂
+
+    [31.05.2019 09:57:16 UTC-05:00] Ewout
+👍
+
+>>> [31.05.2019 10:02:28 UTC-05:00] Jrk Bgrt
+Now we need a bot here too
+
+    [31.05.2019 10:02:43 UTC-05:00] 0xColombo
+Im your bot
+
+    [31.05.2019 10:04:46 UTC-05:00] 0xColombo
+Hear my words and bear witness to my vow! Night gathers, and my watch begins. It will not end until the end of the puzzle. I will take no wife, no land, no father to children. I will not wear the crown and will not achieve fame. I will live and die in my post. I am the sword in the dark; I am the lookout in this chat; I am the shield that guards the Kingdom of crypto detectives from spam. I give my life and honor to This Chat on this night and in all future!
+
+    [31.05.2019 10:05:37 UTC-05:00] phacyh
+😂
+
+    [31.05.2019 10:05:47 UTC-05:00] Trin
+😂👌
+
+
+##### CREATOR INDEX 762 [31.05.2019 10:27:49 UTC-05:00]
+
+    [31.05.2019 10:05:37 UTC-05:00] phacyh
+😂
+
+    [31.05.2019 10:05:47 UTC-05:00] Trin
+😂👌
+
+    [31.05.2019 10:22:16 UTC-05:00] Coinbaas
+@MissRose_bot [https://t.me/MissRose_bot] this is a nice bot for the chat 👌
+
+    [31.05.2019 10:23:35 UTC-05:00] Chris
+Hi there any news on puzzle?😄
+
+>>> [31.05.2019 10:27:49 UTC-05:00] Jrk Bgrt
+shitcoin
+
+    [31.05.2019 10:27:53 UTC-05:00] Jrk Bgrt
+😉
+
+    [31.05.2019 10:28:01 UTC-05:00] Jrk Bgrt
+Well.... yes
+
+    [31.05.2019 10:28:28 UTC-05:00] Jrk Bgrt
+Apparently folks found a new piece.
+
+    [31.05.2019 10:28:41 UTC-05:00] phacyh
+Yes you need to deposit 0.1btc to 1MMMcyJgYxAcZnfyQisuntLsejJ39neU7r
+
+
+##### CREATOR INDEX 763 [31.05.2019 10:27:53 UTC-05:00]
+
+    [31.05.2019 10:05:47 UTC-05:00] Trin
+😂👌
+
+    [31.05.2019 10:22:16 UTC-05:00] Coinbaas
+@MissRose_bot [https://t.me/MissRose_bot] this is a nice bot for the chat 👌
+
+    [31.05.2019 10:23:35 UTC-05:00] Chris
+Hi there any news on puzzle?😄
+
+    [31.05.2019 10:27:49 UTC-05:00] Jrk Bgrt
+shitcoin
+
+>>> [31.05.2019 10:27:53 UTC-05:00] Jrk Bgrt
+😉
+
+    [31.05.2019 10:28:01 UTC-05:00] Jrk Bgrt
+Well.... yes
+
+    [31.05.2019 10:28:28 UTC-05:00] Jrk Bgrt
+Apparently folks found a new piece.
+
+    [31.05.2019 10:28:41 UTC-05:00] phacyh
+Yes you need to deposit 0.1btc to 1MMMcyJgYxAcZnfyQisuntLsejJ39neU7r
+
+    [31.05.2019 10:28:56 UTC-05:00] phacyh
+😂
+
+
+##### CREATOR INDEX 764 [31.05.2019 10:28:01 UTC-05:00]
+
+    [31.05.2019 10:22:16 UTC-05:00] Coinbaas
+@MissRose_bot [https://t.me/MissRose_bot] this is a nice bot for the chat 👌
+
+    [31.05.2019 10:23:35 UTC-05:00] Chris
+Hi there any news on puzzle?😄
+
+    [31.05.2019 10:27:49 UTC-05:00] Jrk Bgrt
+shitcoin
+
+    [31.05.2019 10:27:53 UTC-05:00] Jrk Bgrt
+😉
+
+>>> [31.05.2019 10:28:01 UTC-05:00] Jrk Bgrt
+Well.... yes
+
+    [31.05.2019 10:28:28 UTC-05:00] Jrk Bgrt
+Apparently folks found a new piece.
+
+    [31.05.2019 10:28:41 UTC-05:00] phacyh
+Yes you need to deposit 0.1btc to 1MMMcyJgYxAcZnfyQisuntLsejJ39neU7r
+
+    [31.05.2019 10:28:56 UTC-05:00] phacyh
+😂
+
+    [31.05.2019 10:29:13 UTC-05:00] Jrk Bgrt
+Almost banned for spam 😋
+
+
+##### CREATOR INDEX 765 [31.05.2019 10:28:28 UTC-05:00]
+
+    [31.05.2019 10:23:35 UTC-05:00] Chris
+Hi there any news on puzzle?😄
+
+    [31.05.2019 10:27:49 UTC-05:00] Jrk Bgrt
+shitcoin
+
+    [31.05.2019 10:27:53 UTC-05:00] Jrk Bgrt
+😉
+
+    [31.05.2019 10:28:01 UTC-05:00] Jrk Bgrt
+Well.... yes
+
+>>> [31.05.2019 10:28:28 UTC-05:00] Jrk Bgrt
+Apparently folks found a new piece.
+
+    [31.05.2019 10:28:41 UTC-05:00] phacyh
+Yes you need to deposit 0.1btc to 1MMMcyJgYxAcZnfyQisuntLsejJ39neU7r
+
+    [31.05.2019 10:28:56 UTC-05:00] phacyh
+😂
+
+    [31.05.2019 10:29:13 UTC-05:00] Jrk Bgrt
+Almost banned for spam 😋
+
+    [31.05.2019 10:29:59 UTC-05:00] phacyh
+Theres a puzzle in this image 😂
+
+
+##### CREATOR INDEX 768 [31.05.2019 10:29:13 UTC-05:00]
+
+    [31.05.2019 10:28:01 UTC-05:00] Jrk Bgrt
+Well.... yes
+
+    [31.05.2019 10:28:28 UTC-05:00] Jrk Bgrt
+Apparently folks found a new piece.
+
+    [31.05.2019 10:28:41 UTC-05:00] phacyh
+Yes you need to deposit 0.1btc to 1MMMcyJgYxAcZnfyQisuntLsejJ39neU7r
+
+    [31.05.2019 10:28:56 UTC-05:00] phacyh
+😂
+
+>>> [31.05.2019 10:29:13 UTC-05:00] Jrk Bgrt
+Almost banned for spam 😋
+
+    [31.05.2019 10:29:59 UTC-05:00] phacyh
+Theres a puzzle in this image 😂
+
+    [31.05.2019 10:30:20 UTC-05:00] DaySandBox
+Hey, I am DaySandbox Bot [https://tgdev.io/bot/daysandbox_bot?reason=newchat]! I am fighting spam. I remove links and forwarded messages written by users joined chatroom less than 24 hours ago
+
+Check out other cool bots:
+ - @tagchannelbot [https://tgdev.io/bot/tagchannelbot?reason=newchat_promo] - Bot to forward messages marked with specific tags from chat to channel
+ - @watchdog_robot [https://tgdev.io/bot/watchdog_robot?reason=newchat_promo] - Bot to remove messages of blacklisted types: sticker, file attachment, photo, video and other. Also it can ban other bots.
+ - @lang_blocker_bot [https://tgdev.io/bot/lang_blocker_bot?reason=newchat_promo] - Bot to remove messages written in unwanted languages.
+
+    [31.05.2019 10:32:29 UTC-05:00] Jrk Bgrt
+/daysandbox_set [] safe_hours=720
+
+    [31.05.2019 10:32:29 UTC-05:00] DaySandBox
+Setting safe_hours has been set to 720
+
+
+##### CREATOR INDEX 771 [31.05.2019 10:32:29 UTC-05:00]
+
+    [31.05.2019 10:28:56 UTC-05:00] phacyh
+😂
+
+    [31.05.2019 10:29:13 UTC-05:00] Jrk Bgrt
+Almost banned for spam 😋
+
+    [31.05.2019 10:29:59 UTC-05:00] phacyh
+Theres a puzzle in this image 😂
+
+    [31.05.2019 10:30:20 UTC-05:00] DaySandBox
+Hey, I am DaySandbox Bot [https://tgdev.io/bot/daysandbox_bot?reason=newchat]! I am fighting spam. I remove links and forwarded messages written by users joined chatroom less than 24 hours ago
+
+Check out other cool bots:
+ - @tagchannelbot [https://tgdev.io/bot/tagchannelbot?reason=newchat_promo] - Bot to forward messages marked with specific tags from chat to channel
+ - @watchdog_robot [https://tgdev.io/bot/watchdog_robot?reason=newchat_promo] - Bot to remove messages of blacklisted types: sticker, file attachment, photo, video and other. Also it can ban other bots.
+ - @lang_blocker_bot [https://tgdev.io/bot/lang_blocker_bot?reason=newchat_promo] - Bot to remove messages written in unwanted languages.
+
+>>> [31.05.2019 10:32:29 UTC-05:00] Jrk Bgrt
+/daysandbox_set [] safe_hours=720
+
+    [31.05.2019 10:32:29 UTC-05:00] DaySandBox
+Setting safe_hours has been set to 720
+
+    [31.05.2019 10:35:02 UTC-05:00] phacyh
+Sad
+
+    [31.05.2019 10:49:13 UTC-05:00] Deleted Account
+What is it?
+
+    [31.05.2019 11:12:19 UTC-05:00] phacyh
+Scan and do as it says 😂
+
+
+##### CREATOR INDEX 937 [27.06.2019 16:38:51 UTC-05:00]
+
+    [27.06.2019 16:01:42 UTC-05:00] Deleted Account
+artist, and song name. its easy.
+
+    [27.06.2019 16:03:12 UTC-05:00] CoinGeek_NL
+ooooh man you make me feel stupid :p
+
+    [27.06.2019 16:05:58 UTC-05:00] Deleted Account
+logic warning must help you. ;)
+
+    [27.06.2019 16:25:52 UTC-05:00] CoinGeek_NL
+yeah that I found already before also with the planted things 😉
+
+>>> [27.06.2019 16:38:51 UTC-05:00] Jrk Bgrt
+🌱
+
+    [27.06.2019 16:39:32 UTC-05:00] Jrk Bgrt
+🛣
+
+    [27.06.2019 16:39:54 UTC-05:00] Matt
+California 😝
+
+    [28.06.2019 01:02:57 UTC-05:00] Deleted Account
+so, how your progress guys? i am in last phase, and i cant solve. so i will post some hint here for you. dont private message me, pls, coz i havnt enought time to chitchat with each. be patient and just wait..
+
+    [28.06.2019 13:28:35 UTC-05:00] Deleted Account
+Trying to get into phase 3
+
+
+##### CREATOR INDEX 938 [27.06.2019 16:39:32 UTC-05:00]
+
+    [27.06.2019 16:03:12 UTC-05:00] CoinGeek_NL
+ooooh man you make me feel stupid :p
+
+    [27.06.2019 16:05:58 UTC-05:00] Deleted Account
+logic warning must help you. ;)
+
+    [27.06.2019 16:25:52 UTC-05:00] CoinGeek_NL
+yeah that I found already before also with the planted things 😉
+
+    [27.06.2019 16:38:51 UTC-05:00] Jrk Bgrt
+🌱
+
+>>> [27.06.2019 16:39:32 UTC-05:00] Jrk Bgrt
+🛣
+
+    [27.06.2019 16:39:54 UTC-05:00] Matt
+California 😝
+
+    [28.06.2019 01:02:57 UTC-05:00] Deleted Account
+so, how your progress guys? i am in last phase, and i cant solve. so i will post some hint here for you. dont private message me, pls, coz i havnt enought time to chitchat with each. be patient and just wait..
+
+    [28.06.2019 13:28:35 UTC-05:00] Deleted Account
+Trying to get into phase 3
+
+    [28.06.2019 18:52:33 UTC-05:00] Deleted Account
+Same
+
+
+##### CREATOR INDEX 1079 [10.08.2019 11:50:10 UTC-05:00]
+
+    [10.08.2019 07:30:36 UTC-05:00] Deleted Account
+all known solutions solded for 0.05btc, as i know.
+
+    [10.08.2019 08:27:27 UTC-05:00] 0xColombo
+Who solded it?)
+
+    [10.08.2019 08:32:40 UTC-05:00] Matt
+Hmm, i want 0.04999 for all of them 😂
+
+    [10.08.2019 08:43:55 UTC-05:00] Deleted Account
+one TG group it was
+
+>>> [10.08.2019 11:50:10 UTC-05:00] Jrk Bgrt
+You'll only know when you've solved that part.
+
+    [10.08.2019 12:01:37 UTC-05:00] Ewout
+Find the missing piece
+
+    [12.08.2019 04:08:09 UTC-05:00] Hari
+From where?
+
+    [12.08.2019 04:10:16 UTC-05:00] Ewout
+Nobody knows...
+
+    [12.08.2019 06:27:54 UTC-05:00] ....
+Or do they? 🤔
+
+
+##### CREATOR INDEX 1098 [04.09.2019 02:58:16 UTC-05:00]
+
+    [12.08.2019 10:29:30 UTC-05:00] Ewout
+The maker said this
+
+    [12.08.2019 10:42:00 UTC-05:00] Deleted Account
+Oh okay, thanks
+
+    [14.08.2019 19:53:22 UTC-05:00] Deleted Account
+what im missing?! gime quotes, pls.
+
+    [04.09.2019 02:54:36 UTC-05:00] Deleted Account
+@SoWut [https://t.me/SoWut], a way to get the password for the last aes similar to the previous? (sha256...)
+
+>>> [04.09.2019 02:58:16 UTC-05:00] Jrk Bgrt
+Still no hints ;-)
+
+    [04.09.2019 03:26:51 UTC-05:00] Deleted Account
+:) thanx anyway
+
+    [06.09.2019 02:53:42 UTC-05:00] Сергей
+Hello! started one hour ago))) I look at the very beginning you tried to help each other) I go through part 0 with a rabbit - went in a spiral, marked 24 characters from (0 and 1). but for some reason it seems to me that this is not enough for reference - am I wrong? tried to translate to utf8, failed
+
+    [06.09.2019 03:32:30 UTC-05:00] Han Solo
+Why utf8? 😁
+
+    [06.09.2019 03:50:09 UTC-05:00] Сергей
+in their previous puzzle the binary text was translated like this, maybe I'm wrong
+
+
+##### CREATOR INDEX 1106 [22.09.2019 17:55:01 UTC-05:00]
+
+    [06.09.2019 03:50:09 UTC-05:00] Сергей
+in their previous puzzle the binary text was translated like this, maybe I'm wrong
+
+    [06.09.2019 03:52:32 UTC-05:00] Han Solo
+in this case, utf8 encoding backward compatible with ASCII :)
+
+    [06.09.2019 03:53:38 UTC-05:00] Сергей
+Thanks
+
+    [22.09.2019 06:09:52 UTC-05:00] Victor Lazo
+Hey, I have a technical question. Would someone please guide me?
+I just got to phase 2 with aes1 and it says: "Ciphered with aes-256-cbc /w [] base64 sha-256(password)"
+Does it mean that I have to find a password ( I don't have it yet)  then perform sha256(password) and use the result of that hash as the key to decode the aes1?
+
+Because if so....sha256(x) gives a 64 characters string and aes-256-cbc uses 32 character keys to decrypt (yes I'm a lost noobie).
+
+>>> [22.09.2019 17:55:01 UTC-05:00] Jrk Bgrt
+Found it by now?
+
+    [22.09.2019 17:55:37 UTC-05:00] Victor Lazo
+nope
+
+    [22.09.2019 17:57:00 UTC-05:00] Victor Lazo
+I have not
+
+    [22.09.2019 17:59:09 UTC-05:00] Victor Lazo
+Is it long?
+
+    [22.09.2019 18:00:48 UTC-05:00] Jrk Bgrt
+7 parts right?
+
+
+##### CREATOR INDEX 1110 [22.09.2019 18:00:48 UTC-05:00]
+
+    [22.09.2019 17:55:01 UTC-05:00] Jrk Bgrt
+Found it by now?
+
+    [22.09.2019 17:55:37 UTC-05:00] Victor Lazo
+nope
+
+    [22.09.2019 17:57:00 UTC-05:00] Victor Lazo
+I have not
+
+    [22.09.2019 17:59:09 UTC-05:00] Victor Lazo
+Is it long?
+
+>>> [22.09.2019 18:00:48 UTC-05:00] Jrk Bgrt
+7 parts right?
+
+    [22.09.2019 18:05:02 UTC-05:00] Victor Lazo
+?
+
+    [22.09.2019 18:07:05 UTC-05:00] Victor Lazo
+is that a hint?
+
+    [22.09.2019 18:07:15 UTC-05:00] 0xColombo
+No
+
+    [22.09.2019 18:07:21 UTC-05:00] 0xColombo
+I’m just Russian troll
+
+
+##### CREATOR INDEX 1126 [26.09.2019 10:35:24 UTC-05:00]
+
+    [23.09.2019 02:21:00 UTC-05:00] Victor Lazo
+Learning a lot ! 😊
+
+    [25.09.2019 07:07:54 UTC-05:00] Deleted Account
+I have been looking for a quote in all the public places, yet found nothing. Where did @SoWut [https://t.me/SoWut] say that we need to find a missing piece somewhere not referenced in the puzzle text up to the ciphers in 3.2/4? Sorry for asking directly, just want to know if this is an actual fact or just keeps being repeated
+
+    [25.09.2019 07:10:32 UTC-05:00] Ewout
+Last cipher, need some more code/puzzle
+
+    [26.09.2019 08:20:16 UTC-05:00] Deleted Account
+where he was said and what?
+
+>>> [26.09.2019 10:35:24 UTC-05:00] Jrk Bgrt
+There may indeed a piece be found outside the main puzzle.
+
+    [26.09.2019 10:43:50 UTC-05:00] Deleted Account
+Thank you for your clarification! Is it somehow referenced somewhere in all the texts leading up to and including 3.2 or is it a whole new part requiring luck to find? 😅 Would understand if you don't answer that, essentially I'm trying to see if the puzzle is self-contained
+
+    [26.09.2019 11:14:16 UTC-05:00] Deleted Account
+it's referenced in the matrix
+
+    [26.09.2019 11:48:46 UTC-05:00] Ewout
+What’s a reference in the matrix?
+
+    [26.09.2019 12:03:59 UTC-05:00] Deleted Account
+Think of matrix as in the Greek meaning of the word
+
+
+##### CREATOR INDEX 1160 [13.10.2019 13:38:53 UTC-05:00]
+
+    [29.09.2019 06:11:20 UTC-05:00] 0xColombo
+Zavali ebalo, druzhochek❤️
+
+    [04.10.2019 17:25:08 UTC-05:00] Deleted Account
+anyone have hints as to what 2name could be in stage 2?
+
+    [08.10.2019 01:59:27 UTC-05:00] Victor Lazo
+3.1 for nearly a month, yay !
+
+    [13.10.2019 12:58:14 UTC-05:00] Deleted Account
+Where can i find this Puzzle?
+
+>>> [13.10.2019 13:38:53 UTC-05:00] Jrk Bgrt
+Gsmg.io/puzzle
+
+    [13.10.2019 22:33:32 UTC-05:00] Deleted Account
+Is there a manual?
+What do i need to do?
+
+    [13.10.2019 22:50:54 UTC-05:00] Deleted Account
+you must find a way to decode this image to get a right answer for gettin into next phase. (hint: its will be a url)
+
+    [14.10.2019 14:40:02 UTC-05:00] Deleted Account
+Whoever is on 3.2 and is willing to exchange some ideas, let me know
+
+    [18.10.2019 02:59:23 UTC-05:00] Deleted Account
+hints time is coming...
+
+
+##### CREATOR INDEX 1197 [31.10.2019 20:53:04 UTC-05:00]
+
+    [21.10.2019 19:43:18 UTC-05:00] ....
+To the rabbit in the middle
+
+    [21.10.2019 19:43:27 UTC-05:00] Deleted Account
+imma try that
+
+    [22.10.2019 17:58:04 UTC-05:00] Deleted Account
+control dots. not a spaces. each 8 must be coloured for checking a right path of spiral.
+
+    [22.10.2019 18:37:01 UTC-05:00] ....
+He already knows the answer ;)
+
+>>> [31.10.2019 20:53:04 UTC-05:00] Jrk Bgrt
+Sure, what's the hint?
+
+    [01.11.2019 13:54:11 UTC-05:00] Deleted Account
+Thanks for hearing me out 🙂
+
+    [11.11.2019 23:44:14 UTC-05:00] Deleted Account
+has anyone been able to pass step two?
+
+    [11.11.2019 23:45:36 UTC-05:00] Deleted Account
+ive been on it for a month 🤣
+
+    [12.11.2019 05:46:56 UTC-05:00] Deleted Account
+coz
+
+
+##### CREATOR INDEX 1205 [03.12.2019 12:55:55 UTC-05:00]
+
+    [12.11.2019 05:46:56 UTC-05:00] Deleted Account
+coz
+
+    [12.11.2019 16:26:53 UTC-05:00] Deleted Account
+Coz?
+
+    [12.11.2019 16:28:26 UTC-05:00] Deleted Account
+"of course"
+
+    [03.12.2019 12:39:01 UTC-05:00] Deleted Account
+Hey! I am having trouble with the thinker's name in P3... Can someone please give a small hint?
+
+>>> [03.12.2019 12:55:55 UTC-05:00] Jrk Bgrt
+giveit = givetit
+
+    [03.12.2019 12:56:17 UTC-05:00] 0xColombo
+Tits
+
+    [03.12.2019 12:59:23 UTC-05:00] Deleted Account
+Unfortunately that is not the problem =( I am just not sure about the thinker...
+
+    [03.12.2019 12:59:49 UTC-05:00] Deleted Account
+Too many seem to match
+
+    [03.12.2019 18:29:50 UTC-05:00] ....
+"anti-merovingian" philosopher
+
+
+##### CREATOR INDEX 1228 [31.12.2019 05:30:23 UTC-05:00]
+
+    [31.12.2019 04:24:12 UTC-05:00] silver_anth
+I think thats when the reward changes
+
+    [31.12.2019 04:24:41 UTC-05:00] Deleted Account
+That’s when the price will be halved, the hint is supposed to be released at the start of 2020 afaik
+
+    [31.12.2019 04:24:43 UTC-05:00] Deleted Account
+and hint throw too. if memory didnt lie me.
+
+    [31.12.2019 04:25:31 UTC-05:00] Deleted Account
+See here
+
+>>> [31.12.2019 05:30:23 UTC-05:00] Jrk Bgrt
+Hahaha, you're on it. Not an exact time, but it will be posted in this channel. It's at the start of 2020 indeed, way before the halving.
+
+    [31.12.2019 05:33:29 UTC-05:00] Jrk Bgrt
+To all you peepz in advance: have a blast in the last part of 2019 and have an even better 2020. Best wishes to you all and good luck with the next puzzle piece(s) in case you manage to find them 😉!
+
+    [31.12.2019 07:57:43 UTC-05:00] CoinGeek_NL
+🥳🥳🥳
+
+    [01.01.2020 08:14:32 UTC-05:00] 0xColombo
+Happy new year🎊🎄
+
+    [04.01.2020 20:01:19 UTC-05:00] Jrk Bgrt
+Anybody hungry?
+
+
+##### CREATOR INDEX 1229 [31.12.2019 05:33:29 UTC-05:00]
+
+    [31.12.2019 04:24:41 UTC-05:00] Deleted Account
+That’s when the price will be halved, the hint is supposed to be released at the start of 2020 afaik
+
+    [31.12.2019 04:24:43 UTC-05:00] Deleted Account
+and hint throw too. if memory didnt lie me.
+
+    [31.12.2019 04:25:31 UTC-05:00] Deleted Account
+See here
+
+    [31.12.2019 05:30:23 UTC-05:00] Jrk Bgrt
+Hahaha, you're on it. Not an exact time, but it will be posted in this channel. It's at the start of 2020 indeed, way before the halving.
+
+>>> [31.12.2019 05:33:29 UTC-05:00] Jrk Bgrt
+To all you peepz in advance: have a blast in the last part of 2019 and have an even better 2020. Best wishes to you all and good luck with the next puzzle piece(s) in case you manage to find them 😉!
+
+    [31.12.2019 07:57:43 UTC-05:00] CoinGeek_NL
+🥳🥳🥳
+
+    [01.01.2020 08:14:32 UTC-05:00] 0xColombo
+Happy new year🎊🎄
+
+    [04.01.2020 20:01:19 UTC-05:00] Jrk Bgrt
+Anybody hungry?
+
+    [04.01.2020 20:01:30 UTC-05:00] Victor Lazo
+Yes
+
+
+##### CREATOR INDEX 1232 [04.01.2020 20:01:19 UTC-05:00]
+
+    [31.12.2019 05:30:23 UTC-05:00] Jrk Bgrt
+Hahaha, you're on it. Not an exact time, but it will be posted in this channel. It's at the start of 2020 indeed, way before the halving.
+
+    [31.12.2019 05:33:29 UTC-05:00] Jrk Bgrt
+To all you peepz in advance: have a blast in the last part of 2019 and have an even better 2020. Best wishes to you all and good luck with the next puzzle piece(s) in case you manage to find them 😉!
+
+    [31.12.2019 07:57:43 UTC-05:00] CoinGeek_NL
+🥳🥳🥳
+
+    [01.01.2020 08:14:32 UTC-05:00] 0xColombo
+Happy new year🎊🎄
+
+>>> [04.01.2020 20:01:19 UTC-05:00] Jrk Bgrt
+Anybody hungry?
+
+    [04.01.2020 20:01:30 UTC-05:00] Victor Lazo
+Yes
+
+    [04.01.2020 20:01:37 UTC-05:00] silver_anth
+Is this the hint? :D
+
+    [04.01.2020 20:01:54 UTC-05:00] Jrk Bgrt
+No, it's a dessert
+
+    [04.01.2020 20:02:04 UTC-05:00] silver_anth
+😞
+
+
+##### CREATOR INDEX 1235 [04.01.2020 20:01:54 UTC-05:00]
+
+    [01.01.2020 08:14:32 UTC-05:00] 0xColombo
+Happy new year🎊🎄
+
+    [04.01.2020 20:01:19 UTC-05:00] Jrk Bgrt
+Anybody hungry?
+
+    [04.01.2020 20:01:30 UTC-05:00] Victor Lazo
+Yes
+
+    [04.01.2020 20:01:37 UTC-05:00] silver_anth
+Is this the hint? :D
+
+>>> [04.01.2020 20:01:54 UTC-05:00] Jrk Bgrt
+No, it's a dessert
+
+    [04.01.2020 20:02:04 UTC-05:00] silver_anth
+😞
+
+    [04.01.2020 20:02:07 UTC-05:00] Hielke
+I'm hungry now
+
+    [04.01.2020 20:02:16 UTC-05:00] silver_anth
+I'm hungry for hints
+
+    [04.01.2020 20:03:50 UTC-05:00] nieods
+Nice hint ;-)
+
+
+##### CREATOR INDEX 1242 [04.01.2020 20:06:01 UTC-05:00]
+
+    [04.01.2020 20:02:16 UTC-05:00] silver_anth
+I'm hungry for hints
+
+    [04.01.2020 20:03:50 UTC-05:00] nieods
+Nice hint ;-)
+
+    [04.01.2020 20:04:40 UTC-05:00] Victor Lazo
+Where's the main dish ? We missed it.
+
+    [04.01.2020 20:05:35 UTC-05:00] silver_anth
+👀
+
+>>> [04.01.2020 20:06:01 UTC-05:00] Jrk Bgrt
+Note: I might be in a trolling mood.
+
+    [04.01.2020 20:13:14 UTC-05:00] Coinbaas
+😂😂
+
+    [05.01.2020 03:21:19 UTC-05:00] 0xColombo
+I tried this dessert, but there was no orgasm. ☹️
+
+    [05.01.2020 04:25:58 UTC-05:00] Deleted Account
+He might have drank too much wine and needed to take a piss. Cause and effect. 😐
+
+    [05.01.2020 04:28:07 UTC-05:00] 0xColombo
+😆
+
+
+##### CREATOR INDEX 1255 [12.01.2020 15:52:32 UTC-05:00]
+
+    [07.01.2020 00:42:57 UTC-05:00] Deleted Account
+yes. found for that. its phase2 was.
+
+    [09.01.2020 20:04:41 UTC-05:00] Deleted Account
+discord-server still active ? can someone share a link?
+
+    [12.01.2020 15:35:38 UTC-05:00] Mr Bloggs
+So is the "dessert" hint confirmed as being one for phase 2?
+
+    [12.01.2020 15:36:13 UTC-05:00] Mr Bloggs
+And more importantly has anybody actually benefitted from it?
+
+>>> [12.01.2020 15:52:32 UTC-05:00] Jrk Bgrt
+👆
+
+    [12.01.2020 15:54:14 UTC-05:00] Mr Bloggs
+Lol, that sucks...i was hoping it was the answer to phase 2's (answer for this question) stuff
+
+    [12.01.2020 15:56:13 UTC-05:00] 0xColombo
+its about russian leader
+
+    [12.01.2020 15:56:15 UTC-05:00] 0xColombo
+Putin
+
+    [12.01.2020 15:56:24 UTC-05:00] 0xColombo
+google it
+
+
+##### CREATOR INDEX 1275 [13.01.2020 11:40:54 UTC-05:00]
+
+    [12.01.2020 16:00:48 UTC-05:00] 0xColombo
+good luck
+
+    [12.01.2020 16:01:41 UTC-05:00] 0xColombo
+No more hints
+
+    [12.01.2020 16:02:58 UTC-05:00] Mr Bloggs
+Thanks for the hints dude. I'm stuck where everybody else is stuck... 3.2.i never solved phase 2,so I have gone back to make sure I'm not missing anything. Can the powers that be confirm that phase 2 is actually needed to solve the final part 3.2?
+
+    [12.01.2020 16:05:12 UTC-05:00] Mr Bloggs
+I've heard rumours it's not needed for the final solve, it didn't serve any purpose up until now, so that's why I ask
+
+>>> [13.01.2020 11:40:54 UTC-05:00] Jrk Bgrt
+Hint to be expected within a few days. Note: not trolling with scripted cake this time.
+
+    [13.01.2020 11:57:16 UTC-05:00] Mr Bloggs
+Awesome thanks:) That is if i don't solve it first
+
+    [14.01.2020 02:04:28 UTC-05:00] Deleted Account
+this cake google exactly first aes pass right in result list, as a page name, just find a "same picture" by google. :))) its a hint for "hint".
+
+    [14.01.2020 02:35:43 UTC-05:00] 0xColombo
+Elf?
+
+    [14.01.2020 04:11:31 UTC-05:00] Deleted Account
+what 'bout u talk?
+
+
+##### CREATOR INDEX 1282 [14.01.2020 05:38:06 UTC-05:00]
+
+    [14.01.2020 02:35:43 UTC-05:00] 0xColombo
+Elf?
+
+    [14.01.2020 04:11:31 UTC-05:00] Deleted Account
+what 'bout u talk?
+
+    [14.01.2020 04:25:00 UTC-05:00] 0xColombo
+U said elf hint)
+
+    [14.01.2020 04:41:06 UTC-05:00] Deleted Account
+😜
+
+>>> [14.01.2020 05:38:06 UTC-05:00] Jrk Bgrt
+Roses are White but often Red.
+Yellow has a number and so does Blue.
+Go back to the first puzzle piece without further ado.
+
+It might have shown you only one door, beware that the rabbits nest may contain a whole lot more.
+
+Hush hush.
+
+    [14.01.2020 05:38:49 UTC-05:00] Jrk Bgrt
+Good luck 👍
+
+    [14.01.2020 05:47:02 UTC-05:00] Deleted Account
+crazy holy rabbit
+
+    [14.01.2020 05:50:55 UTC-05:00] Victor Lazo
+From the creators of The Matrix, Matrix Reloaded and Matrix Revolutions:
+Matrix 4:  REWIND 😭
+
+    [17.01.2020 00:56:51 UTC-05:00] 0xColombo
+@SoWut [https://t.me/SoWut]  ;)
+
+
+##### CREATOR INDEX 1283 [14.01.2020 05:38:49 UTC-05:00]
+
+    [14.01.2020 04:11:31 UTC-05:00] Deleted Account
+what 'bout u talk?
+
+    [14.01.2020 04:25:00 UTC-05:00] 0xColombo
+U said elf hint)
+
+    [14.01.2020 04:41:06 UTC-05:00] Deleted Account
+😜
+
+    [14.01.2020 05:38:06 UTC-05:00] Jrk Bgrt
+Roses are White but often Red.
+Yellow has a number and so does Blue.
+Go back to the first puzzle piece without further ado.
+
+It might have shown you only one door, beware that the rabbits nest may contain a whole lot more.
+
+Hush hush.
+
+>>> [14.01.2020 05:38:49 UTC-05:00] Jrk Bgrt
+Good luck 👍
+
+    [14.01.2020 05:47:02 UTC-05:00] Deleted Account
+crazy holy rabbit
+
+    [14.01.2020 05:50:55 UTC-05:00] Victor Lazo
+From the creators of The Matrix, Matrix Reloaded and Matrix Revolutions:
+Matrix 4:  REWIND 😭
+
+    [17.01.2020 00:56:51 UTC-05:00] 0xColombo
+@SoWut [https://t.me/SoWut]  ;)
+
+    [26.01.2020 16:40:57 UTC-05:00] Mr Bloggs
+Besides the "givetit" mistake, are there any other confirmed spelling/gramatical errors? Phase 3.2 is what I'm talking about..
+
+
+##### CREATOR INDEX 1288 [27.01.2020 10:21:35 UTC-05:00]
+
+    [14.01.2020 05:47:02 UTC-05:00] Deleted Account
+crazy holy rabbit
+
+    [14.01.2020 05:50:55 UTC-05:00] Victor Lazo
+From the creators of The Matrix, Matrix Reloaded and Matrix Revolutions:
+Matrix 4:  REWIND 😭
+
+    [17.01.2020 00:56:51 UTC-05:00] 0xColombo
+@SoWut [https://t.me/SoWut]  ;)
+
+    [26.01.2020 16:40:57 UTC-05:00] Mr Bloggs
+Besides the "givetit" mistake, are there any other confirmed spelling/gramatical errors? Phase 3.2 is what I'm talking about..
+
+>>> [27.01.2020 10:21:35 UTC-05:00] Jrk Bgrt
+Might have been fixed fyi 👆
+
+    [27.01.2020 10:37:11 UTC-05:00] Mr Bloggs
+Cool, would the misspellings in the garbled text also require some fixing?
+
+    [27.01.2020 11:00:04 UTC-05:00] Jrk Bgrt
+Would be nice, not required
+
+    [27.01.2020 11:06:07 UTC-05:00] Mr Bloggs
+Cool, thanks for confirming:)
+
+    [28.01.2020 06:00:58 UTC-05:00] Mr Bloggs
+Is the solution to phase 2 required to solve the final piece of the puzzle? It was left behind and not ever referenced to my knowledge
+
+
+##### CREATOR INDEX 1290 [27.01.2020 11:00:04 UTC-05:00]
+
+    [17.01.2020 00:56:51 UTC-05:00] 0xColombo
+@SoWut [https://t.me/SoWut]  ;)
+
+    [26.01.2020 16:40:57 UTC-05:00] Mr Bloggs
+Besides the "givetit" mistake, are there any other confirmed spelling/gramatical errors? Phase 3.2 is what I'm talking about..
+
+    [27.01.2020 10:21:35 UTC-05:00] Jrk Bgrt
+Might have been fixed fyi 👆
+
+    [27.01.2020 10:37:11 UTC-05:00] Mr Bloggs
+Cool, would the misspellings in the garbled text also require some fixing?
+
+>>> [27.01.2020 11:00:04 UTC-05:00] Jrk Bgrt
+Would be nice, not required
+
+    [27.01.2020 11:06:07 UTC-05:00] Mr Bloggs
+Cool, thanks for confirming:)
+
+    [28.01.2020 06:00:58 UTC-05:00] Mr Bloggs
+Is the solution to phase 2 required to solve the final piece of the puzzle? It was left behind and not ever referenced to my knowledge
+
+    [10.02.2020 05:51:45 UTC-05:00] Deleted Account
+news?
+
+    [10.02.2020 15:25:58 UTC-05:00] CoinGeek_NL
+see: www.cnn.com :p
+
+
+##### CREATOR INDEX 1298 [20.02.2020 10:31:58 UTC-05:00]
+
+    [10.02.2020 15:25:58 UTC-05:00] CoinGeek_NL
+see: www.cnn.com :p
+
+    [10.02.2020 15:44:38 UTC-05:00] R S
+fake news
+
+    [10.02.2020 15:45:03 UTC-05:00] CoinGeek_NL
+😂😂
+
+    [19.02.2020 09:46:19 UTC-05:00] Deleted Account
+is halving still in plans?
+
+>>> [20.02.2020 10:31:58 UTC-05:00] Jrk Bgrt
+😎
+
+    [20.02.2020 13:56:15 UTC-05:00] Victor Lazo
+👍
+
+    [20.02.2020 14:08:00 UTC-05:00] 0xColombo
+Hint for my birthday 🎁
+
+    [20.02.2020 14:08:04 UTC-05:00] 0xColombo
+💁🏻‍♂️
+
+    [20.02.2020 14:14:56 UTC-05:00] R S
+gotta work out how to pull that file of static i guess now -_-
+
+
+##### CREATOR INDEX 1307 [21.02.2020 08:03:21 UTC-05:00]
+
+    [20.02.2020 14:22:24 UTC-05:00] R S
+got it
+
+    [20.02.2020 14:22:26 UTC-05:00] R S
+:D
+
+    [21.02.2020 04:16:56 UTC-05:00] Deleted Account
+gravitation is fantastic 👍
+
+    [21.02.2020 04:20:42 UTC-05:00] Timur Chuzhinov
+missed texture on zero level
+
+>>> [21.02.2020 08:03:21 UTC-05:00] Jrk Bgrt
+I'm not the esthetician when it comes to coding 😉
+
+    [22.02.2020 06:20:41 UTC-05:00] ....
+A photo
+
+    [22.02.2020 10:19:02 UTC-05:00] Deleted Account
+Hello
+
+    [22.02.2020 10:19:41 UTC-05:00] Jrk Bgrt
+👋
+
+    [22.02.2020 10:22:48 UTC-05:00] Detective Froz
+Hi!
+
+
+##### CREATOR INDEX 1310 [22.02.2020 10:19:41 UTC-05:00]
+
+    [21.02.2020 04:20:42 UTC-05:00] Timur Chuzhinov
+missed texture on zero level
+
+    [21.02.2020 08:03:21 UTC-05:00] Jrk Bgrt
+I'm not the esthetician when it comes to coding 😉
+
+    [22.02.2020 06:20:41 UTC-05:00] ....
+A photo
+
+    [22.02.2020 10:19:02 UTC-05:00] Deleted Account
+Hello
+
+>>> [22.02.2020 10:19:41 UTC-05:00] Jrk Bgrt
+👋
+
+    [22.02.2020 10:22:48 UTC-05:00] Detective Froz
+Hi!
+
+    [22.02.2020 10:22:56 UTC-05:00] Deleted Account
+Nice!
+
+    [22.02.2020 10:23:23 UTC-05:00] Deleted Account
+So what about those red and blue pics are those related to the main puzzle?
+
+    [22.02.2020 10:23:44 UTC-05:00] Detective Froz
+What is the current step to be solved?
+
+
+##### CREATOR INDEX 1322 [22.02.2020 10:32:30 UTC-05:00]
+
+    [22.02.2020 10:27:59 UTC-05:00] Detective Froz
+Tried ‘Parts 1..7’ as pwd to phase3 - does not work) lol)
+
+    [22.02.2020 10:28:15 UTC-05:00] 💎Angels Consultancy services💎
+so everything is in the picture ?
+
+    [22.02.2020 10:28:46 UTC-05:00] Deleted Account
+Not looks like we don't even know how many parts are there
+
+    [22.02.2020 10:29:22 UTC-05:00] 💎Angels Consultancy services💎
+i dont even know how it works or where it start
+
+>>> [22.02.2020 10:32:30 UTC-05:00] Jrk Bgrt
+Solutions for the first stages can be found online.
+
+    [22.02.2020 10:32:48 UTC-05:00] Deleted Account
+I bet that I know the URL
+
+    [22.02.2020 10:32:52 UTC-05:00] Jrk Bgrt
+The quickest brain did it within 2 hours if I remember correctly.
+
+    [22.02.2020 10:33:19 UTC-05:00] Deleted Account
+How many stages are there?
+
+    [22.02.2020 10:34:10 UTC-05:00] Jrk Bgrt
+Don't know
+
+
+##### CREATOR INDEX 1324 [22.02.2020 10:32:52 UTC-05:00]
+
+    [22.02.2020 10:28:46 UTC-05:00] Deleted Account
+Not looks like we don't even know how many parts are there
+
+    [22.02.2020 10:29:22 UTC-05:00] 💎Angels Consultancy services💎
+i dont even know how it works or where it start
+
+    [22.02.2020 10:32:30 UTC-05:00] Jrk Bgrt
+Solutions for the first stages can be found online.
+
+    [22.02.2020 10:32:48 UTC-05:00] Deleted Account
+I bet that I know the URL
+
+>>> [22.02.2020 10:32:52 UTC-05:00] Jrk Bgrt
+The quickest brain did it within 2 hours if I remember correctly.
+
+    [22.02.2020 10:33:19 UTC-05:00] Deleted Account
+How many stages are there?
+
+    [22.02.2020 10:34:10 UTC-05:00] Jrk Bgrt
+Don't know
+
+    [22.02.2020 10:35:10 UTC-05:00] Deleted Account
+Some talking about 3.2 stage which sounds like there are over 30 stages at least
+
+    [22.02.2020 10:37:50 UTC-05:00] Detective Froz
+Are you puzzle developer or also crypto enthusiast and solver?
+
+
+##### CREATOR INDEX 1326 [22.02.2020 10:34:10 UTC-05:00]
+
+    [22.02.2020 10:32:30 UTC-05:00] Jrk Bgrt
+Solutions for the first stages can be found online.
+
+    [22.02.2020 10:32:48 UTC-05:00] Deleted Account
+I bet that I know the URL
+
+    [22.02.2020 10:32:52 UTC-05:00] Jrk Bgrt
+The quickest brain did it within 2 hours if I remember correctly.
+
+    [22.02.2020 10:33:19 UTC-05:00] Deleted Account
+How many stages are there?
+
+>>> [22.02.2020 10:34:10 UTC-05:00] Jrk Bgrt
+Don't know
+
+    [22.02.2020 10:35:10 UTC-05:00] Deleted Account
+Some talking about 3.2 stage which sounds like there are over 30 stages at least
+
+    [22.02.2020 10:37:50 UTC-05:00] Detective Froz
+Are you puzzle developer or also crypto enthusiast and solver?
+
+    [22.02.2020 10:38:40 UTC-05:00] Deleted Account
+why is important that he is here helping that what matters
+
+    [22.02.2020 10:39:12 UTC-05:00] Detective Froz
+He does not know how many steps in puzzle
+
+
+##### CREATOR INDEX 1350 [22.02.2020 11:11:52 UTC-05:00]
+
+    [22.02.2020 10:57:23 UTC-05:00] Deleted Account
+omg man
+
+    [22.02.2020 10:57:37 UTC-05:00] Deleted Account
+😆
+
+    [22.02.2020 10:58:31 UTC-05:00] Deleted Account
+Gsmg has great devs!
+
+    [22.02.2020 11:04:43 UTC-05:00] Deleted Account
+I bet even the typo doesnt matter! I will take a look soon
+
+>>> [22.02.2020 11:11:52 UTC-05:00] Jrk Bgrt
+Typos: Horrible mistakes due to rushed work. I'm 100% to blame for this noobish display of words. No clues to be found in those typos might you wonder 😉.
+
+    [22.02.2020 11:14:31 UTC-05:00] Deleted Account
+You wrote this? 😂
+
+    [22.02.2020 11:15:46 UTC-05:00] 💎Angels Consultancy services💎
+good luck guys im not made for puzzles 😂 cant even solve a crossword let stand i get this 😂
+
+    [22.02.2020 11:17:21 UTC-05:00] Deleted Account
+👋
+
+    [22.02.2020 11:18:42 UTC-05:00] Deleted Account
+Rushed work huh? 😂 For me seems well coded work.
+
+
+##### CREATOR INDEX 1375 [22.02.2020 15:30:18 UTC-05:00]
+
+    [22.02.2020 14:15:20 UTC-05:00] Deleted Account
+LOL I was pushed the red button and I was locked into a building 😂
+
+    [22.02.2020 14:15:56 UTC-05:00] Deleted Account
+I was unable to come out from that place. I don't know who built it but hey.. at least an exit 😂😂😂😂
+
+    [22.02.2020 14:57:27 UTC-05:00] Deleted Account
+Jrk Bgrt are you only have one parcel ? The interactive mode show me nothing. :(
+
+    [22.02.2020 14:57:55 UTC-05:00] Deleted Account
+I talk about the game if its not clear by now
+
+>>> [22.02.2020 15:30:18 UTC-05:00] Jrk Bgrt
+Only -41,-17 matters
+
+    [22.02.2020 15:30:50 UTC-05:00] Deleted Account
+thanks
+
+    [22.02.2020 15:34:12 UTC-05:00] Detective Froz
+Have you solved the phase 3?
+
+    [22.02.2020 20:32:00 UTC-05:00] Deleted Account
+titit.. oops typos.. did it.
+
+    [22.02.2020 20:41:14 UTC-05:00] Deleted Account
+Anyone solved the gibberish in 3.2?
+
+
+##### CREATOR INDEX 1416 [25.02.2020 07:45:53 UTC-05:00]
+
+    [24.02.2020 22:16:39 UTC-05:00] Deleted Account
+and you dont even solved 2th you have no clue about. Phillips either....
+
+    [24.02.2020 22:17:25 UTC-05:00] Matt
+Hmmm, Ok :))
+
+    [25.02.2020 03:53:11 UTC-05:00] Deleted Account
+I.told you 🙄
+
+    [25.02.2020 03:53:43 UTC-05:00] Deleted Account
+Jrk Bgrt also said what matters..
+
+>>> [25.02.2020 07:45:53 UTC-05:00] Jrk Bgrt
+Not sponsored, just see it as a side quest
+
+    [25.02.2020 08:26:51 UTC-05:00] Deleted Account
+decentraland is nice!
+
+    [25.02.2020 08:27:31 UTC-05:00] Deleted Account
+🙌
+
+    [25.02.2020 08:37:18 UTC-05:00] Deleted Account
+If he do some research, he can see when decentraland opened and when you revealed the clue.
+
+    [25.02.2020 08:44:18 UTC-05:00] Deleted Account
+its a game curency. if you wanna to build own parcel at decentraland, just buy some little mana and spend it for ages.
+
+
+##### CREATOR INDEX 1518 [25.02.2020 13:04:46 UTC-05:00]
+
+    [25.02.2020 13:03:39 UTC-05:00] Deleted Account
+Go to the maim channel to SIT
+
+    [25.02.2020 13:03:46 UTC-05:00] 0xColombo
+Asking for solutions is not discussion about puzzle
+
+    [25.02.2020 13:03:53 UTC-05:00] 0xColombo
+It’s just asking for solutions
+
+    [25.02.2020 13:04:09 UTC-05:00] Deleted Account
+yes
+
+>>> [25.02.2020 13:04:46 UTC-05:00] Jrk Bgrt
+You are right
+
+    [25.02.2020 13:04:49 UTC-05:00] Deleted Account
+I ask all of you to prove what you saying is true, me knowing 1..7 means puzzle solved!
+
+    [25.02.2020 13:05:38 UTC-05:00] Deleted Account
+You claim that you solved 3.0
+
+    [25.02.2020 13:05:41 UTC-05:00] Deleted Account
+Right?
+
+    [25.02.2020 13:05:53 UTC-05:00] 0xColombo
+Nobody knows what is true. U can only solve this stage and check is it true or not
+
+
+##### CREATOR INDEX 1526 [25.02.2020 13:07:05 UTC-05:00]
+
+    [25.02.2020 13:05:53 UTC-05:00] 0xColombo
+Nobody knows what is true. U can only solve this stage and check is it true or not
+
+    [25.02.2020 13:06:18 UTC-05:00] 0xColombo
+I solved 2,3,3.2, found missed piece
+
+    [25.02.2020 13:06:24 UTC-05:00] Matt
+Thanks for responding! i have spent about one month on this puzzle and this guy joined the group about 2,3 days ago and disturbing almost anyone here
+
+    [25.02.2020 13:06:41 UTC-05:00] Detective Froz
+Lol) You gave him sha256 to phase3?)
+
+>>> [25.02.2020 13:07:05 UTC-05:00] Jrk Bgrt
+FA please soften the communication. I like enthusiasm, but don't bring down the vibe. A lot of very smart people have been on this puzzle and put in a lot more effort than 1 can do in a month. Some puzzlers amazed me by being so incredibly fast in some stages.
+
+    [25.02.2020 13:07:06 UTC-05:00] Deleted Account
+Than why the BTC sitring on GSMG address?
+
+    [25.02.2020 13:07:19 UTC-05:00] Jrk Bgrt
+3.2 is a thing btw
+
+    [25.02.2020 13:07:21 UTC-05:00] Deleted Account
+👌
+
+    [25.02.2020 13:08:01 UTC-05:00] Deleted Account
+Why everyone stuck at 3.2?
+
+
+##### CREATOR INDEX 1528 [25.02.2020 13:07:19 UTC-05:00]
+
+    [25.02.2020 13:06:24 UTC-05:00] Matt
+Thanks for responding! i have spent about one month on this puzzle and this guy joined the group about 2,3 days ago and disturbing almost anyone here
+
+    [25.02.2020 13:06:41 UTC-05:00] Detective Froz
+Lol) You gave him sha256 to phase3?)
+
+    [25.02.2020 13:07:05 UTC-05:00] Jrk Bgrt
+FA please soften the communication. I like enthusiasm, but don't bring down the vibe. A lot of very smart people have been on this puzzle and put in a lot more effort than 1 can do in a month. Some puzzlers amazed me by being so incredibly fast in some stages.
+
+    [25.02.2020 13:07:06 UTC-05:00] Deleted Account
+Than why the BTC sitring on GSMG address?
+
+>>> [25.02.2020 13:07:19 UTC-05:00] Jrk Bgrt
+3.2 is a thing btw
+
+    [25.02.2020 13:07:21 UTC-05:00] Deleted Account
+👌
+
+    [25.02.2020 13:08:01 UTC-05:00] Deleted Account
+Why everyone stuck at 3.2?
+
+    [25.02.2020 13:08:47 UTC-05:00] nieods
+There's no clear direction on what to do next, and probably invokes time consuming brute force
+
+    [25.02.2020 13:09:10 UTC-05:00] Jrk Bgrt
+Or nobody found the direction
+
+
+##### CREATOR INDEX 1532 [25.02.2020 13:09:10 UTC-05:00]
+
+    [25.02.2020 13:07:19 UTC-05:00] Jrk Bgrt
+3.2 is a thing btw
+
+    [25.02.2020 13:07:21 UTC-05:00] Deleted Account
+👌
+
+    [25.02.2020 13:08:01 UTC-05:00] Deleted Account
+Why everyone stuck at 3.2?
+
+    [25.02.2020 13:08:47 UTC-05:00] nieods
+There's no clear direction on what to do next, and probably invokes time consuming brute force
+
+>>> [25.02.2020 13:09:10 UTC-05:00] Jrk Bgrt
+Or nobody found the direction
+
+    [25.02.2020 13:09:20 UTC-05:00] 0xColombo
+Because 3.2 and missed piece is not final of puzzle
+
+    [25.02.2020 13:09:24 UTC-05:00] nieods
+Or that
+
+    [25.02.2020 13:09:39 UTC-05:00] Jrk Bgrt
+But I should shut up ofcourse 😁
+
+    [25.02.2020 13:09:50 UTC-05:00] Deleted Account
+everything is GIVEN

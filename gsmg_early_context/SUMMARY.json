@@ -1,0 +1,494 @@
+{
+  "total_messages": 51177,
+  "creator_messages": 411,
+  "pre2023_creator_messages": 216,
+  "first80_first": "20.04.2019 11:18:49 UTC-05:00",
+  "first80_last": "25.02.2020 13:09:10 UTC-05:00",
+  "keyword_hit_count": 59,
+  "keyword_hits": [
+    {
+      "index": 35,
+      "date": "20.04.2019 11:18:49 UTC-05:00",
+      "text": "Ok.. somebody has cracked the first code.",
+      "keywords": [
+        "code"
+      ]
+    },
+    {
+      "index": 38,
+      "date": "20.04.2019 11:21:57 UTC-05:00",
+      "text": "The first part. Maybe the puzzle has multiple stages 😉.",
+      "keywords": [
+        "stage"
+      ]
+    },
+    {
+      "index": 159,
+      "date": "22.04.2019 16:24:17 UTC-05:00",
+      "text": "Puzzle token issue for stage 1 seems to be resolved.",
+      "keywords": [
+        "stage"
+      ]
+    },
+    {
+      "index": 162,
+      "date": "22.04.2019 16:26:42 UTC-05:00",
+      "text": "https://passwordsgenerator.net/sha256-hash-generator/",
+      "keywords": [
+        "password"
+      ]
+    },
+    {
+      "index": 184,
+      "date": "22.04.2019 17:29:02 UTC-05:00",
+      "text": "A hash which we provided as the website was giving a lot of token errors. With this hash the puzzlers can try their passwords instead of firing them at the website.",
+      "keywords": [
+        "password"
+      ]
+    },
+    {
+      "index": 502,
+      "date": "08.05.2019 08:20:21 UTC-05:00",
+      "text": "Apparently somebody managed to get into Phase 3 🧐",
+      "keywords": [
+        "phase"
+      ]
+    },
+    {
+      "index": 669,
+      "date": "14.05.2019 10:01:11 UTC-05:00",
+      "text": "I suppose the btc price will be above 10k at the next halving.",
+      "keywords": [
+        "btc"
+      ]
+    },
+    {
+      "index": 674,
+      "date": "17.05.2019 17:39:21 UTC-05:00",
+      "text": "Dear all, somebody pointed out that there might be a mistake in phase III and that is correct unfortunately. The mistake makes it nearly impossible to solve unless you'd know where to add 1 extra character between the 3 answers. My sincerest apologies for this, I'll fix this a soon as I've found a decent spot to do so as I'm on holiday atm. Again, 1000 times sorry, I'm aware I might have wasted a lot of time for some :-(...",
+      "keywords": [
+        "answer",
+        "phase"
+      ]
+    },
+    {
+      "index": 675,
+      "date": "17.05.2019 17:43:46 UTC-05:00",
+      "text": "Here's the hint in order to bypass the mistake:\n\ngiveit = givetit",
+      "keywords": [
+        "hint"
+      ]
+    },
+    {
+      "index": 681,
+      "date": "17.05.2019 21:30:08 UTC-05:00",
+      "text": "The issue is within the 3th phase. Not in going from 2 to 3.",
+      "keywords": [
+        "phase"
+      ]
+    },
+    {
+      "index": 683,
+      "date": "18.05.2019 11:26:26 UTC-05:00",
+      "text": "So, after yesterday's 'hint' a team of puzzlers has made an unbelievable amount of progress in just one day... The progress they made was unforseen as we expected it to take at least a !month! to pass those parts of the puzzle. Hat off for those that managed to puzzle their way through all the ciphers and riddles in this extraordinary pace. We're really impressed by that, actually, we stand in awe for you. Congrats.\n\nTo those not having reached Phase III yet, no worries besides a bit of extra pressure. The \"last\" part of the puzzle will ensure that there's quite some time for you guys to catch up to them... although given their obvious skill this might be solved quicker than expected aswell.. time will tell. Good luck!",
+      "keywords": [
+        "phase",
+        "hint"
+      ]
+    },
+    {
+      "index": 685,
+      "date": "18.05.2019 11:31:02 UTC-05:00",
+      "text": "In case the private key hasn't been found in 2019 we'll release a tiny hint at the start of 2020, that will be the final hint. Can the private key be retrieved without that hint? Yes.",
+      "keywords": [
+        "key",
+        "hint"
+      ]
+    },
+    {
+      "index": 690,
+      "date": "18.05.2019 11:50:17 UTC-05:00",
+      "text": "Part III consist out of a few stages. The last few stages are, how shall I say it, not really easy to solve for most.",
+      "keywords": [
+        "stage"
+      ]
+    },
+    {
+      "index": 699,
+      "date": "18.05.2019 12:10:46 UTC-05:00",
+      "text": "No, they reaced out to me on tg and send me proof of them passing the stages.",
+      "keywords": [
+        "stage"
+      ]
+    },
+    {
+      "index": 701,
+      "date": "18.05.2019 12:13:29 UTC-05:00",
+      "text": "No hints after stage 2 (except the 't' to fix my stupid mistake)",
+      "keywords": [
+        "stage",
+        "hint"
+      ]
+    },
+    {
+      "index": 733,
+      "date": "26.05.2019 19:25:10 UTC-05:00",
+      "text": "Not completely, voice recognition might even work to pass although I'd copy past the answer as it's faster ;-).",
+      "keywords": [
+        "answer"
+      ]
+    },
+    {
+      "index": 1098,
+      "date": "04.09.2019 02:58:16 UTC-05:00",
+      "text": "Still no hints ;-)",
+      "keywords": [
+        "hint"
+      ]
+    },
+    {
+      "index": 1197,
+      "date": "31.10.2019 20:53:04 UTC-05:00",
+      "text": "Sure, what's the hint?",
+      "keywords": [
+        "hint"
+      ]
+    },
+    {
+      "index": 1275,
+      "date": "13.01.2020 11:40:54 UTC-05:00",
+      "text": "Hint to be expected within a few days. Note: not trolling with scripted cake this time.",
+      "keywords": [
+        "hint"
+      ]
+    },
+    {
+      "index": 1282,
+      "date": "14.01.2020 05:38:06 UTC-05:00",
+      "text": "Roses are White but often Red.\nYellow has a number and so does Blue.\nGo back to the first puzzle piece without further ado.\n\nIt might have shown you only one door, beware that the rabbits nest may contain a whole lot more.\n\nHush hush.",
+      "keywords": [
+        "rabbit",
+        "door"
+      ]
+    },
+    {
+      "index": 1322,
+      "date": "22.02.2020 10:32:30 UTC-05:00",
+      "text": "Solutions for the first stages can be found online.",
+      "keywords": [
+        "stage"
+      ]
+    },
+    {
+      "index": 1526,
+      "date": "25.02.2020 13:07:05 UTC-05:00",
+      "text": "FA please soften the communication. I like enthusiasm, but don't bring down the vibe. A lot of very smart people have been on this puzzle and put in a lot more effort than 1 can do in a month. Some puzzlers amazed me by being so incredibly fast in some stages.",
+      "keywords": [
+        "stage"
+      ]
+    },
+    {
+      "index": 1539,
+      "date": "25.02.2020 13:11:01 UTC-05:00",
+      "text": "A few guys here cracked phase 2 in 2 days.",
+      "keywords": [
+        "phase"
+      ]
+    },
+    {
+      "index": 1676,
+      "date": "27.02.2020 11:06:41 UTC-05:00",
+      "text": "Damn so annoying",
+      "keywords": [
+        "yin"
+      ]
+    },
+    {
+      "index": 2228,
+      "date": "24.03.2020 20:02:42 UTC-05:00",
+      "text": "Answering that would be too much of a hint.",
+      "keywords": [
+        "answer",
+        "hint"
+      ]
+    },
+    {
+      "index": 2498,
+      "date": "06.04.2020 07:12:03 UTC-05:00",
+      "text": "No hints 🤓",
+      "keywords": [
+        "hint"
+      ]
+    },
+    {
+      "index": 2546,
+      "date": "08.04.2020 13:38:10 UTC-05:00",
+      "text": "Those hints are the last hints. Although I can say that one team managed to find something... something others haven't yet found (unless they didn't tell us).",
+      "keywords": [
+        "hint"
+      ]
+    },
+    {
+      "index": 2548,
+      "date": "08.04.2020 14:01:53 UTC-05:00",
+      "text": "That would be another hint.",
+      "keywords": [
+        "hint"
+      ]
+    },
+    {
+      "index": 2553,
+      "date": "08.04.2020 14:16:14 UTC-05:00",
+      "text": "Before you send anything. No hints; errors and typos are mostly not intended 😄",
+      "keywords": [
+        "hint"
+      ]
+    },
+    {
+      "index": 2556,
+      "date": "08.04.2020 14:27:23 UTC-05:00",
+      "text": "well, I'll just wait until you guys have progressed to \"the next stage or something like that\"😁",
+      "keywords": [
+        "stage"
+      ]
+    },
+    {
+      "index": 2572,
+      "date": "08.04.2020 15:12:57 UTC-05:00",
+      "text": "the backstage 😎",
+      "keywords": [
+        "stage"
+      ]
+    },
+    {
+      "index": 2597,
+      "date": "08.04.2020 15:33:39 UTC-05:00",
+      "text": "Humph. Hope, it is the quintessential human delusion, simultaneously the source of your greatest strength, and your greatest weakness.",
+      "keywords": [
+        "source"
+      ]
+    },
+    {
+      "index": 2598,
+      "date": "08.04.2020 15:33:48 UTC-05:00",
+      "text": "(not a hint btw, just fooling around)",
+      "keywords": [
+        "hint"
+      ]
+    },
+    {
+      "index": 3014,
+      "date": "11.05.2020 14:31:00 UTC-05:00",
+      "text": "It'll high likely be worth more than it once the price was 5 btc. Next halving in 209999",
+      "keywords": [
+        "btc"
+      ]
+    },
+    {
+      "index": 3031,
+      "date": "11.05.2020 15:31:25 UTC-05:00",
+      "text": "Let's see what bitcoin is worth the next halving and who knows what you'll find after opening the 2nd door. The price is in half, but what does it mean 🤔.",
+      "keywords": [
+        "door"
+      ]
+    },
+    {
+      "index": 3143,
+      "date": "20.05.2020 21:40:46 UTC-05:00",
+      "text": "answer is there",
+      "keywords": [
+        "answer"
+      ]
+    },
+    {
+      "index": 3332,
+      "date": "02.08.2020 11:56:20 UTC-05:00",
+      "text": "Really nobody managed to find the extra door, didn't expect that after the earlier pace of cracking things.",
+      "keywords": [
+        "door"
+      ]
+    },
+    {
+      "index": 3352,
+      "date": "09.08.2020 05:38:27 UTC-05:00",
+      "text": "a private key",
+      "keywords": [
+        "key"
+      ]
+    },
+    {
+      "index": 3399,
+      "date": "12.08.2020 08:10:55 UTC-05:00",
+      "text": "Indeed remarkable with the hints stating the path pretty obvious...",
+      "keywords": [
+        "hint"
+      ]
+    },
+    {
+      "index": 3404,
+      "date": "12.08.2020 13:22:59 UTC-05:00",
+      "text": "No hints",
+      "keywords": [
+        "hint"
+      ]
+    },
+    {
+      "index": 3405,
+      "date": "12.08.2020 13:23:21 UTC-05:00",
+      "text": "There's 1 club that passed but they are stuck in the next phase.",
+      "keywords": [
+        "phase"
+      ]
+    },
+    {
+      "index": 3450,
+      "date": "01.10.2020 07:41:56 UTC-05:00",
+      "text": "I've just been notified that number 2 has made it to the next stage.",
+      "keywords": [
+        "stage"
+      ]
+    },
+    {
+      "index": 3560,
+      "date": "27.10.2020 03:58:39 UTC-05:00",
+      "text": "https://www.blockchain.com/btc/address/1GSMG1JC9wtdSwfwApgj2xcmJPAwx7prBe price is indeed still there.",
+      "keywords": [
+        "btc"
+      ]
+    },
+    {
+      "index": 4143,
+      "date": "19.01.2021 13:12:59 UTC-05:00",
+      "text": "From now on no more begging for money in exchange for \"hints\". Doing so results in a ban. Measure in place due to many complaints.",
+      "keywords": [
+        "hint"
+      ]
+    },
+    {
+      "index": 4150,
+      "date": "19.01.2021 16:39:00 UTC-05:00",
+      "text": "I'll offer free hints in PM. (After you've paid me 5.1 btc 🤡).",
+      "keywords": [
+        "btc",
+        "hint"
+      ]
+    },
+    {
+      "index": 4172,
+      "date": "21.01.2021 06:35:49 UTC-05:00",
+      "text": "Not to give any hints but a few might not require the internet anymore.",
+      "keywords": [
+        "hint"
+      ]
+    },
+    {
+      "index": 4372,
+      "date": "01.03.2021 06:34:42 UTC-05:00",
+      "text": "You are at the prime part already???",
+      "keywords": [
+        "prime"
+      ]
+    },
+    {
+      "index": 4375,
+      "date": "01.03.2021 06:35:15 UTC-05:00",
+      "text": "Oh wait, shouldn't have said that. That might have been a hint 🤔.",
+      "keywords": [
+        "hint"
+      ]
+    },
+    {
+      "index": 4626,
+      "date": "05.03.2021 08:14:28 UTC-05:00",
+      "text": "Those not enjoying the puzzle are the ones wasting time I guess 😅?",
+      "keywords": [
+        "yin"
+      ]
+    },
+    {
+      "index": 4635,
+      "date": "05.03.2021 08:15:45 UTC-05:00",
+      "text": "No hints 🤡",
+      "keywords": [
+        "hint"
+      ]
+    },
+    {
+      "index": 4854,
+      "date": "14.03.2021 01:58:08 UTC-05:00",
+      "text": "Fyi. Another person (or team) made it to salph.",
+      "keywords": [
+        "salph"
+      ]
+    },
+    {
+      "index": 4860,
+      "date": "14.03.2021 04:45:01 UTC-05:00",
+      "text": "I don't check the website logs. There aren't any tracking scripts either. People somehow now how to reach me on telegram and PM me, that's how I know :-). Although I can't prove it, we don't monitor the puzzlers progress in any way. I just read the chat and when I notice the address is empty I'll know how they did it. After the first stage was cracked within no-time I was afraid the entire puzzle would have been solved not too long after that. When people progress in salphation it might be cracked pretty soon. Breaking salphation, should be giving the feeling of the phase's name. Won't be easy but I've noticed how clever most of you are so I assume it will be cracked at some point, probably before next halving.",
+      "keywords": [
+        "salph",
+        "phase",
+        "stage"
+      ]
+    },
+    {
+      "index": 4870,
+      "date": "14.03.2021 10:19:29 UTC-05:00",
+      "text": "I gave an unforseen hint already 🤷‍♂",
+      "keywords": [
+        "hint"
+      ]
+    },
+    {
+      "index": 5044,
+      "date": "22.03.2021 11:53:39 UTC-05:00",
+      "text": "Nr 5 in salph",
+      "keywords": [
+        "salph"
+      ]
+    },
+    {
+      "index": 5177,
+      "date": "01.04.2021 01:57:38 UTC-05:00",
+      "text": "Hint: \"another door might be found on {1 },{4} ,{21}\"",
+      "keywords": [
+        "door",
+        "hint"
+      ]
+    },
+    {
+      "index": 5397,
+      "date": "10.04.2021 12:49:28 UTC-05:00",
+      "text": "Fyi, another person or team reached salph today.",
+      "keywords": [
+        "salph"
+      ]
+    },
+    {
+      "index": 5912,
+      "date": "26.12.2021 15:11:26 UTC-05:00",
+      "text": "Oh well, why not. A mini mini hint. Ready 🐰?",
+      "keywords": [
+        "hint"
+      ]
+    },
+    {
+      "index": 5914,
+      "date": "26.12.2021 15:18:32 UTC-05:00",
+      "text": "The previous \"there is another door hint\" is still a thing. We're not sure if anyone has found another door so far, and we can't check that... We've seen prime numbers being mentioned; well, that is definitely an aspect which is required to proceed. Furthermore, along the way, some characters need to be 'zeroed out'.. Best of luck and happy holidays! 🥂",
+      "keywords": [
+        "prime",
+        "door",
+        "hint"
+      ]
+    },
+    {
+      "index": 6139,
+      "date": "02.12.2022 07:36:36 UTC-05:00",
+      "text": "There might be a hint coming but not too soon.",
+      "keywords": [
+        "hint"
+      ]
+    }
+  ]
+}
