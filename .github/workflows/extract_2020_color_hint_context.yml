@@ -1,0 +1,46 @@
+name: Extract 2020 color hint context
+on:
+  push:
+    paths:
+      - '.github/workflows/extract_2020_color_hint_context.yml'
+permissions:
+  contents: write
+jobs:
+  extract:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: |
+          curl --fail --location --retry 4 https://raw.githubusercontent.com/halbgott29a/gsmgio-5btc-puzzle/master/_work/chat_transcript.txt -o /tmp/chat.txt
+          python3 - <<'PY'
+          import re
+          from pathlib import Path
+          raw=Path('/tmp/chat.txt').read_text(encoding='utf-8',errors='replace')
+          pat=re.compile(r'^=== \[(?P<date>[^\]]+)\] (?P<sender>[^\n]*)\n(?P<text>.*?)(?=^=== \[|\Z)',re.M|re.S)
+          msgs=[{'i':i,'date':m.group('date').strip(),'sender':m.group('sender').strip(),'text':m.group('text').strip()} for i,m in enumerate(pat.finditer(raw))]
+          terms=['Roses are White but often Red','Yellow has a number','Only -41,-17 matters','first or zero','answer is there','extra door','2nd door','second door','rabbit','yellow','blue']
+          hits=[]
+          for m in msgs:
+              if any(t.lower() in m['text'].lower() for t in terms):
+                  # focus 2019-2021 and exact relevant creator/hint discussions
+                  if any(y in m['date'] for y in ('2019','2020','2021')):
+                      hits.append(m['i'])
+          # merge +-15 message windows
+          spans=[]
+          for i in hits:
+              a=max(0,i-15); b=min(len(msgs),i+16)
+              if spans and a<=spans[-1][1]: spans[-1]=(spans[-1][0],max(spans[-1][1],b))
+              else: spans.append((a,b))
+          out=[]
+          for a,b in spans:
+              out.append(f'######## GLOBAL WINDOW {a}..{b-1}')
+              for m in msgs[a:b]:
+                  out.append(f'[{m["i"]}] [{m["date"]}] {m["sender"]}\n{m["text"]}\n')
+          Path('color_hint_2020_contexts.txt').write_text('\n'.join(out),encoding='utf-8')
+          PY
+      - run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add color_hint_2020_contexts.txt
+          git commit -m 'Extract 2020 color hint contexts'
+          git push
