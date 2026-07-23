@@ -1,0 +1,144 @@
+name: Full GSMG message audit
+
+on:
+  push:
+    paths:
+      - '.github/workflows/full_gsmg_message_audit.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Download and audit full transcript
+        run: |
+          set -euo pipefail
+          curl --fail --location --retry 4 \
+            'https://raw.githubusercontent.com/halbgott29a/gsmgio-5btc-puzzle/master/_work/chat_transcript.txt' \
+            --output /tmp/chat_transcript.txt
+          python3 - <<'PY'
+          import csv, hashlib, json, re
+          from collections import Counter, defaultdict
+          from datetime import datetime
+          from pathlib import Path
+
+          src=Path('/tmp/chat_transcript.txt')
+          raw=src.read_text(encoding='utf-8',errors='replace')
+          pat=re.compile(r'^=== \[(?P<date>[^\]]+)\] (?P<sender>[^\n]*)\n(?P<text>.*?)(?=^=== \[|\Z)',re.M|re.S)
+          msgs=[]
+          for i,m in enumerate(pat.finditer(raw)):
+              date=m.group('date').strip()
+              try: dt=datetime.strptime(date,'%d.%m.%Y %H:%M:%S UTC-05:00')
+              except ValueError: dt=None
+              msgs.append({'index':i,'date':date,'dt':dt,'sender':m.group('sender').strip(),'text':m.group('text').strip()})
+
+          # Creator aliases actually visible in this flattened export.
+          sender_counts=Counter(m['sender'] for m in msgs)
+          creator_aliases=sorted(s for s in sender_counts if re.search(r'(^|\b)(jr[kc]|sowut)(\b|$)',s,re.I) or 'bgrt' in s.lower())
+          creator=[m for m in msgs if m['sender'] in creator_aliases]
+
+          categories={
+            'FIRST_PIECE_RABBIT_DOORS':['rabbit','bunny','first puzzle','first piece','zero piece','first or zero','door','nest','yellow','blue','roses are','white','red'],
+            'OPERATIONS_NUMBERS':['prime','zeroed','zero out','hash','sha','double hash','aes','xor','matrix','binary','bits','characters','character','position','count','number','and or','logic gate'],
+            'PHASES_NAMES':['phase','stage','salph','salvation','cosmic','duality','dbbi','faed','archi','ying','yang','yin'],
+            'KEY_ADDRESS_PRIZE':['private key','btc','bitcoin','address','pubkey','price','prize','halving','half'],
+            'SOURCES_LINKS':['url','link','website','internet','blockchain','github','image','picture','png','file','data','info'],
+            'AUTHENTICITY_CORRECTIONS':['hint','not a hint','typo','error','mistake','correct','incorrect','confirm','solved','passed','progress','no need','all the info'],
+          }
+          cat_hits=defaultdict(list)
+          for m in creator:
+              low=m['text'].lower()
+              for cat,terms in categories.items():
+                  hits=[t for t in terms if t in low]
+                  if hits: cat_hits[cat].append((m,hits))
+
+          out=Path('gsmg_full_message_audit'); out.mkdir(exist_ok=True)
+
+          # One physical line per creator message for exhaustive review.
+          with (out/'CREATOR_ALL_NUMBERED.tsv').open('w',encoding='utf-8',newline='') as f:
+              w=csv.writer(f,delimiter='\t')
+              w.writerow(['ordinal','global_index','date','sender','text_one_line'])
+              for n,m in enumerate(creator,1):
+                  one=' \\n '.join(m['text'].splitlines())
+                  w.writerow([n,m['index'],m['date'],m['sender'],one])
+
+          # Every creator message with six messages before and four after.
+          chunks=[]
+          for n,m in enumerate(creator,1):
+              i=m['index']; lo=max(0,i-6); hi=min(len(msgs),i+5)
+              chunks.append(f'######## CREATOR {n}/{len(creator)} GLOBAL_INDEX={i} DATE={m["date"]} SENDER={m["sender"]}')
+              for x in msgs[lo:hi]:
+                  mark='>>>' if x['index']==i else '   '
+                  chunks.append(f'{mark} [{x["date"]}] {x["sender"]}\n{x["text"]}\n')
+          (out/'CREATOR_ALL_CONTEXTS.txt').write_text('\n'.join(chunks),encoding='utf-8')
+
+          # Nearest preceding questions for every creator message.
+          qlines=['# Nearest preceding questions for every creator message','']
+          for n,m in enumerate(creator,1):
+              prior=[]
+              for x in reversed(msgs[max(0,m['index']-12):m['index']]):
+                  if '?' in x['text']:
+                      prior.append(x)
+                      if len(prior)==3: break
+              qlines.append(f'## {n}. [{m["date"]}] {m["text"].replace(chr(10)," / ")}')
+              if not prior: qlines.append('- No question in previous 12 text messages.')
+              else:
+                  for x in prior:
+                      qlines.append(f'- global {x["index"]}, [{x["date"]}] {x["sender"]}: {x["text"].replace(chr(10)," / ")}')
+              qlines.append('')
+          (out/'CREATOR_PRECEDING_QUESTIONS.md').write_text('\n'.join(qlines),encoding='utf-8')
+
+          # Category ledger, exact text only.
+          led=['# Creator-authenticated clue ledger','',
+               'This is a lexical inventory, not a claim that every match is a puzzle instruction.','']
+          for cat in categories:
+              led.append(f'## {cat} ({len(cat_hits[cat])})')
+              for m,hits in cat_hits[cat]:
+                  led.append(f'- **[{m["date"]}] global {m["index"]}** — {m["text"].replace(chr(10)," / ")}  ')
+                  led.append(f'  Matches: `{", ".join(hits)}`')
+              led.append('')
+          (out/'CREATOR_CLUE_LEDGER.md').write_text('\n'.join(led),encoding='utf-8')
+
+          # Short/cryptic creator messages and uncategorized messages, common source of misses.
+          short=[]; uncat=[]
+          categorized_indices={m['index'] for vals in cat_hits.values() for m,_ in vals}
+          for n,m in enumerate(creator,1):
+              if len(m['text']) <= 100: short.append((n,m))
+              if m['index'] not in categorized_indices: uncat.append((n,m))
+          def write_rows(path,rows):
+              lines=[]
+              for n,m in rows:
+                  lines.append(f'{n}\t{m["index"]}\t{m["date"]}\t{m["text"].replace(chr(10)," / ")}')
+              (out/path).write_text('\n'.join(lines),encoding='utf-8')
+          write_rows('CREATOR_SHORT_MESSAGES.tsv',short)
+          write_rows('CREATOR_UNCATEGORIZED.tsv',uncat)
+
+          summary={
+            'sha256':hashlib.sha256(src.read_bytes()).hexdigest(),
+            'bytes':src.stat().st_size,
+            'lines':raw.count('\n')+1,
+            'parsed_messages':len(msgs),
+            'unique_senders':len(sender_counts),
+            'creator_aliases':creator_aliases,
+            'creator_alias_counts':{s:sender_counts[s] for s in creator_aliases},
+            'creator_messages':len(creator),
+            'creator_first':creator[0]['date'] if creator else None,
+            'creator_last':creator[-1]['date'] if creator else None,
+            'short_creator_messages':len(short),
+            'uncategorized_creator_messages':len(uncat),
+            'category_counts':{k:len(v) for k,v in cat_hits.items()},
+            'parser_limitations':['text-only flattened transcript','messages without text absent','formal reply_to metadata absent','media filenames and attachment references absent']
+          }
+          (out/'SUMMARY.json').write_text(json.dumps(summary,indent=2,ensure_ascii=False),encoding='utf-8')
+          PY
+      - name: Commit audit outputs
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add gsmg_full_message_audit
+          git commit -m 'Generate complete GSMG creator message audit'
+          git push
