@@ -1,0 +1,19 @@
+name: Fetch DBBI diagrams
+on:
+  push:
+    paths:
+      - '.github/workflows/fetch_dbbi_diagrams.yml'
+  workflow_dispatch:
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: |
+          mkdir diagrams
+          curl -L --fail https://raw.githubusercontent.com/CoruNethron/salph-cosmic-final-solution/main/assets/dbbi-part-1.png -o diagrams/dbbi-part-1.png
+          curl -L --fail https://raw.githubusercontent.com/CoruNethron/salph-cosmic-final-solution/main/assets/dbbi-part-2.png -o diagrams/dbbi-part-2.png
+      - uses: actions/upload-artifact@v4
+        with:
+          name: dbbi-diagrams
+          path: diagrams/
