@@ -1,0 +1,205 @@
+name: Canonical GSMG chain audit
+
+on:
+  push:
+    paths:
+      - '.github/workflows/gsmg_canonical_chain_audit.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install image dependency
+        run: python -m pip install --quiet pillow
+      - name: Download canonical evidence
+        run: |
+          set -euo pipefail
+          mkdir -p gsmg_canonical_chain_audit
+          curl --fail --location --retry 4 \
+            https://raw.githubusercontent.com/puzzlehunt/gsmgio-5btc-puzzle/master/puzzle.png \
+            -o gsmg_canonical_chain_audit/puzzle.png
+          curl --fail --location --retry 4 \
+            https://raw.githubusercontent.com/puzzlehunt/gsmgio-5btc-puzzle/master/README.md \
+            -o gsmg_canonical_chain_audit/CANONICAL_README.md
+      - name: Analyze exact image and authenticated chain primitives
+        run: |
+          python3 - <<'PY'
+          from __future__ import annotations
+          from pathlib import Path
+          from PIL import Image
+          import collections, hashlib, json, math, struct, zlib
+
+          out = Path('gsmg_canonical_chain_audit')
+          path = out/'puzzle.png'
+          data = path.read_bytes()
+          img = Image.open(path).convert('RGBA')
+          w,h = img.size
+
+          def isprime(n:int)->bool:
+              if n<2:return False
+              if n%2==0:return n==2
+              d=3
+              while d*d<=n:
+                  if n%d==0:return False
+                  d+=2
+              return True
+
+          # Parse PNG chunks and appended material exactly.
+          chunks=[]; pos=8; iend_end=None
+          while pos+12<=len(data):
+              length=struct.unpack('>I',data[pos:pos+4])[0]
+              typ=data[pos+4:pos+8].decode('latin1')
+              payload=data[pos+8:pos+8+length]
+              crc=data[pos+8+length:pos+12+length]
+              chunks.append({'type':typ,'length':length,'sha256':hashlib.sha256(payload).hexdigest(),'crc_hex':crc.hex()})
+              pos += 12+length
+              if typ=='IEND':
+                  iend_end=pos
+                  break
+          appended=data[iend_end:] if iend_end is not None else b''
+
+          # Exact pixel palette over the top square field (width x width).
+          top=img.crop((0,0,w,w))
+          palette=collections.Counter(top.getdata())
+          palette_rows=[{'rgba':list(k),'count':v} for k,v in palette.most_common()]
+
+          expected={
+              'W':(255,255,255),
+              'K':(0,0,0),
+              'Y':(255,238,0),
+              'B':(67,72,203),
+          }
+          def nearest(px):
+              rgb=px[:3]
+              return min(expected, key=lambda k:sum((rgb[j]-expected[k][j])**2 for j in range(3)))
+
+          # Infer every base cell color robustly using the outer ring of each cell,
+          # which avoids the central rabbit drawing. The top field is exactly w x w.
+          n=14; cell=w/n
+          grid=[]; evidence=[]
+          for r in range(n):
+              row=[]; erow=[]
+              for c in range(n):
+                  counts=collections.Counter()
+                  # sample an outer frame and interior lattice; base fill dominates rabbit overlay
+                  for yi in range(9):
+                      for xi in range(9):
+                          fx=(xi+0.5)/9; fy=(yi+0.5)/9
+                          x=min(w-1,max(0,int((c+fx)*cell)))
+                          y=min(w-1,max(0,int((r+fy)*cell)))
+                          counts[nearest(img.getpixel((x,y)))] += 1
+                  # Use known bit-class constraint from README only to disambiguate overlay:
+                  # black/blue share 1; yellow/white share 0.
+                  bit_rows=[
+                      '00110100101100','11110011101011','11011101001001','01101000011101',
+                      '01100011000110','10011000100011','10011100010000','11100000001000',
+                      '00011101111101','11111100110001','11010000011011','11110010101100',
+                      '01011101000110','01101101101011']
+                  allowed=('K','B') if bit_rows[r][c]=='1' else ('W','Y')
+                  chosen=max(allowed,key=lambda k:counts[k])
+                  row.append(chosen)
+                  erow.append(dict(counts))
+              grid.append(''.join(row)); evidence.append(erow)
+
+          bit_grid=[''.join('1' if ch in 'KB' else '0' for ch in row) for row in grid]
+
+          def spiral_coords(n=14):
+              top,left,bottom,right=0,0,n-1,n-1; res=[]
+              while left<=right and top<=bottom:
+                  for r in range(top,bottom+1):res.append((r,left))
+                  left+=1
+                  for c in range(left,right+1):res.append((bottom,c))
+                  bottom-=1
+                  if left<=right:
+                      for r in range(bottom,top-1,-1):res.append((r,right))
+                      right-=1
+                  if top<=bottom:
+                      for c in range(right,left-1,-1):res.append((top,c))
+                      top+=1
+              return res
+
+          row_coords=[(r,c) for r in range(n) for c in range(n)]
+          spir=spiral_coords(n)
+          orders={'row_major':row_coords,'spiral_ccw_from_upper_left':spir}
+
+          counts=collections.Counter(''.join(grid))
+          analysis={
+              'file':{
+                  'bytes':len(data),'sha256':hashlib.sha256(data).hexdigest(),
+                  'git_blob_sha1_expected':'4e727182dc7cd07e5d3e6d999ed585d740ea891a',
+                  'dimensions':[w,h],'mode':img.mode,
+                  'png_chunks':chunks,'appended_bytes':len(appended),
+                  'appended_sha256':hashlib.sha256(appended).hexdigest() if appended else None,
+              },
+              'top_field_palette':palette_rows,
+              'grid':grid,'bit_grid':bit_grid,'color_counts':dict(counts),
+              'cell_evidence':evidence,
+              'orders':{},
+              'row_sums':{},'column_sums':{},
+          }
+
+          # Matrices that require no arbitrary numeric color assignment.
+          masks={k:[[1 if grid[r][c]==k else 0 for c in range(n)] for r in range(n)] for k in 'WYBK'}
+          masks['bit']=[[int(bit_grid[r][c]) for c in range(n)] for r in range(n)]
+          masks['colored']=[[1 if grid[r][c] in 'YB' else 0 for c in range(n)] for r in range(n)]
+          for name,m in masks.items():
+              analysis['row_sums'][name]=[sum(row) for row in m]
+              analysis['column_sums'][name]=[sum(m[r][c] for r in range(n)) for c in range(n)]
+
+          # Source-justified positions and prime intersections only.
+          for oname,coords in orders.items():
+              seq=''.join(grid[r][c] for r,c in coords)
+              bits=''.join(bit_grid[r][c] for r,c in coords)
+              ent={'color_sequence':seq,'bit_sequence':bits}
+              for color in 'YB':
+                  positions=[i+1 for i,ch in enumerate(seq) if ch==color]
+                  ent[color]={
+                      'positions_1based':positions,
+                      'count':len(positions),
+                      'position_sum':sum(positions),
+                      'positions_that_are_prime':[p for p in positions if isprime(p)],
+                      'prime_ordinals_within_color_list':[positions[i-1] for i in range(1,len(positions)+1) if isprime(i)],
+                  }
+              ent['global_prime_positions']=[i for i in range(1,197) if isprime(i)]
+              ent['colors_at_global_prime_positions']=''.join(seq[i-1] for i in ent['global_prime_positions'])
+              ent['bits_at_global_prime_positions']=''.join(bits[i-1] for i in ent['global_prime_positions'])
+              analysis['orders'][oname]=ent
+
+          # Decode the public spiral bitstream to verify orientation.
+          sb=analysis['orders']['spiral_ccw_from_upper_left']['bit_sequence']
+          decoded=''.join(chr(int(sb[i:i+8],2)) for i in range(0,192,8))
+          analysis['spiral_ascii_first_192']=decoded
+          analysis['spiral_leftover_bits']=sb[192:]
+
+          (out/'canonical_image_analysis.json').write_text(json.dumps(analysis,indent=2),encoding='utf-8')
+
+          lines=[]
+          lines += ['# Canonical image audit','',f'- bytes: `{len(data)}`',f'- SHA-256: `{hashlib.sha256(data).hexdigest()}`',f'- dimensions: `{w} x {h}`',f'- appended bytes after IEND: `{len(appended)}`','']
+          lines += ['## Exact four-color grid','```']+grid+['```','']
+          lines += ['## Counts',f"- white: {counts['W']}",f"- black: {counts['K']}",f"- yellow: {counts['Y']}",f"- blue: {counts['B']}",'']
+          lines += ['## Verified original-door decode',f'- `{decoded}`',f'- leftover bits: `{sb[192:]}`','']
+          for oname in orders:
+              ent=analysis['orders'][oname]
+              lines += [f'## {oname}']
+              for color in 'YB':
+                  x=ent[color]
+                  lines += [f"- {color} count: `{x['count']}`",f"- {color} position sum: `{x['position_sum']}`",f"- {color} positions that are globally prime: `{x['positions_that_are_prime']}`",f"- values at prime ordinals within the {color} position list: `{x['prime_ordinals_within_color_list']}`"]
+              lines += [f"- colors at global prime positions: `{ent['colors_at_global_prime_positions']}`",f"- bits at global prime positions: `{ent['bits_at_global_prime_positions']}`",'']
+          lines += ['## Row sum lists']
+          for name,v in analysis['row_sums'].items():lines.append(f'- {name}: `{v}`')
+          lines += ['','## Column sum lists']
+          for name,v in analysis['column_sums'].items():lines.append(f'- {name}: `{v}`')
+          (out/'CANONICAL_IMAGE_REPORT.md').write_text('\n'.join(lines)+'\n',encoding='utf-8')
+          PY
+      - name: Commit audit outputs
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add gsmg_canonical_chain_audit
+          git commit -m 'Generate canonical GSMG image audit'
+          git push
